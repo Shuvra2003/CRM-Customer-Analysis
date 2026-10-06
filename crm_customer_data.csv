@@ -1,0 +1,2001 @@
+Customer_ID,Age,Gender,Location,Signup_Date,Last_Purchase_Date,Total_Purchases,Total_Spending,Average_Order_Value,Product_Category,Acquisition_Channel,Customer_Status
+CUST0001,53,Male,Lucknow,2022-01-05,2026-01-26,20,161866,8093.3,Electronics,Store,At Risk
+CUST0002,49,Male,Mumbai,2022-01-06,2025-02-17,4,64205,16051.25,Electronics,Email Campaign,Churned
+CUST0003,47,Female,Mumbai,2022-01-06,2025-10-10,5,47775,9555.0,Electronics,Website,At Risk
+CUST0004,61,Male,Bengaluru,2022-01-10,2024-03-04,4,29542,7385.5,Sports & Fitness,Social Media,Churned
+CUST0005,37,Male,Ahmedabad,2022-01-10,2025-07-23,3,800,266.67,Books,Website,Churned
+CUST0006,47,Male,Mumbai,2022-01-10,2022-01-15,1,1309,1309.0,Grocery,Social Media,Churned
+CUST0007,28,Female,Delhi,2022-01-13,2025-09-16,38,25953,682.97,Accessories,Website,At Risk
+CUST0008,23,Female,Chennai,2022-01-15,2024-08-06,8,14752,1844.0,Clothing,Organic Search,Churned
+CUST0009,52,Female,Kolkata,2022-01-18,2025-10-08,15,21618,1441.2,Clothing,Paid Ads,Churned
+CUST0010,18,Female,Pune,2022-01-21,2025-07-13,19,67628,3559.37,Sports & Fitness,Email Campaign,Churned
+CUST0011,41,Female,Bengaluru,2022-01-21,2025-11-27,19,24953,1313.32,Accessories,Website,At Risk
+CUST0012,27,Female,Jaipur,2022-01-23,2025-02-27,6,17562,2927.0,Sports & Fitness,Website,Churned
+CUST0013,31,Female,Bhubaneswar,2022-01-26,2024-12-08,12,25307,2108.92,Grocery,Website,Churned
+CUST0014,18,Male,Guwahati,2022-01-27,2023-12-03,2,5579,2789.5,Clothing,Website,Churned
+CUST0015,31,Female,Ahmedabad,2022-01-27,2024-08-31,11,28938,2630.73,Clothing,Website,Churned
+CUST0016,21,Male,Bengaluru,2022-01-27,2026-02-20,3,5639,1879.67,Beauty & Personal Care,Organic Search,At Risk
+CUST0017,32,Female,Bengaluru,2022-01-30,2025-10-26,4,11134,2783.5,Clothing,Organic Search,At Risk
+CUST0018,36,Male,Surat,2022-02-01,2025-03-01,14,42161,3011.5,,Website,Churned
+CUST0019,20,Male,Hyderabad,2022-02-02,2025-06-10,3,1965,655.0,Grocery,Email Campaign,Churned
+CUST0020,41,Male,Bhubaneswar,2022-02-05,2025-05-08,6,62506,10417.67,Electronics,Email Campaign,Churned
+CUST0021,53,Female,Hyderabad,2022-02-05,2025-07-30,8,15025,1878.12,Beauty & Personal Care,Social Media,At Risk
+CUST0022,18,Female,Pune,2022-02-06,2024-01-03,2,42938,21469.0,Electronics,Website,Churned
+CUST0023,28,Female,Pune,2022-02-06,2026-03-29,30,70039,2334.63,Sports & Fitness,Referral,Active
+CUST0024,25,Male,Bengaluru,2022-02-06,2024-05-05,2,1844,922.0,Books,Organic Search,Churned
+CUST0025,63,Female,Bengaluru,2022-02-06,2025-01-15,8,10181,1272.62,Accessories,Social Media,Churned
+CUST0026,32,Male,Jaipur,2022-02-10,2023-05-30,4,2525,631.25,Accessories,Paid Ads,Churned
+CUST0027,20,Male,Mumbai,2022-02-10,2022-11-01,2,11073,5536.5,Sports & Fitness,Organic Search,Churned
+CUST0028,34,Female,Chandigarh,2022-02-12,2026-07-23,4,2967,741.75,Clothing,Organic Search,Active
+CUST0029,21,Female,Kolkata,2022-02-12,2026-05-07,19,10049,528.89,Grocery,Social Media,Active
+CUST0030,26,Male,Chennai,2022-02-14,2022-12-05,9,25760,2862.22,Sports & Fitness,Website,Churned
+CUST0031,44,Male,Pune,2022-02-15,2026-02-22,2,7425,3712.5,Sports & Fitness,Social Media,At Risk
+CUST0032,32,Male,Delhi,2022-02-16,2025-05-02,9,16946,1882.89,Clothing,Organic Search,Churned
+CUST0033,33,Male,Delhi,2022-02-17,2025-09-07,4,3550,887.5,Grocery,Organic Search,Churned
+CUST0034,42,Male,Chennai,2022-02-23,2025-11-29,8,18114,2264.25,Clothing,Website,At Risk
+CUST0035,49,Male,Bengaluru,2022-02-28,2026-05-30,6,8586,1431.0,Grocery,Organic Search,Active
+CUST0036,35,Female,Hyderabad,2022-03-01,2025-09-20,11,15921,1447.36,Beauty & Personal Care,Social Media,At Risk
+CUST0037,23,Male,Mumbai,2022-03-01,2025-06-22,5,43466,8693.2,Electronics,Social Media,Churned
+CUST0038,32,Male,Kolkata,2022-03-03,2026-06-24,47,188228,4004.85,Clothing,Organic Search,Active
+CUST0039,35,Male,Bengaluru,2022-03-03,2024-10-31,3,11922,3974.0,Beauty & Personal Care,Website,Churned
+CUST0040,31,Female,Surat,2022-03-05,2022-04-03,1,5332,5332.0,Home & Kitchen,Email Campaign,Churned
+CUST0041,38,Male,Delhi,2022-03-07,2026-03-15,12,17369,1447.42,Sports & Fitness,Website,At Risk
+CUST0042,26,Female,Delhi,2022-03-07,2025-11-12,7,76269,10895.57,,Email Campaign,At Risk
+CUST0043,48,Female,Mumbai,2022-03-07,2025-09-04,8,7474,934.25,Books,Social Media,Churned
+CUST0044,37,Male,Mumbai,2022-03-08,2024-12-23,13,80974,6228.77,Home & Kitchen,Organic Search,Churned
+CUST0045,18,Female,Surat,2022-03-10,2024-12-21,12,5977,498.08,Grocery,Store,Churned
+CUST0046,32,Male,Lucknow,2022-03-10,2026-08-06,12,207328,17277.33,Electronics,Store,Active
+CUST0047,39,Male,Delhi,2022-03-10,2022-05-18,1,10582,10582.0,Electronics,Website,Churned
+CUST0048,36,Male,Kolkata,2022-03-11,2026-07-25,19,148550,7818.42,Electronics,Email Campaign,Active
+CUST0049,65,Male,Kolkata,2022-03-12,2025-09-24,2,6138,3069.0,Clothing,Social Media,At Risk
+CUST0050,23,Male,Mumbai,2022-03-13,2025-05-06,7,27499,3928.43,Sports & Fitness,Referral,Churned
+CUST0051,19,Male,Nagpur,2022-03-13,2025-05-28,3,2869,956.33,Grocery,Paid Ads,Churned
+CUST0052,40,Male,Kolkata,2022-03-18,2026-06-20,17,19239,1131.71,Beauty & Personal Care,Social Media,Active
+CUST0053,29,Male,Bengaluru,2022-03-19,2025-06-26,2,2767,1383.5,Accessories,Social Media,Churned
+CUST0054,29,Female,Kolkata,2022-03-19,2025-01-21,3,3336,1112.0,Beauty & Personal Care,Paid Ads,Churned
+CUST0055,40,Female,Delhi,2022-03-21,2024-08-13,1,3763,3763.0,Home & Kitchen,Website,Churned
+CUST0056,24,Female,Lucknow,2022-03-21,2025-01-29,3,1520,506.67,Accessories,Website,Churned
+CUST0057,21,Male,Delhi,2022-03-22,2026-01-07,7,7429,1061.29,Beauty & Personal Care,Email Campaign,At Risk
+CUST0058,22,Male,Delhi,2022-03-22,2026-07-18,3,3972,1324.0,Accessories,Paid Ads,Active
+CUST0059,38,Male,Chennai,2022-03-23,2026-08-21,3,2400,800.0,Grocery,Email Campaign,Active
+CUST0060,50,Female,Pune,2022-03-24,2026-03-28,5,18430,3686.0,Home & Kitchen,Paid Ads,At Risk
+CUST0061,26,Male,Delhi,2022-03-24,2025-03-08,4,20579,5144.75,Clothing,Referral,Churned
+CUST0062,18,Male,Mumbai,2022-03-26,2026-04-25,6,10930,1821.67,Clothing,Referral,Active
+CUST0063,38,Male,Chennai,2022-03-29,2026-03-07,31,47136,1520.52,Home & Kitchen,Organic Search,Active
+CUST0064,23,Female,Pune,2022-03-30,2025-10-18,14,12757,911.21,Accessories,Social Media,At Risk
+CUST0065,38,Female,Mumbai,2022-03-31,2026-01-11,4,17809,4452.25,Sports & Fitness,Referral,Active
+CUST0066,28,Male,Ahmedabad,2022-04-01,2024-09-18,9,26363,2929.22,Home & Kitchen,Social Media,Churned
+CUST0067,43,Male,Mumbai,2022-04-06,2025-02-05,5,4858,971.6,Grocery,Email Campaign,Churned
+CUST0068,26,Female,Kolkata,2022-04-11,2023-07-16,2,2607,1303.5,Home & Kitchen,Social Media,Churned
+CUST0069,35,Other,Jaipur,2022-04-17,2026-08-01,5,13813,2762.6,,Website,Active
+CUST0070,18,Female,Pune,2022-04-17,2026-06-22,6,18381,3063.5,Home & Kitchen,Paid Ads,Active
+CUST0071,25,Female,Delhi,2022-04-20,2025-10-31,5,42369,8473.8,Electronics,Social Media,At Risk
+CUST0072,37,Female,Kolkata,2022-04-24,2022-05-21,1,6250,6250.0,Electronics,Paid Ads,Churned
+CUST0073,45,Female,Delhi,2022-04-24,2025-08-11,4,34964,8741.0,Clothing,Paid Ads,Churned
+CUST0074,36,Male,Ahmedabad,2022-04-27,2026-07-01,17,63210,3718.24,Sports & Fitness,Website,Active
+CUST0075,33,Female,Kolkata,2022-04-27,2025-10-24,8,20201,2525.12,Clothing,Website,At Risk
+CUST0076,27,Female,Surat,2022-04-29,2025-10-20,2,4811,2405.5,Home & Kitchen,Paid Ads,Churned
+CUST0077,33,Female,Hyderabad,2022-04-30,2026-02-18,8,26876,3359.5,Grocery,Organic Search,At Risk
+CUST0078,22,Female,Ahmedabad,2022-05-02,2025-12-19,36,26479,735.53,Grocery,Organic Search,Active
+CUST0079,37,Female,Delhi,2022-05-04,2025-10-17,2,3972,1986.0,Clothing,Store,At Risk
+CUST0080,50,Female,Bengaluru,2022-05-05,2026-05-05,3,14983,4994.33,Clothing,Website,Active
+CUST0081,28,Female,Mumbai,2022-05-06,2025-07-06,8,3886,485.75,Grocery,Paid Ads,Churned
+CUST0082,18,Female,Hyderabad,2022-05-07,2026-04-14,2,1186,593.0,Grocery,Paid Ads,Active
+CUST0083,25,Male,Visakhapatnam,2022-05-08,2025-08-16,4,17084,4271.0,Clothing,Store,Churned
+CUST0084,30,Male,Mumbai,2022-05-09,2026-08-21,35,36925,1055.0,Grocery,Organic Search,Active
+CUST0085,27,Female,Mumbai,2022-05-13,2025-07-01,14,102253,7303.79,Electronics,Paid Ads,Churned
+CUST0086,43,Male,Kolkata,2022-05-13,2025-07-27,4,30220,7555.0,Home & Kitchen,Store,Churned
+CUST0087,41,Male,Pune,2022-05-13,2025-05-25,9,7616,846.22,Books,Website,Churned
+CUST0088,25,Male,Mumbai,2022-05-13,2026-01-07,25,35389,1415.56,Sports & Fitness,Social Media,Active
+CUST0089,42,Female,Mumbai,2022-05-14,2024-06-06,2,5197,2598.5,Home & Kitchen,Organic Search,Churned
+CUST0090,47,Female,Delhi,2022-05-20,2026-04-09,26,126565,4867.88,Home & Kitchen,Organic Search,Active
+CUST0091,59,Female,Bengaluru,2022-05-22,2026-01-18,23,111715,4857.17,Clothing,Website,Active
+CUST0092,30,Other,Delhi,2022-05-23,2025-12-17,3,37494,12498.0,Electronics,Organic Search,At Risk
+CUST0093,33,Female,Kolkata,2022-05-23,2026-06-08,11,19624,1784.0,Clothing,Website,Active
+CUST0094,45,Female,Hyderabad,2022-05-24,2026-01-06,4,8771,2192.75,Clothing,Referral,At Risk
+CUST0095,19,Male,Chandigarh,2022-05-24,2023-05-06,1,1698,1698.0,Sports & Fitness,Website,Churned
+CUST0096,50,Female,Bhubaneswar,2022-05-24,2026-03-11,19,16159,850.47,Grocery,Social Media,Active
+CUST0097,26,Male,Pune,2022-05-25,2024-09-27,14,116077,8291.21,Electronics,Paid Ads,Churned
+CUST0098,24,Female,Bengaluru,2022-05-25,2025-12-10,2,6220,3110.0,Home & Kitchen,Website,At Risk
+CUST0099,30,Male,Guwahati,2022-05-25,2024-12-02,5,3077,615.4,Books,Website,Churned
+CUST0100,39,Female,Pune,2022-05-26,2022-05-28,1,4129,4129.0,Clothing,Social Media,Churned
+CUST0101,38,Female,Mumbai,2022-05-27,2026-07-21,3,2466,822.0,Books,Organic Search,Active
+CUST0102,44,Female,Bhubaneswar,2022-05-30,2026-01-11,7,7974,1139.14,Beauty & Personal Care,Website,At Risk
+CUST0103,28,Male,Hyderabad,2022-06-02,2025-01-09,3,8742,2914.0,Clothing,Social Media,Churned
+CUST0104,51,Female,Hyderabad,2022-06-02,2025-08-21,3,2108,702.67,Beauty & Personal Care,Website,Churned
+CUST0105,37,Male,Kolkata,2022-06-03,2022-07-01,1,831,831.0,Books,Website,Churned
+CUST0106,45,Female,Kolkata,2022-06-03,2026-08-07,1,3243,3243.0,Clothing,Website,Active
+CUST0107,24,Female,Chandigarh,2022-06-03,2026-08-27,2,9054,4527.0,Clothing,Referral,Active
+CUST0108,32,Female,Bengaluru,2022-06-07,2025-07-13,6,17205,2867.5,Home & Kitchen,Organic Search,Churned
+CUST0109,51,Female,Delhi,2022-06-08,2025-02-27,3,8198,2732.67,Home & Kitchen,Paid Ads,Churned
+CUST0110,35,Female,Hyderabad,2022-06-08,2025-10-19,4,4229,1057.25,Clothing,Paid Ads,At Risk
+CUST0111,19,Male,Jaipur,2022-06-08,2026-07-08,3,10405,3468.33,Home & Kitchen,Email Campaign,Active
+CUST0112,22,Male,Mumbai,2022-06-09,2025-12-20,3,7006,2335.33,Sports & Fitness,Organic Search,At Risk
+CUST0113,32,Male,Mumbai,2022-06-10,2025-06-15,3,27701,9233.67,Electronics,Organic Search,Churned
+CUST0114,22,Male,Chandigarh,2022-06-11,2026-01-27,32,195705,6115.78,Home & Kitchen,Email Campaign,Active
+CUST0115,49,Male,Chennai,2022-06-13,2025-10-30,5,19055,3811.0,Sports & Fitness,Paid Ads,Churned
+CUST0116,25,Female,Delhi,2022-06-13,2024-03-21,7,11631,1661.57,Clothing,Paid Ads,Churned
+CUST0117,18,Female,Delhi,2022-06-13,2025-10-19,5,29479,5895.8,Electronics,Social Media,At Risk
+CUST0118,26,Female,Ahmedabad,2022-06-14,2026-04-14,21,45912,2186.29,Sports & Fitness,Paid Ads,Active
+CUST0119,41,Female,Delhi,2022-06-15,2022-07-25,1,1921,1921.0,Books,Email Campaign,Churned
+CUST0120,43,Female,Delhi,2022-06-20,2024-11-04,7,45013,6430.43,Clothing,Email Campaign,Churned
+CUST0121,37,Female,Kolkata,2022-06-21,2025-06-09,16,16909,1056.81,Clothing,Store,Churned
+CUST0122,18,Male,Bengaluru,2022-06-21,2026-05-31,15,13976,931.73,Accessories,Referral,Active
+CUST0123,27,Female,Bengaluru,2022-06-21,2026-02-23,7,12010,1715.71,Clothing,Organic Search,Active
+CUST0124,37,Female,Mumbai,2022-06-23,2024-05-10,11,9640,876.36,Grocery,Email Campaign,Churned
+CUST0125,30,Female,Ahmedabad,2022-06-24,2026-01-11,20,29363,1468.15,Clothing,Organic Search,Active
+CUST0126,46,Male,Kolkata,2022-06-24,2025-05-29,8,151623,18952.88,Electronics,Website,Churned
+CUST0127,36,Female,Delhi,2022-06-26,2026-07-04,10,52556,5255.6,Sports & Fitness,Paid Ads,Active
+CUST0128,27,Male,Mumbai,2022-06-26,2026-05-18,18,56946,3163.67,Clothing,Referral,Active
+CUST0129,40,Male,Ahmedabad,2022-06-29,2025-12-15,2,1902,951.0,Accessories,Paid Ads,At Risk
+CUST0130,45,Female,Kolkata,2022-06-29,2025-10-21,15,54173,3611.53,Clothing,Email Campaign,At Risk
+CUST0131,46,Other,Lucknow,2022-07-02,2026-01-28,5,11211,2242.2,Sports & Fitness,Social Media,At Risk
+CUST0132,31,Female,Bengaluru,2022-07-03,2024-09-02,7,7449,1064.14,Grocery,Social Media,Churned
+CUST0133,22,Male,Hyderabad,2022-07-06,2025-08-12,8,51356,6419.5,Electronics,Website,Churned
+CUST0134,33,Female,Chennai,2022-07-08,2024-10-27,2,1947,973.5,Accessories,Store,Churned
+CUST0135,47,Female,Delhi,2022-07-08,2025-02-21,2,4879,2439.5,Clothing,Store,Churned
+CUST0136,24,Female,Pune,2022-07-09,2025-08-15,2,3167,1583.5,Clothing,Store,Churned
+CUST0137,29,Male,Chennai,2022-07-10,2025-03-27,12,16572,1381.0,Grocery,Organic Search,Churned
+CUST0138,26,Female,Jaipur,2022-07-11,2026-02-09,6,8955,1492.5,Home & Kitchen,Social Media,At Risk
+CUST0139,42,Female,Bengaluru,2022-07-11,2026-09-09,4,16738,4184.5,Clothing,Website,Active
+CUST0140,23,Female,Hyderabad,2022-07-12,2024-03-27,3,5707,1902.33,Beauty & Personal Care,Website,Churned
+CUST0141,34,Male,Surat,2022-07-15,2025-12-26,2,29463,14731.5,Electronics,Social Media,At Risk
+CUST0142,32,Male,Kochi,2022-07-16,2026-03-07,3,15018,5006.0,Electronics,Social Media,At Risk
+CUST0143,37,Female,Nagpur,2022-07-17,2022-07-20,1,2989,2989.0,Electronics,Website,Churned
+CUST0144,32,Male,Bengaluru,2022-07-18,2022-07-19,1,4227,4227.0,Home & Kitchen,Paid Ads,Churned
+CUST0145,24,Male,Jaipur,2022-07-18,2026-07-26,17,38649,2273.47,Electronics,Social Media,Active
+CUST0146,43,Male,Hyderabad,2022-07-18,2026-05-05,6,5875,979.17,Grocery,Paid Ads,At Risk
+CUST0147,49,Female,Mumbai,2022-07-19,2025-07-17,6,44668,7444.67,Home & Kitchen,Organic Search,Churned
+CUST0148,30,Female,Mumbai,2022-07-21,2026-01-30,3,25015,8338.33,Electronics,Website,At Risk
+CUST0149,33,Male,Chennai,2022-07-22,2025-10-19,8,45468,5683.5,Sports & Fitness,Social Media,At Risk
+CUST0150,18,Male,Mumbai,2022-07-23,2023-12-21,2,8254,4127.0,Clothing,Social Media,Churned
+CUST0151,47,Male,Delhi,2022-07-24,2026-01-10,3,27749,9249.67,Electronics,Social Media,At Risk
+CUST0152,42,Male,Kolkata,2022-07-24,2026-03-22,9,27645,3071.67,Sports & Fitness,Website,Active
+CUST0153,31,Male,Kolkata,2022-07-26,2026-08-15,32,68753,2148.53,Sports & Fitness,Website,Active
+CUST0154,38,Female,Patna,2022-07-27,2025-08-27,14,54142,3867.29,Clothing,Organic Search,At Risk
+CUST0155,47,Male,Pune,2022-07-28,2025-08-25,9,23754,2639.33,Home & Kitchen,Website,Churned
+CUST0156,31,Female,Bengaluru,2022-07-29,2024-11-12,15,136441,9096.07,Electronics,Email Campaign,Churned
+CUST0157,43,Female,Mumbai,2022-07-29,2026-01-04,4,6580,1645.0,Accessories,Store,At Risk
+CUST0158,39,Male,Surat,2022-07-31,2026-06-22,9,38068,4229.78,Clothing,Store,Active
+CUST0159,30,Male,Kolkata,2022-08-01,2026-02-05,33,91571,2774.88,Clothing,Email Campaign,Active
+CUST0160,36,Female,,2022-08-01,2026-03-01,7,8839,1262.71,Beauty & Personal Care,Referral,Active
+CUST0161,29,Female,Chennai,2022-08-01,2025-10-31,9,10383,1153.67,Beauty & Personal Care,Website,At Risk
+CUST0162,19,Male,Hyderabad,2022-08-01,2026-03-24,6,45867,7644.5,Electronics,Organic Search,Active
+CUST0163,28,Male,Hyderabad,2022-08-03,2025-11-12,8,19750,2468.75,,Social Media,At Risk
+CUST0164,37,Female,Chennai,2022-08-03,2026-06-20,30,32195,1073.17,Clothing,Social Media,Active
+CUST0165,22,Male,Chennai,2022-08-04,2024-04-02,6,5562,927.0,Clothing,Website,Churned
+CUST0166,46,Male,Nagpur,2022-08-04,2025-07-01,2,8904,4452.0,Home & Kitchen,Referral,Churned
+CUST0167,18,Female,Chennai,2022-08-05,2026-07-28,33,24152,731.88,Beauty & Personal Care,Email Campaign,Active
+CUST0168,24,Male,Hyderabad,2022-08-06,2025-11-21,2,4437,2218.5,Clothing,Website,At Risk
+CUST0169,34,Female,Delhi,2022-08-07,2026-05-07,8,7771,971.38,Grocery,Organic Search,Active
+CUST0170,34,Female,Delhi,2022-08-10,2023-10-21,2,8443,4221.5,Clothing,Organic Search,Churned
+CUST0171,39,Female,Mumbai,2022-08-11,2026-02-03,2,1827,913.5,Grocery,Website,At Risk
+CUST0172,33,Female,Delhi,2022-08-11,2025-12-03,1,6873,6873.0,Electronics,Website,At Risk
+CUST0173,46,Male,Guwahati,2022-08-11,2025-10-25,4,3596,899.0,Accessories,Social Media,At Risk
+CUST0174,28,Male,Kolkata,2022-08-12,2026-06-18,9,7983,887.0,Grocery,Website,Active
+CUST0175,37,Female,Patna,2022-08-12,2026-07-23,2,1327,663.5,Accessories,Paid Ads,Active
+CUST0176,26,Male,Delhi,2022-08-13,2026-04-23,16,8652,540.75,Beauty & Personal Care,Website,Active
+CUST0177,42,Male,Delhi,2022-08-13,2026-08-02,4,12938,3234.5,Home & Kitchen,Organic Search,Active
+CUST0178,43,Male,Bengaluru,2022-08-14,2024-12-09,2,1988,994.0,Grocery,Organic Search,Churned
+CUST0179,29,Female,Lucknow,2022-08-15,2025-12-17,11,172732,15702.91,Electronics,Website,At Risk
+CUST0180,32,Female,Guwahati,2022-08-18,2026-05-08,10,13771,1377.1,Clothing,Organic Search,Active
+CUST0181,24,Female,Pune,2022-08-19,2026-08-29,7,18563,2651.86,Sports & Fitness,Social Media,Active
+CUST0182,29,Female,Chandigarh,2022-08-21,2026-02-03,7,10074,1439.14,Sports & Fitness,Paid Ads,Active
+CUST0183,18,Male,Ahmedabad,2022-08-22,2026-08-09,6,28500,4750.0,Electronics,Paid Ads,Active
+CUST0184,29,Female,Indore,2022-08-23,2026-04-04,15,9671,644.73,Beauty & Personal Care,Paid Ads,Active
+CUST0185,31,Male,Indore,2022-08-23,2026-04-14,4,16858,4214.5,Electronics,Paid Ads,At Risk
+CUST0186,38,Male,Nagpur,2022-08-23,2026-05-18,5,38239,7647.8,Sports & Fitness,Referral,Active
+CUST0187,28,Male,Chennai,2022-08-24,2026-03-31,14,70033,5002.36,Sports & Fitness,Paid Ads,Active
+CUST0188,53,,Delhi,2022-08-25,2025-08-02,6,14499,2416.5,Beauty & Personal Care,Website,Churned
+CUST0189,32,Male,Hyderabad,2022-08-26,2024-12-23,4,10713,2678.25,Sports & Fitness,Paid Ads,Churned
+CUST0190,27,Male,Indore,2022-08-27,2026-04-29,22,44784,2035.64,Accessories,Referral,Active
+CUST0191,24,Female,Mumbai,2022-08-27,2024-05-11,10,135406,13540.6,Electronics,Organic Search,Churned
+CUST0192,43,Female,Pune,2022-08-30,2022-09-20,1,3768,3768.0,Sports & Fitness,Organic Search,Churned
+CUST0193,37,Male,Bengaluru,2022-08-31,2026-03-25,23,190556,8285.04,Electronics,Organic Search,Active
+CUST0194,57,Male,Delhi,2022-09-01,2025-07-07,3,5217,1739.0,Books,Email Campaign,Churned
+CUST0195,29,Male,Mumbai,2022-09-01,2025-08-13,7,23673,3381.86,Clothing,Organic Search,Churned
+CUST0196,23,Female,Bhubaneswar,2022-09-02,2025-08-05,15,19849,1323.27,Clothing,Organic Search,Churned
+CUST0197,30,Male,Pune,2022-09-03,2026-05-29,5,88570,17714.0,Electronics,Website,Active
+CUST0198,25,Female,Delhi,2022-09-03,2025-03-14,2,3355,1677.5,Clothing,Website,Churned
+CUST0199,38,Female,Jaipur,2022-09-09,2024-01-12,2,7471,3735.5,Home & Kitchen,Social Media,Churned
+CUST0200,54,,Kochi,2022-09-11,2026-03-15,30,21847,728.23,Books,Website,Active
+CUST0201,32,Male,Delhi,2022-09-12,2026-03-11,16,141142,8821.38,Electronics,Paid Ads,Active
+CUST0202,39,Male,Jaipur,2022-09-15,2025-07-03,16,18664,1166.5,Clothing,Store,Churned
+CUST0203,31,Male,Chandigarh,2022-09-15,2024-08-07,7,14516,2073.71,Clothing,Website,Churned
+CUST0204,34,Male,Delhi,2022-09-16,2026-07-06,9,5617,624.11,Books,Website,Active
+CUST0205,27,Female,Kolkata,2022-09-16,2025-08-18,6,56834,9472.33,Electronics,Website,Churned
+CUST0206,40,Female,Chennai,2022-09-18,2025-11-13,6,4248,708.0,Grocery,Paid Ads,At Risk
+CUST0207,47,Male,Bengaluru,2022-09-22,2026-04-27,4,41300,10325.0,Electronics,Social Media,Active
+CUST0208,30,Male,Nagpur,2022-09-22,2025-07-11,4,18970,4742.5,Electronics,Organic Search,Churned
+CUST0209,24,Female,Kolkata,2022-09-23,2026-04-28,3,5226,1742.0,Beauty & Personal Care,Organic Search,Active
+CUST0210,33,Female,Delhi,2022-09-24,2023-10-10,6,7956,1326.0,Beauty & Personal Care,Organic Search,Churned
+CUST0211,47,Female,Delhi,2022-09-26,2023-08-16,2,2799,1399.5,Home & Kitchen,Website,Churned
+CUST0212,31,Female,Mumbai,2022-09-27,2026-05-18,8,6254,781.75,Grocery,Website,Active
+CUST0213,45,Male,Nagpur,2022-09-28,2026-07-20,2,4573,2286.5,Accessories,Website,Active
+CUST0214,25,Female,Ahmedabad,2022-09-28,2026-01-06,7,29458,4208.29,Home & Kitchen,Paid Ads,At Risk
+CUST0215,31,Female,Jaipur,2022-09-30,2026-06-07,15,157836,10522.4,Electronics,Website,Active
+CUST0216,41,Female,Hyderabad,2022-10-02,2026-03-30,11,75074,6824.91,Electronics,Email Campaign,Active
+CUST0217,35,Male,Patna,2022-10-03,2026-02-08,13,58648,4511.38,Electronics,Email Campaign,At Risk
+CUST0218,29,Male,Chennai,2022-10-03,2026-07-26,7,105367,15052.43,Electronics,Website,Active
+CUST0219,47,Female,Bengaluru,2022-10-06,2025-12-09,5,11974,2394.8,Home & Kitchen,Social Media,At Risk
+CUST0220,32,Female,Surat,2022-10-06,2025-08-11,2,5752,2876.0,Beauty & Personal Care,Email Campaign,Churned
+CUST0221,33,Male,Mumbai,2022-10-09,2026-01-12,4,15787,3946.75,Clothing,Website,At Risk
+CUST0222,30,Male,Guwahati,2022-10-09,2026-02-19,4,14248,3562.0,Electronics,Store,At Risk
+CUST0223,28,Female,Hyderabad,2022-10-10,2026-06-08,13,42852,3296.31,Beauty & Personal Care,Social Media,Active
+CUST0224,34,Female,Kolkata,2022-10-12,2026-05-04,1,1933,1933.0,Clothing,Paid Ads,Active
+CUST0225,43,Female,Mumbai,2022-10-13,2024-10-25,7,18106,2586.57,Beauty & Personal Care,Social Media,Churned
+CUST0226,48,Female,Mumbai,2022-10-13,2026-06-30,7,21111,3015.86,Grocery,Social Media,Active
+CUST0227,55,Female,Bengaluru,2022-10-13,2026-05-18,15,169011,11267.4,Home & Kitchen,Website,Active
+CUST0228,25,Female,Pune,2022-10-14,2024-06-15,2,1440,720.0,Grocery,Referral,Churned
+CUST0229,34,Female,Mumbai,2022-10-14,2025-10-10,12,62114,5176.17,Home & Kitchen,Website,At Risk
+CUST0230,38,Female,Delhi,2022-10-14,2026-03-07,15,13800,920.0,Grocery,Email Campaign,Active
+CUST0231,37,Female,Delhi,2022-10-18,2026-08-15,8,7848,981.0,Accessories,Website,Active
+CUST0232,31,Male,Bhubaneswar,2022-10-18,2026-04-19,10,24382,2438.2,Clothing,Store,At Risk
+CUST0233,18,Female,Hyderabad,2022-10-22,2024-09-09,8,100125,12515.62,Electronics,Organic Search,Churned
+CUST0234,56,Female,Delhi,2022-10-23,2026-04-14,5,29028,5805.6,Sports & Fitness,Social Media,Active
+CUST0235,40,Male,Pune,2022-10-26,2026-02-15,8,69769,8721.12,Clothing,Email Campaign,At Risk
+CUST0236,38,Female,Bengaluru,2022-10-26,2025-05-09,10,14856,1485.6,Beauty & Personal Care,Referral,Churned
+CUST0237,31,Female,Chandigarh,2022-10-28,2025-09-01,6,7809,1301.5,Accessories,Website,Churned
+CUST0238,44,Female,Chandigarh,2022-10-29,2026-07-16,4,6746,1686.5,Clothing,Social Media,Active
+CUST0239,23,Female,Patna,2022-10-29,2026-04-30,30,17768,592.27,Accessories,Organic Search,Active
+CUST0240,50,Female,Bengaluru,2022-10-30,2026-06-28,2,18581,9290.5,Home & Kitchen,Website,Active
+CUST0241,49,Male,Bhubaneswar,2022-10-31,2026-05-15,1,615,615.0,Books,Website,At Risk
+CUST0242,47,Female,Bengaluru,2022-10-31,2024-09-25,4,53834,13458.5,Electronics,Paid Ads,Churned
+CUST0243,49,Male,Indore,2022-11-01,2024-01-25,3,12316,4105.33,Clothing,Social Media,Churned
+CUST0244,40,Male,Patna,2022-11-01,2025-09-04,14,137298,9807.0,Electronics,Paid Ads,Churned
+CUST0245,51,Male,Lucknow,2022-11-01,2023-07-29,3,6407,2135.67,Clothing,Website,Churned
+CUST0246,34,Male,Pune,2022-11-01,2024-11-23,3,8023,2674.33,Home & Kitchen,Website,Churned
+CUST0247,39,Male,Kolkata,2022-11-01,2026-08-04,12,26786,2232.17,Clothing,Social Media,Active
+CUST0248,22,,Mumbai,2022-11-05,2024-07-03,4,20203,5050.75,Clothing,Organic Search,Churned
+CUST0249,35,Male,Surat,2022-11-05,2024-07-30,4,6699,1674.75,Accessories,Paid Ads,Churned
+CUST0250,25,Female,Chandigarh,2022-11-07,2025-12-23,5,6999,1399.8,,Email Campaign,At Risk
+CUST0251,31,Female,Mumbai,2022-11-07,2026-07-10,10,56781,5678.1,Electronics,Website,Active
+CUST0252,19,Male,Jaipur,2022-11-07,2024-09-11,8,4500,562.5,Grocery,Social Media,Churned
+CUST0253,38,Female,Pune,2022-11-09,2025-11-11,34,28164,828.35,Beauty & Personal Care,Email Campaign,At Risk
+CUST0254,18,Male,Hyderabad,2022-11-09,2025-09-05,12,146755,12229.58,Electronics,Paid Ads,Churned
+CUST0255,36,Female,Kolkata,2022-11-09,2026-07-14,50,103372,2067.44,Beauty & Personal Care,Organic Search,Active
+CUST0256,22,Female,Mumbai,2022-11-10,2026-05-28,14,9119,651.36,Grocery,Website,Active
+CUST0257,25,Male,Surat,2022-11-11,2025-08-24,6,6181,1030.17,Accessories,Paid Ads,At Risk
+CUST0258,37,Female,Lucknow,2022-11-11,2026-08-14,27,44091,1633.0,Clothing,Organic Search,Active
+CUST0259,35,Female,Kolkata,2022-11-13,2026-01-23,2,3138,1569.0,Clothing,Email Campaign,At Risk
+CUST0260,22,Female,Delhi,2022-11-14,2026-01-13,3,26826,8942.0,Electronics,Email Campaign,At Risk
+CUST0261,18,Female,Bengaluru,2022-11-14,2026-01-26,21,141397,6733.19,Electronics,Website,Active
+CUST0262,34,Female,Ahmedabad,2022-11-16,2025-10-08,7,9699,1385.57,Accessories,Website,Churned
+CUST0263,34,Male,Chennai,2022-11-17,2024-10-27,6,9315,1552.5,Grocery,Website,Churned
+CUST0264,44,Female,Bhubaneswar,2022-11-18,2024-03-08,1,1228,1228.0,Grocery,Website,Churned
+CUST0265,47,Male,Guwahati,2022-11-20,2025-09-17,20,24482,1224.1,Clothing,Referral,At Risk
+CUST0266,40,Male,Indore,2022-11-20,2026-03-30,13,14658,1127.54,Grocery,Email Campaign,Active
+CUST0267,52,Male,Mumbai,2022-11-21,2024-04-23,2,10209,5104.5,Home & Kitchen,Social Media,Churned
+CUST0268,40,Female,Visakhapatnam,2022-11-23,2026-02-05,26,91017,3500.65,Home & Kitchen,Website,Active
+CUST0269,21,Male,Ranchi,2022-11-23,2025-01-09,4,14255,3563.75,Clothing,Email Campaign,Churned
+CUST0270,45,Male,Delhi,2022-11-24,2026-03-17,40,241875,6046.88,Electronics,Social Media,Active
+CUST0271,47,Male,Hyderabad,2022-11-25,2026-06-15,15,8177,545.13,Beauty & Personal Care,Paid Ads,Active
+CUST0272,41,Female,Delhi,2022-11-25,2025-08-29,4,8765,2191.25,Clothing,Paid Ads,Churned
+CUST0273,21,Female,Hyderabad,2022-11-25,2026-01-29,4,5652,1413.0,Clothing,Website,At Risk
+CUST0274,29,Female,Bengaluru,2022-11-28,2026-03-28,1,1618,1618.0,Clothing,Paid Ads,At Risk
+CUST0275,33,Female,Pune,2022-11-28,2022-12-01,1,1946,1946.0,Beauty & Personal Care,Organic Search,Churned
+CUST0276,24,Male,Kolkata,2022-11-29,2026-02-01,9,58211,6467.89,Clothing,Referral,At Risk
+CUST0277,50,Female,Bengaluru,2022-11-30,2025-04-25,6,20181,3363.5,Grocery,Referral,Churned
+CUST0278,38,Female,Hyderabad,2022-12-01,2024-04-22,5,7905,1581.0,Clothing,Social Media,Churned
+CUST0279,44,Female,Chennai,2022-12-01,2025-04-17,6,39847,6641.17,Electronics,Website,Churned
+CUST0280,46,Female,Mumbai ,2022-12-01,2026-01-22,6,6800,1133.33,Books,Website,At Risk
+CUST0281,25,Female,Chandigarh,2022-12-02,2026-03-24,18,32796,1822.0,Beauty & Personal Care,Email Campaign,Active
+CUST0282,27,Female,Kolkata,2022-12-03,2025-12-24,7,20941,2991.57,Clothing,Paid Ads,At Risk
+CUST0283,37,Female,Guwahati,2022-12-03,2026-05-06,4,16443,4110.75,Home & Kitchen,Store,At Risk
+CUST0284,29,Male,Kolkata,2022-12-03,2026-03-01,16,35954,2247.12,Beauty & Personal Care,Paid Ads,Active
+CUST0285,29,Female,Surat,2022-12-04,2026-08-22,12,57754,4812.83,Home & Kitchen,Email Campaign,Active
+CUST0286,30,Male,Surat,2022-12-05,2025-09-30,8,114936,14367.0,Electronics,Website,At Risk
+CUST0287,33,Male,Chennai,2022-12-06,2026-05-18,15,30661,2044.07,Home & Kitchen,Organic Search,Active
+CUST0288,31,Male,Nagpur,2022-12-06,2025-10-01,14,49317,3522.64,Electronics,Paid Ads,At Risk
+CUST0289,28,Male,Kolkata,2022-12-06,2025-04-25,4,39987,9996.75,Electronics,Store,Churned
+CUST0290,37,Male,Lucknow,2022-12-08,2025-06-19,17,43756,2573.88,Clothing,Store,Churned
+CUST0291,36,Male,Hyderabad,2022-12-10,2024-11-05,6,10048,1674.67,Clothing,Website,Churned
+CUST0292,29,Female,Bengaluru,2022-12-13,2025-03-28,7,10221,1460.14,Beauty & Personal Care,Store,Churned
+CUST0293,30,Female,Hyderabad,2022-12-13,2026-05-31,22,46311,2105.05,Beauty & Personal Care,Social Media,Active
+CUST0294,26,Other,Delhi,2022-12-14,2026-02-27,4,18522,4630.5,Sports & Fitness,Social Media,At Risk
+CUST0295,31,Female,Pune,2022-12-14,2026-06-15,16,63707,3981.69,Home & Kitchen,Email Campaign,Active
+CUST0296,37,Female,Pune,2022-12-16,2024-12-21,3,4859,1619.67,Clothing,Website,Churned
+CUST0297,18,Female,Mumbai,2022-12-17,2024-03-06,2,3390,1695.0,Clothing,Website,Churned
+CUST0298,34,Female,Pune,2022-12-18,2022-12-19,1,1053,1053.0,Beauty & Personal Care,Email Campaign,Churned
+CUST0299,51,Female,Patna,2022-12-20,2025-12-26,31,67198,2167.68,Clothing,Store,Active
+CUST0300,32,Male,Pune,2022-12-22,2025-04-24,9,33191,3687.89,Clothing,Referral,Churned
+CUST0301,27,Male,Kolkata,2022-12-23,2025-10-14,2,5199,2599.5,Clothing,Paid Ads,Churned
+CUST0302,62,Female,Hyderabad,2022-12-24,2026-08-27,3,12023,4007.67,Home & Kitchen,Paid Ads,Active
+CUST0303,40,Male,Ahmedabad,2022-12-24,2026-09-08,27,29386,1088.37,Grocery,Organic Search,Active
+CUST0304,48,Female,Mumbai,2022-12-25,2025-04-08,8,17449,2181.12,Clothing,Organic Search,Churned
+CUST0305,36,Other,Bengaluru,2022-12-25,2024-09-23,1,2649,2649.0,Beauty & Personal Care,Website,Churned
+CUST0306,34,Male,Surat,2022-12-26,2024-01-13,2,5311,2655.5,Clothing,Social Media,Churned
+CUST0307,18,Male,Bengaluru,2022-12-27,2026-07-14,36,66884,1857.89,Sports & Fitness,Organic Search,Active
+CUST0308,35,Male,Bhubaneswar,2022-12-27,2026-09-05,15,74246,4949.73,Home & Kitchen,Referral,Active
+CUST0309,20,Male,Patna,2022-12-27,2026-08-23,26,19266,741.0,Clothing,Paid Ads,Active
+CUST0310,32,Male,Bengaluru,2022-12-27,2026-02-20,16,103267,6454.19,Clothing,Organic Search,At Risk
+CUST0311,19,Female,Jaipur,2022-12-29,2026-05-18,18,19941,1107.83,Grocery,Organic Search,Active
+CUST0312,36,Female,Mumbai,2022-12-29,2025-11-05,17,69138,4066.94,Home & Kitchen,Organic Search,At Risk
+CUST0313,52,Male,Delhi,2022-12-30,2025-12-23,2,20415,10207.5,Electronics,Website,At Risk
+CUST0314,27,Female,Pune,2022-12-30,2026-06-22,4,8624,2156.0,Grocery,Store,Active
+CUST0315,40,Other,Mumbai,2023-01-04,2026-01-25,11,121900,11081.82,Electronics,Organic Search,Active
+CUST0316,56,Female,Ranchi,2023-01-04,2023-01-05,1,2050,2050.0,Grocery,Referral,Churned
+CUST0317,23,Female,,2023-01-05,2025-11-02,22,14682,667.36,Grocery,Email Campaign,At Risk
+CUST0318,41,Male,Mumbai,2023-01-06,2025-04-20,2,16955,8477.5,Home & Kitchen,Referral,Churned
+CUST0319,32,Female,Hyderabad,2023-01-06,2026-03-22,23,15617,679.0,Grocery,Organic Search,Active
+CUST0320,18,Female,Chennai,2023-01-07,2023-01-11,1,2016,2016.0,Beauty & Personal Care,Social Media,Churned
+CUST0321,30,Male,Bhubaneswar,2023-01-10,2026-06-13,8,24759,3094.88,Sports & Fitness,Paid Ads,Active
+CUST0322,29,Female,Delhi,2023-01-11,2026-04-04,5,14735,2947.0,,Email Campaign,Active
+CUST0323,37,Female,Surat,2023-01-12,2025-05-13,5,11022,2204.4,Clothing,Social Media,Churned
+CUST0324,28,Female,Mumbai,2023-01-14,2025-06-06,5,5720,1144.0,Grocery,Website,Churned
+CUST0325,35,Female,Bhubaneswar,2023-01-20,2024-01-12,4,1748,437.0,Grocery,Paid Ads,Churned
+CUST0326,31,Female,Delhi,2023-01-21,2026-07-06,1,3947,3947.0,Home & Kitchen,Store,At Risk
+CUST0327,18,Male,Kochi,2023-01-22,2025-02-07,16,26838,1677.38,Clothing,Organic Search,Churned
+CUST0328,40,Male,Mumbai,2023-01-23,2025-07-06,12,18343,1528.58,Accessories,Website,Churned
+CUST0329,43,Male,Hyderabad,2023-01-23,2026-07-12,17,89456,5262.12,Electronics,Social Media,Active
+CUST0330,35,Female,Mumbai,2023-01-25,2023-01-29,1,1450,1450.0,Beauty & Personal Care,Email Campaign,Churned
+CUST0331,34,Female,Ahmedabad,2023-01-26,2026-08-13,4,1645,411.25,Books,Email Campaign,Active
+CUST0332,32,Female,Bengaluru,2023-01-26,2025-04-14,20,64823,3241.15,Home & Kitchen,Store,Churned
+CUST0333,18,Male,Chandigarh,2023-01-27,2024-12-16,5,45660,9132.0,Electronics,Organic Search,Churned
+CUST0334,58,Male,Surat,2023-01-27,2025-07-15,5,19892,3978.4,Sports & Fitness,Store,Churned
+CUST0335,45,Male,Guwahati,2023-01-27,2026-06-30,49,162798,3322.41,Home & Kitchen,Referral,Active
+CUST0336,38,Male,Delhi,2023-01-28,2026-08-21,13,20595,1584.23,Beauty & Personal Care,Referral,Active
+CUST0337,41,Female,Lucknow,2023-01-28,2025-09-04,2,756,378.0,Accessories,Social Media,Churned
+CUST0338,35,Female,Hyderabad ,2023-01-28,2024-06-08,4,9125,2281.25,Grocery,Organic Search,Churned
+CUST0339,37,Female,Bengaluru,2023-01-29,2025-10-05,9,4567,507.44,Books,Social Media,At Risk
+CUST0340,27,Female,Bengaluru,2023-01-29,2026-07-28,4,7948,1987.0,Clothing,Website,Active
+CUST0341,44,Female,Bengaluru,2023-01-29,2025-09-28,6,8166,1361.0,Clothing,Paid Ads,At Risk
+CUST0342,24,Female,Mumbai,2023-01-31,2026-03-15,3,3372,1124.0,Accessories,Website,At Risk
+CUST0343,35,Female,Delhi,2023-02-01,2025-05-11,15,9967,664.47,Grocery ,Website,Churned
+CUST0344,30,Female,Bhubaneswar,2023-02-02,2025-07-31,2,4440,2220.0,Beauty & Personal Care,Organic Search,Churned
+CUST0345,62,Female,Kolkata,2023-02-06,2025-09-19,10,18923,1892.3,Accessories,Social Media,Churned
+CUST0346,31,Male,Guwahati,2023-02-07,2025-02-12,13,21878,1682.92,Clothing,Paid Ads,Churned
+CUST0347,39,Male,Chandigarh,2023-02-08,2024-01-22,6,6293,1048.83,Accessories,Social Media,Churned
+CUST0348,26,Female,Indore,2023-02-09,2026-01-08,4,3211,802.75,Grocery,Email Campaign,At Risk
+CUST0349,42,Female,Kolkata,2023-02-09,2025-08-24,8,16122,2015.25,Clothing,Social Media,Churned
+CUST0350,40,Female,Visakhapatnam,2023-02-10,2025-08-22,30,62973,2099.1,Clothing,Organic Search,At Risk
+CUST0351,46,Female,Hyderabad,2023-02-11,2026-04-23,2,6440,3220.0,Clothing,Paid Ads,At Risk
+CUST0352,30,Male,Chandigarh,2023-02-11,2025-03-13,9,83740,9304.44,Electronics,Website,Churned
+CUST0353,40,Male,Pune,2023-02-14,2025-02-22,1,13399,13399.0,Electronics,Organic Search,Churned
+CUST0354,38,Female,Mumbai,2023-02-16,2023-02-19,1,1473,1473.0,Grocery,Paid Ads,Churned
+CUST0355,42,Male,Kolkata,2023-02-17,2025-06-26,22,37782,1717.36,Beauty & Personal Care,Social Media,Churned
+CUST0356,63,Male,Chennai,2023-02-17,2025-11-23,6,25103,4183.83,Beauty & Personal Care,Website,At Risk
+CUST0357,54,Male,Kolkata,2023-02-17,2024-03-16,4,3212,803.0,Grocery,Paid Ads,Churned
+CUST0358,42,Female,Kochi,2023-02-19,2025-10-21,11,18968,1724.36,Home & Kitchen,Social Media,At Risk
+CUST0359,18,Female,Chennai,2023-02-19,2026-07-25,12,73018,6084.83,Home & Kitchen,Store,Active
+CUST0360,30,Male,Kochi,2023-02-20,2026-08-12,10,8113,811.3,Accessories,Organic Search,Active
+CUST0361,25,Male,Lucknow,2023-02-21,2025-10-25,11,92255,8386.82,Electronics,Website,At Risk
+CUST0362,42,Male,Kochi,2023-02-24,2025-08-08,6,15138,2523.0,Home & Kitchen,Social Media,Churned
+CUST0363,31,Male,Ahmedabad,2023-02-24,2026-08-13,7,73879,10554.14,Electronics,Website,Active
+CUST0364,47,Female,Chandigarh,2023-02-24,2026-04-02,2,10049,5024.5,Home & Kitchen,Paid Ads,At Risk
+CUST0365,34,Male,Mumbai,2023-02-26,2025-07-01,16,47072,2942.0,Clothing,Store,Churned
+CUST0366,47,Female,Hyderabad,2023-02-27,2026-07-12,3,23296,7765.33,Electronics,Social Media,Active
+CUST0367,40,Male,Mumbai,2023-02-28,2024-10-09,10,90769,9076.9,Electronics,Website,Churned
+CUST0368,33,Female,Kolkata,2023-03-01,2026-07-25,20,69416,3470.8,Clothing,Email Campaign,Active
+CUST0369,37,Male,Kolkata,2023-03-02,2026-05-15,8,14133,1766.62,Clothing,Paid Ads,Active
+CUST0370,33,Female,Bengaluru,2023-03-03,2026-07-26,9,24492,2721.33,Sports & Fitness,Organic Search,Active
+CUST0371,29,Female,Ahmedabad,2023-03-11,2026-07-16,4,2290,572.5,Books,Paid Ads,Active
+CUST0372,37,Male,Bengaluru,2023-03-11,2026-08-12,10,6446,644.6,Books,Email Campaign,Active
+CUST0373,46,Male,Delhi,2023-03-12,2025-12-06,3,1362,454.0,Grocery,Social Media,At Risk
+CUST0374,54,Male,Indore,2023-03-12,2024-12-15,10,151668,15166.8,Electronics,Website,Churned
+CUST0375,26,Male,Ahmedabad,2023-03-13,2025-09-03,2,2846,1423.0,Grocery,Social Media,Churned
+CUST0376,40,Female,Kolkata,2023-03-13,2025-11-20,7,72219,10317.0,Electronics,Website,Churned
+CUST0377,26,Male,Bengaluru,2023-03-15,2024-12-21,3,42829,14276.33,Electronics,Organic Search,Churned
+CUST0378,18,Male,Pune,2023-03-15,2025-11-08,3,11166,3722.0,Home & Kitchen,Social Media,At Risk
+CUST0379,24,Female,Lucknow,2023-03-16,2026-07-26,3,9304,3101.33,Beauty & Personal Care,Website, Active
+CUST0380,34,Female,Bengaluru,2023-03-17,2026-07-31,8,10216,1277.0,Clothing,Paid Ads,Active
+CUST0381,46,Female,Chennai,2023-03-18,2025-01-24,3,6374,2124.67,Beauty & Personal Care,Paid Ads,Churned
+CUST0382,34,Male,Chennai,2023-03-19,2025-08-12,3,3131,1043.67,Books,Paid Ads,Churned
+CUST0383,43,Male,Patna,2023-03-20,2025-02-18,9,14182,1575.78,Beauty & Personal Care,Website,Churned
+CUST0384,32,Male,Mumbai,2023-03-21,2026-01-15,7,5368,766.86,Grocery,Organic Search,At Risk
+CUST0385,36,Female,Mumbai,2023-03-22,2026-02-25,16,12516,782.25,Grocery,Paid Ads,Active
+CUST0386,30,Female,Kolkata,2023-03-23,2024-09-18,6,16289,2714.83,Accessories,Referral,Churned
+CUST0387,18,Male,Chennai,2023-03-23,2023-05-16,2,2718,1359.0,Beauty & Personal Care,Website,Churned
+CUST0388,35,Female,Delhi,2023-03-23,2025-06-26,9,14831,1647.89,Accessories,Referral,Churned
+CUST0389,26,Female,Pune,2023-03-24,2025-09-08,4,6182,1545.5,Beauty & Personal Care,Organic Search,Churned
+CUST0390,35,Male,Indore,2023-03-24,2025-07-22,9,69243,7693.67,Electronics,Paid Ads,Churned
+CUST0391,18,Female,Delhi,2023-03-25,2026-04-13,9,15868,1763.11,Beauty & Personal Care,Website,Active
+CUST0392,34,Female,Surat,2023-03-25,2025-06-25,3,57543,19181.0,Electronics,Website,Churned
+CUST0393,41,Male,Pune,2023-03-26,2025-12-01,4,86339,21584.75,Electronics,Website,At Risk
+CUST0394,44,Male,Jaipur,2023-03-26,2024-06-30,3,5283,1761.0,Clothing,Website,Churned
+CUST0395,34,Female,Delhi,2023-03-27,2026-05-08,14,9014,643.86,Books,Store,Active
+CUST0396,21,Female,Lucknow,2023-03-29,2026-07-07,7,5480,782.86,Beauty & Personal Care,Organic Search,Active
+CUST0397,33,Female,Kolkata,2023-03-30,2025-11-08,4,50074,12518.5,Electronics,Organic Search,At Risk
+CUST0398,18,Male,Kochi,2023-03-31,2026-06-19,6,10881,1813.5,Clothing,Referral,Active
+CUST0399,52,Male,Lucknow,2023-03-31,2025-05-22,6,11327,1887.83,Sports & Fitness,Paid Ads,Churned
+CUST0400,35,Female,Delhi,2023-03-31,2023-12-01,2,16423,8211.5,Home & Kitchen,Organic Search,Churned
+CUST0401,37,Other,Lucknow,2023-04-02,2026-03-21,1,6931,6931.0,Home & Kitchen,Social Media,At Risk
+CUST0402,39,Female,Visakhapatnam,2023-04-02,2026-01-30,4,13193,3298.25,Home & Kitchen,Paid Ads,At Risk
+CUST0403,43,Female,Jaipur,2023-04-02,2026-01-31,6,8159,1359.83,Clothing,Paid Ads,At Risk
+CUST0404,39,Male,Kolkata,2023-04-02,2025-11-07,1,9061,9061.0,Electronics,Website,Churned
+CUST0405,38,Male,Hyderabad,2023-04-03,2026-05-31,15,16018,1067.87,Grocery,Referral,Active
+CUST0406,19,Male,Visakhapatnam,2023-04-04,2025-09-07,2,4778,2389.0,Sports & Fitness,Email Campaign,At Risk
+CUST0407,27,Female,Patna,2023-04-04,2024-04-23,3,11443,3814.33,Electronics,Organic Search,Churned
+CUST0408,57,Male,Lucknow,2023-04-06,2026-02-28,15,46314,3087.6,Sports & Fitness,Referral,Active
+CUST0409,51,Female,Mumbai,2023-04-06,2023-11-26,3,7739,2579.67,Beauty & Personal Care,Website,Churned
+CUST0410,22,Male,Hyderabad,2023-04-06,2026-03-02,18,46997,2610.94,Home & Kitchen,Paid Ads,Active
+CUST0411,20,Male,Mumbai,2023-04-07,2025-08-11,5,37125,7425.0,Electronics,Organic Search,At Risk
+CUST0412,27,Male,Patna,2023-04-08,2026-07-22,3,4889,1629.67,Clothing,Organic Search,Active
+CUST0413,34,Female,Bengaluru,2023-04-08,2026-05-08,15,198599,13239.93,Electronics,Email Campaign,Active
+CUST0414,43,Female,Chandigarh,2023-04-11,2024-01-08,2,3692,1846.0,Clothing,Social Media,Churned
+CUST0415,51,Male,Delhi,2023-04-12,2024-03-13,4,3482,870.5,Books,Website,Churned
+CUST0416,30,Female,Mumbai,2023-04-13,2025-12-27,29,39089,1347.9,Accessories,Store,Active
+CUST0417,24,Female,Patna,2023-04-14,2024-06-27,4,3236,809.0,Clothing,Paid Ads,Churned
+CUST0418,44,Male,Kolkata,2023-04-14,2026-02-18,15,20419,1361.27,Accessories,Social Media,At Risk
+CUST0419,35,Male,Delhi,2023-04-14,2026-02-11,7,10408,1486.86,Sports & Fitness,Organic Search,At Risk
+CUST0420,39,Female,Hyderabad,2023-04-14,2025-08-09,4,6523,1630.75,Grocery,Referral,Churned
+CUST0421,24,Male,Kolkata,2023-04-16,2025-12-10,3,2670,890.0,Clothing,Paid Ads,At Risk
+CUST0422,22,Male,Jaipur,2023-04-18,2026-04-01,2,3659,1829.5,Sports & Fitness,Paid Ads,At Risk
+CUST0423,35,Male,Pune,2023-04-18,2026-04-11,6,61962,10327.0,Electronics,Social Media,At Risk
+CUST0424,33,,Surat,2023-04-19,2026-04-15,16,27031,1689.44,Clothing,Social Media,Active
+CUST0425,43,Female,Kolkata,2023-04-19,2024-04-10,3,24411,8137.0,Electronics,Social Media,Churned
+CUST0426,27,Male,Chennai,2023-04-20,2026-09-07,17,5593,329.0,Books,Social Media,Active
+CUST0427,30,Female,Chandigarh,2023-04-21,2025-11-09,22,102399,4654.5,Electronics,Store,At Risk
+CUST0428,28,Female,Chennai,2023-04-21,2025-09-09,7,7357,1051.0,Beauty & Personal Care,Referral,Churned
+CUST0429,41,Male,Chennai,2023-04-22,2026-02-06,2,1556,778.0,Grocery,Organic Search,At Risk
+CUST0430,26,Female,Bengaluru,2023-04-23,2025-12-28,13,28697,2207.46,Grocery,Referral,Active
+CUST0431,39,Female,Chennai,2023-04-23,2026-04-28,8,15821,1977.62,Accessories,Referral,Active
+CUST0432,32,Female,Mumbai,2023-04-24,2026-03-07,2,3682,1841.0,Accessories,Referral,At Risk
+CUST0433,37,Male,Patna,2023-04-25,2026-05-05,2,3173,1586.5,Beauty & Personal Care,Website,At Risk
+CUST0434,44,Male,Bhubaneswar,2023-04-27,2026-06-13,12,38950,3245.83,Clothing,Referral,Active
+CUST0435,37,Female,Kochi,2023-04-28,2026-05-03,5,30531,6106.2,Sports & Fitness,Website,At Risk
+CUST0436,49,Other,Indore,2023-04-28,2026-02-26,4,3406,851.5,Grocery,Social Media,At Risk
+CUST0437,33,Female,Delhi,2023-04-28,2024-09-05,1,2110,2110.0,Beauty & Personal Care,Paid Ads,Churned
+CUST0438,18,Male,Ahmedabad,2023-04-29,2023-05-12,1,10161,10161.0,Electronics,Website,Churned
+CUST0439,36,Male,Delhi,2023-04-29,2026-09-04,2,10783,5391.5,Electronics,Email Campaign,Active
+CUST0440,31,Female,Bengaluru,2023-04-30,2025-03-11,3,2360,786.67,Beauty & Personal Care,Organic Search,Churned
+CUST0441,25,Male,Ahmedabad,2023-04-30,2024-12-13,12,17886,1490.5,Clothing,Website,Churned
+CUST0442,31,Male,Delhi,2023-04-30,2025-12-17,6,9077,1512.83,Grocery,Paid Ads,At Risk
+CUST0443,25,Male,Chennai,2023-05-01,2025-01-21,6,21369,3561.5,Electronics,Website,Churned
+CUST0444,36,Female,Pune,2023-05-02,2026-03-21,10,10348,1034.8,Clothing,Paid Ads,At Risk
+CUST0445,35,Female,Delhi,2023-05-02,2026-04-14,11,32598,2963.45,Clothing,Website,Active
+CUST0446,40,Female,Delhi,2023-05-04,2026-06-30,3,16716,5572.0,Clothing,Store,Active
+CUST0447,38,Male,Delhi,2023-05-05,2026-07-29,5,8838,1767.6,Clothing,Paid Ads,Active
+CUST0448,38,Female,Mumbai,2023-05-05,2026-01-03,3,12236,4078.67,Clothing,Paid Ads,At Risk
+CUST0449,21,Male,Chennai,2023-05-05,2026-05-07,13,16693,1284.08,Sports & Fitness,Website,Active
+CUST0450,30,Male,Mumbai,2023-05-05,2026-05-21,9,106315,11812.78,Electronics,Organic Search,Active
+CUST0451,18,Male,Surat,2023-05-07,2025-09-11,9,11091,1232.33,Accessories,Organic Search,Churned
+CUST0452,37,Female,Bengaluru,2023-05-07,2023-05-14,1,4577,4577.0,Home & Kitchen,Store,Churned
+CUST0453,32,Male,Hyderabad,2023-05-07,2026-01-09,5,16214,3242.8,Clothing,Referral,At Risk
+CUST0454,35,Male,Guwahati,2023-05-08,2025-07-18,2,1728,864.0,Books,Website,Churned
+CUST0455,31,Female,Bengaluru,2023-05-09,2026-07-07,8,21116,2639.5,Clothing,Paid Ads,Active
+CUST0456,56,Female,Mumbai,2023-05-10,2025-03-28,1,3148,3148.0,Clothing,Store,Churned
+CUST0457,18,Male,Mumbai,2023-05-10,2023-05-22,1,11874,11874.0,Electronics,Organic Search,Churned
+CUST0458,35,Male,Pune,2023-05-10,2025-09-01,6,22111,3685.17,Clothing,Referral,Churned
+CUST0459,47,Male,Bengaluru,2023-05-12,2026-08-20,3,43773,14591.0,Electronics,Website,Active
+CUST0460,35,Male,Guwahati,2023-05-12,2026-02-15,6,3663,610.5,Grocery,Website,At Risk
+CUST0461,28,Male,Kolkata,2023-05-13,2026-02-23,16,14792,924.5,Grocery,Social Media,Active
+CUST0462,43,Male,Mumbai,2023-05-14,2025-04-19,5,102072,20414.4,Electronics,Website,Churned
+CUST0463,35,Male,Patna,2023-05-14,2026-08-03,27,32005,1185.37,Beauty & Personal Care,Website,Active
+CUST0464,35,Female,Pune,2023-05-14,2026-06-06,33,41202,1248.55,Grocery,Referral,Active
+CUST0465,49,Male,Jaipur,2023-05-15,2025-12-22,7,58546,8363.71,Electronics,Social Media,At Risk
+CUST0466,36,Male,Bengaluru,2023-05-15,2023-05-26,1,5224,5224.0,Clothing,Website,Churned
+CUST0467,27,Female,Mumbai,2023-05-15,2025-06-18,9,19019,2113.22,Clothing,Website,Churned
+CUST0468,25,Male,Hyderabad,2023-05-15,2026-07-01,9,10439,1159.89,Grocery,Organic Search,Active
+CUST0469,42,Female,Kolkata,2023-05-16,2025-08-20,8,23868,2983.5,Home & Kitchen,Website,Churned
+CUST0470,18,Male,Ranchi,2023-05-18,2025-04-18,10,19531,1953.1,Accessories,Website,Churned
+CUST0471,28,Female,Mumbai,2023-05-19,2025-11-25,2,7298,3649.0,Clothing,Website,At Risk
+CUST0472,26,Male,Kochi,2023-05-20,2025-04-08,16,28387,1774.19,Beauty & Personal Care,Social Media,Churned
+CUST0473,41,Female,Mumbai,2023-05-23,2026-06-28,11,247292,22481.09,Electronics,Organic Search,Active
+CUST0474,30,Female,Delhi,2023-05-23,2024-12-27,3,7009,2336.33,Home & Kitchen,Social Media,Churned
+CUST0475,53,Male,Bengaluru,2023-05-25,2026-02-04,18,124428,6912.67,Electronics,Organic Search,Active
+CUST0476,18,Male,Bengaluru,2023-05-28,2025-05-30,5,13753,2750.6,Home & Kitchen,Website,Churned
+CUST0477,28,Female,Surat,2023-05-31,2024-10-16,3,22347,7449.0,Home & Kitchen,Referral,Churned
+CUST0478,32,Other,Hyderabad,2023-06-03,2025-06-29,7,16049,2292.71,Accessories,Social Media,Churned
+CUST0479,32,Female,Mumbai,2023-06-04,2026-09-05,7,15356,2193.71,Clothing,Store,Active
+CUST0480,32,Male,Indore,2023-06-04,2026-06-01,10,103252,10325.2,Electronics,Website,Active
+CUST0481,37,Male,Lucknow,2023-06-06,2024-11-17,2,1728,864.0,Accessories,Paid Ads,Churned
+CUST0482,34,Female,Ahmedabad,2023-06-07,2025-02-08,4,6925,1731.25,Clothing,Paid Ads,Churned
+CUST0483,43,Female,Kolkata,2023-06-08,2025-11-11,5,1909,381.8,Books,Referral ,At Risk
+CUST0484,28,Male,Mumbai,2023-06-08,2026-08-28,3,42566,14188.67,Electronics,Organic Search,Active
+CUST0485,31,Female,Kochi,2023-06-10,2026-04-05,8,15514,1939.25,Clothing,Organic Search,Active
+CUST0486,28,Male,Kolkata,2023-06-10,2023-06-13,1,1630,1630.0,Beauty & Personal Care,Email Campaign,Churned
+CUST0487,45,Male,Delhi,2023-06-10,2026-03-11,2,12052,6026.0,Clothing,Organic Search,At Risk
+CUST0488,43,Female,Delhi,2023-06-11,2025-12-16,2,16185,8092.5,Electronics,Organic Search,At Risk
+CUST0489,21,Female,Surat,2023-06-12,2026-01-19,8,71457,8932.12,Electronics,Organic Search,At Risk
+CUST0490,21,Female,Mumbai,2023-06-15,2024-03-10,2,10246,5123.0,Electronics,Paid Ads,Churned
+CUST0491,61,Female,Delhi,2023-06-16,2023-07-24,2,3552,1776.0,Beauty & Personal Care,Email Campaign,Churned
+CUST0492,41,Male,Ahmedabad,2023-06-17,2025-11-07,2,1115,557.5,Grocery,Social Media,At Risk
+CUST0493,37,Male,Delhi,2023-06-18,2025-04-12,4,21340,5335.0,Clothing,Website,Churned
+CUST0494,39,Female,Delhi,2023-06-19,2026-04-30,6,12542,2090.33,Clothing,Email Campaign,At Risk
+CUST0495,27,Female,Ranchi,2023-06-20,2023-06-22,1,11848,11848.0,Electronics,Email Campaign,Churned
+CUST0496,37,Female,Ahmedabad,2023-06-22,2026-07-28,9,89491,9943.44,Electronics,Social Media,Active
+CUST0497,30,Male,Kolkata,2023-06-22,2026-01-13,7,8884,1269.14,Clothing,Paid Ads,At Risk
+CUST0498,49,Female,Lucknow,2023-06-22,2025-08-16,2,1783,891.5,Accessories,Paid Ads,Churned
+CUST0499,18,Male,Kolkata,2023-06-24,2026-03-05,6,8187,1364.5,Beauty & Personal Care,Paid Ads,At Risk
+CUST0500,26,Male,Kolkata,2023-06-25,2024-08-14,2,3318,1659.0,Home & Kitchen,Social Media,Churned
+CUST0501,27,Female,Pune,2023-06-25,2026-08-10,7,24198,3456.86,Clothing,Referral,Active
+CUST0502,18,Female,,2023-06-25,2026-07-06,5,10399,2079.8,Clothing,Website,At Risk
+CUST0503,46,Male,Ranchi,2023-06-27,2025-09-27,6,55214,9202.33,Electronics,Organic Search,At Risk
+CUST0504,46,Male,Pune,2023-06-27,2025-09-09,2,24661,12330.5,Home & Kitchen,Referral,Churned
+CUST0505,25,Male,Mumbai,2023-06-30,2026-05-20,10,18321,1832.1,Beauty & Personal Care,Website,Active
+CUST0506,27,Male,Bengaluru,2023-07-02,2026-05-12,23,71523,3109.7,Clothing,Website,Active
+CUST0507,28,Male,Pune,2023-07-03,2026-06-12,22,32189,1463.14,Sports & Fitness,Website,Active
+CUST0508,25,Male,Chennai,2023-07-04,2026-01-05,3,27882,9294.0,Electronics,Website,At Risk
+CUST0509,37,Male,Chandigarh,2023-07-07,2025-10-29,2,10868,5434.0,Sports & Fitness,Website,At Risk
+CUST0510,23,Male,Guwahati,2023-07-07,2025-11-20,6,6230,1038.33,Grocery,Organic Search,At Risk
+CUST0511,40,Male,Pune,2023-07-09,2026-07-01,13,75299,5792.23,Sports & Fitness,Referral,Active
+CUST0512,36,Male,Bengaluru,2023-07-10,2025-11-25,3,2596,865.33,Books,Website,At Risk
+CUST0513,32,Male,Bengaluru,2023-07-10,2025-10-15,6,23915,3985.83,Clothing,Social Media,Churned
+CUST0514,49,Male,Bengaluru,2023-07-10,2026-03-01,11,5120,465.45,Books,Website,Active
+CUST0515,39,Male,Indore,2023-07-12,2026-04-21,14,48770,3483.57,Home & Kitchen,Social Media,Active
+CUST0516,29,Female,Mumbai,2023-07-12,2026-02-28,7,10281,1468.71,Grocery,Organic Search,At Risk
+CUST0517,30,Male,Chennai,2023-07-13,2026-03-06,5,9622,1924.4,Accessories,Organic Search,Active
+CUST0518,31,Male,Bengaluru,2023-07-14,2026-04-11,8,14587,1823.38,Accessories,Organic Search,At Risk
+CUST0519,25,Female,Ahmedabad,2023-07-16,2023-07-16,1,2054,2054.0,Beauty & Personal Care,Website,Churned
+CUST0520,23,Female,Mumbai,2023-07-16,2026-04-03,9,6766,751.78,Books,Email Campaign,Active
+CUST0521,39,Male,Surat,2023-07-17,2026-01-14,8,47864,5983.0,Electronics,Paid Ads,At Risk
+CUST0522,38,Male,Indore,2023-07-19,2026-06-22,29,40524,1397.38,Beauty & Personal Care,Website,Active
+CUST0523,26,Female,Bengaluru,2023-07-19,2026-03-25,3,3814,1271.33,Clothing,Website,At Risk
+CUST0524,48,Male,Mumbai,2023-07-20,2026-03-18,2,20931,10465.5,Electronics,Social Media,At Risk
+CUST0525,56,Female,Mumbai,2023-07-21,2024-02-21,2,4123,2061.5,Accessories,Store,Churned
+CUST0526,41,Female,Guwahati,2023-07-21,2023-07-24,1,525,525.0,Accessories,Website ,Churned
+CUST0527,36,Female,Mumbai,2023-07-23,2025-01-25,2,16167,8083.5,Home & Kitchen,Organic Search,Churned
+CUST0528,25,Male,Delhi,2023-07-24,2024-08-31,4,5536,1384.0,Clothing,Organic Search,Churned
+CUST0529,31,Male,Chennai,2023-07-24,2025-08-09,26,14718,566.08,Grocery,Email Campaign,At Risk
+CUST0530,18,Male,Bhubaneswar,2023-07-28,2026-02-15,12,34024,2835.33,Sports & Fitness,Website,Active
+CUST0531,41,Female,Bhubaneswar,2023-07-30,2025-01-24,4,10839,2709.75,Beauty & Personal Care,Organic Search,Churned
+CUST0532,33,Male,Jaipur,2023-07-31,2026-05-18,41,137277,3348.22,Home & Kitchen,Store,Active
+CUST0533,40,Female,Pune,2023-08-01,2025-07-25,11,97929,8902.64,Electronics,Website,Churned
+CUST0534,25,Male,Bengaluru,2023-08-02,2023-08-03,1,1463,1463.0,,Paid Ads,Churned
+CUST0535,31,Male,Hyderabad,2023-08-03,2025-09-24,4,9800,2450.0,Clothing,Website,Churned
+CUST0536,21,Female,Pune,2023-08-03,2026-03-13,2,2582,1291.0,Accessories,Email Campaign,At Risk
+CUST0537,26,Male,Mumbai,2023-08-04,2026-03-06,22,20360,925.45,Beauty & Personal Care,Website,Active
+CUST0538,42,Male,Patna,2023-08-04,2025-02-09,9,22969,2552.11,Sports & Fitness,Paid Ads,Churned
+CUST0539,37,Male,Pune,2023-08-04,2026-04-20,3,5576,1858.67,Beauty & Personal Care,Website,At Risk
+CUST0540,65,Female,Mumbai,2023-08-04,2024-11-22,1,20179,20179.0,Electronics,Organic Search,Churned
+CUST0541,41,Female,Patna,2023-08-04,2026-03-10,3,3626,1208.67,Clothing,Paid Ads,At Risk
+CUST0542,34,Male,Chennai,2023-08-04,2026-06-17,4,3242,810.5,Books,Website,Active
+CUST0543,18,Male,Chennai,2023-08-06,2025-11-22,14,34314,2451.0,Sports & Fitness,Social Media,At Risk
+CUST0544,45,Female,Kolkata,2023-08-06,2025-03-07,5,54931,10986.2,Electronics,Website,Churned
+CUST0545,34,Female,Bengaluru,2023-08-07,2025-12-28,4,8541,2135.25,Clothing,Store,At Risk
+CUST0546,59,Female,Bengaluru,2023-08-08,2026-02-22,2,1367,683.5,Grocery,Referral,At Risk
+CUST0547,48,Female,Kolkata,2023-08-08,2023-09-30,1,737,737.0,Grocery,Website,Churned
+CUST0548,38,Female,Mumbai,2023-08-09,2025-08-21,8,9929,1241.12,Accessories,Website,Churned
+CUST0549,34,Female,Indore,2023-08-09,2026-04-22,5,4173,834.6,Beauty & Personal Care,Paid Ads,At Risk
+CUST0550,30,Male,Bengaluru,2023-08-10,2026-07-22,4,23122,5780.5,Electronics,Paid Ads,Active
+CUST0551,23,Male,Bengaluru,2023-08-11,2025-02-15,2,6032,3016.0,Clothing,Organic Search,Churned
+CUST0552,27,Female,Pune,2023-08-12,2025-09-16,3,11524,3841.33,Home & Kitchen,Website,Churned
+CUST0553,32,Female,Bhubaneswar,2023-08-12,2026-06-05,3,5591,1863.67,Clothing,Social Media,Active
+CUST0554,23,Male,Bengaluru,2023-08-12,2025-06-16,2,5483,2741.5,Clothing,Store,Churned
+CUST0555,30,Female,Surat,2023-08-14,2026-06-11,6,52167,8694.5,Electronics,Website,Active
+CUST0556,41,Male,Mumbai,2023-08-15,2026-01-06,2,10510,5255.0,Home & Kitchen,Organic Search,At Risk
+CUST0557,24,Male,Bengaluru,2023-08-15,2023-08-24,1,1714,1714.0,Sports & Fitness,Website,Churned
+CUST0558,49,Male,Kochi,2023-08-16,2025-08-21,4,6252,1563.0,Beauty & Personal Care,Social Media,Churned
+CUST0559,30,Male,Chennai,2023-08-16,2025-11-24,2,5878,2939.0,Clothing,Organic Search,At Risk
+CUST0560,33,Female,Ahmedabad,2023-08-16,2024-12-17,1,648,648.0,Grocery,Paid Ads,Churned
+CUST0561,24,Male,Kolkata,2023-08-18,2024-06-20,2,1796,898.0,Grocery,Store,Churned
+CUST0562,28,Male,Indore,2023-08-19,2026-03-29,12,8488,707.33,Books,Email Campaign,At Risk
+CUST0563,18,Male,Kolkata,2023-08-19,2025-12-26,9,75775,8419.44,Electronics,Website,At Risk
+CUST0564,31,Male,Lucknow,2023-08-19,2026-07-27,7,26485,3783.57,Home & Kitchen,Organic Search,Active
+CUST0565,38,Male, Delhi,2023-08-22,2025-08-14,3,15230,5076.67,Clothing,Organic Search,Churned
+CUST0566,38,Male,Delhi,2023-08-22,2025-01-02,2,2694,1347.0,Accessories,Paid Ads,Churned
+CUST0567,42,Female,Delhi,2023-08-23,2025-05-31,5,6213,1242.6,Home & Kitchen,Website,Churned
+CUST0568,23,Male,Kolkata,2023-08-24,2025-07-21,14,4887,349.07,Books,Social Media,Churned
+CUST0569,35,Female,Lucknow,2023-08-25,2024-12-23,4,14750,3687.5,Home & Kitchen,Website,Churned
+CUST0570,30,Male,Mumbai,2023-08-26,2026-06-11,13,31424,2417.23,Clothing,Website,Active
+CUST0571,48,Male,Hyderabad,2023-08-27,2025-09-14,11,78255,7114.09,Electronics,Social Media,At Risk
+CUST0572,35,Male,Surat,2023-08-29,2025-06-14,10,16631,1663.1,Clothing,Social Media,Churned
+CUST0573,33,Female,Chennai,2023-08-30,2026-04-06,15,8915,594.33,Grocery,Organic Search,Active
+CUST0574,24,Female,Bengaluru,2023-08-31,2025-11-25,8,6468,808.5,Beauty & Personal Care,Website,At Risk
+CUST0575,46,Male,Bengaluru,2023-09-01,2026-09-03,8,13785,1723.12,Sports & Fitness,Social Media,Active
+CUST0576,46,Female,Mumbai,2023-09-02,2025-04-10,7,17986,2569.43,Home & Kitchen,Website,Churned
+CUST0577,22,Male,Hyderabad,2023-09-02,2026-01-01,6,12514,2085.67,Clothing,Social Media,At Risk
+CUST0578,37,Male,Chennai,2023-09-04,2025-02-15,3,5849,1949.67,Accessories,Website,Churned
+CUST0579,27,Female,Kolkata,2023-09-04,2026-02-02,13,113584,8737.23,Electronics,Social Media,At Risk
+CUST0580,39,Male,Mumbai,2023-09-06,2026-01-21,4,7810,1952.5,Beauty & Personal Care,Email Campaign,At Risk
+CUST0581,26,Male,Delhi,2023-09-06,2026-04-13,4,7459,1864.75,Books,Organic Search,Active
+CUST0582,22,Male,Jaipur,2023-09-07,2026-09-06,11,9114,828.55,Grocery,Organic Search,Active
+CUST0583,37,Male,,2023-09-07,2026-05-22,15,28134,1875.6,Home & Kitchen,Social Media,Active
+CUST0584,28,Male,Bengaluru,2023-09-08,2026-09-04,35,27437,783.91,Clothing,Social Media,Active
+CUST0585,34,Female,Bengaluru,2023-09-08,2025-09-12,11,71161,6469.18,Home & Kitchen,Website,Churned
+CUST0586,29,Male,Ahmedabad,2023-09-09,2026-05-03,9,28634,3181.56,Sports & Fitness,Organic Search,Active
+CUST0587,23,Female,Delhi,2023-09-10,2025-09-08,3,6866,2288.67,Home & Kitchen,Social Media,Churned
+CUST0588,43,Male,Indore,2023-09-11,2024-12-17,3,6365,2121.67,Clothing,Email Campaign,Churned
+CUST0589,41,Male,Kolkata,2023-09-12,2023-09-18,2,6308,3154.0,Clothing,Organic Search,Churned
+CUST0590,35,Male,Chennai,2023-09-13,2023-09-29,1,1472,1472.0,Accessories,Website,Churned
+CUST0591,18,Female,Chandigarh,2023-09-13,2026-01-31,6,14783,2463.83,Clothing,Referral,At Risk
+CUST0592,23,Male,Chennai,2023-09-13,2025-09-17,4,7076,1769.0,Clothing,Email Campaign,Churned
+CUST0593,30,Female,Ranchi,2023-09-14,2026-01-13,11,49046,4458.73,Home & Kitchen,Store,At Risk
+CUST0594,43,Female,Jaipur,2023-09-15,2026-05-24,9,8259,917.67,Clothing,Social Media,Active
+CUST0595,38,Male,Chennai,2023-09-15,2026-05-20,2,2135,1067.5,Beauty & Personal Care,Social Media,At Risk
+CUST0596,58,Male,Kolkata,2023-09-15,2026-08-06,7,8532,1218.86,Books,Organic Search,Active
+CUST0597,36,Male,Bengaluru,2023-09-17,2026-03-25,21,149900,7138.1,Electronics,Social Media,Active
+CUST0598,32,Male,Kolkata,2023-09-17,2026-03-26,10,18115,1811.5,Grocery,Store,At Risk
+CUST0599,33,Male,Indore,2023-09-17,2026-06-23,6,22069,3678.17,Home & Kitchen,Social Media,Active
+CUST0600,36,Male,Chandigarh,2023-09-18,2026-02-19,2,11954,5977.0,Home & Kitchen,Organic Search,At Risk
+CUST0601,27,Male,Delhi,2023-09-18,2026-07-20,5,7312,1462.4,Clothing,Store,Active
+CUST0602,18,Female,Hyderabad,2023-09-18,2026-04-23,5,3186,637.2,Beauty & Personal Care,Social Media,Active
+CUST0603,35,Male,Mumbai,2023-09-19,2025-09-23,12,9978,831.5,Beauty & Personal Care,Organic Search,Churned
+CUST0604,30,Female,Bengaluru,2023-09-20,2026-01-01,15,27583,1838.87,Clothing,Referral,Active
+CUST0605,19,Male,Patna,2023-09-21,2026-07-10,4,3351,837.75,Clothing,Social Media,Active
+CUST0606,30,Female,Patna,2023-09-21,2025-05-14,4,4593,1148.25,Accessories,Website,Churned
+CUST0607,42,Female,Kolkata,2023-09-22,2025-08-29,3,26537,8845.67,Sports & Fitness,Website,Churned
+CUST0608,24,Female,Kolkata,2023-09-23,2026-04-23,3,3951,1317.0,Beauty & Personal Care,Website,Active
+CUST0609,29,Male,Bengaluru,2023-09-26,2026-05-19,2,50848,25424.0,Electronics,Website,Active
+CUST0610,28,Female,Bengaluru,2023-09-26,2025-01-28,3,5624,1874.67,Home & Kitchen,Website,Churned
+CUST0611,25,Male,Delhi,2023-09-27,2024-05-08,9,7640,848.89,Books,Website,Churned
+CUST0612,26,Female,Delhi,2023-09-28,2025-12-19,3,28716,9572.0,Electronics,Website,At Risk
+CUST0613,64,Female,Hyderabad,2023-09-28,2026-03-15,5,4524,904.8,Beauty & Personal Care,Social Media,At Risk
+CUST0614,40,Male,Guwahati,2023-09-28,2026-07-12,2,4850,2425.0,Clothing,Paid Ads,Active
+CUST0615,33,Male,Bengaluru,2023-09-29,2026-08-19,49,25718,524.86,Books,Website,Active
+CUST0616,39,Female,Delhi,2023-09-29,2023-10-08,1,687,687.0,Books,Website,Churned
+CUST0617,30,Male,Chandigarh,2023-09-30,2026-03-04,8,6133,766.62,Books,Organic Search,Active
+CUST0618,33,Male,Kochi,2023-09-30,2025-12-15,5,7762,1552.4,Accessories,Website,At Risk
+CUST0619,19,Male,Visakhapatnam,2023-09-30,2025-06-09,2,1469,734.5,Grocery,Website,Churned
+CUST0620,36,Male,Mumbai,2023-09-30,2026-04-23,4,14337,3584.25,Sports & Fitness,Website,At Risk
+CUST0621,40,Male,Pune,2023-10-02,2026-04-07,10,14291,1429.1,Home & Kitchen,Email Campaign,Active
+CUST0622,33,Male,Mumbai,2023-10-02,2025-03-28,2,2139,1069.5,Grocery,Organic Search,Churned
+CUST0623,41,Female,Indore,2023-10-04,2026-05-06,7,5201,743.0,Grocery,Website,Active
+CUST0624,42,Male,Hyderabad,2023-10-05,2024-02-16,1,13497,13497.0,Electronics,Organic Search,Churned
+CUST0625,33,Male,Surat,2023-10-05,2024-12-06,3,21307,7102.33,Home & Kitchen,Store,Churned
+CUST0626,36,Female,Hyderabad,2023-10-05,2026-08-09,3,17537,5845.67,Home & Kitchen,Referral,Active
+CUST0627,49,Male,Chennai,2023-10-06,2024-10-11,9,31284,3476.0,Clothing,Email Campaign,Churned
+CUST0628,26,Female,Guwahati,2023-10-06,2026-07-16,3,1130,376.67,Books,Store,Active
+CUST0629,35,Male,Kolkata,2023-10-06,2025-01-25,4,4004,1001.0,Grocery,Email Campaign,Churned
+CUST0630,48,Male,Kolkata,2023-10-07,2025-04-07,1,837,837.0,Grocery,Paid Ads,Churned
+CUST0631,27,Male,Pune,2023-10-07,2026-03-02,5,2856,571.2,Accessories,Store,At Risk
+CUST0632,46,Female,Chennai,2023-10-08,2025-11-16,6,17874,2979.0,Home & Kitchen,Email Campaign,At Risk
+CUST0633,33,Male,Chennai,2023-10-08,2025-10-27,5,8780,1756.0,Clothing,Website,At Risk
+CUST0634,27,Female,Mumbai,2023-10-09,2026-09-03,2,2228,1114.0,Grocery,Website,Active
+CUST0635,37,Male,Indore,2023-10-09,2025-03-14,2,32387,16193.5,Electronics,Organic Search,Churned
+CUST0636,39,Male,Chennai,2023-10-09,2026-08-27,5,7933,1586.6,Clothing,Website,Active
+CUST0637,49,Female,Bengaluru,2023-10-10,2025-04-27,5,12173,2434.6,Clothing,Paid Ads,Churned
+CUST0638,34,Other,Patna,2023-10-12,2026-06-07,4,12312,3078.0,Home & Kitchen,Paid Ads,Active
+CUST0639,29,Male,Bengaluru,2023-10-13,2026-02-27,19,8195,431.32,Grocery,Store,Active
+CUST0640,38,Female,Bengaluru,2023-10-13,2025-12-14,8,15623,1952.88,Accessories,Organic Search,At Risk
+CUST0641,36,Female,Chennai,2023-10-13,2026-08-13,3,22252,7417.33,Home & Kitchen,Website,Active
+CUST0642,41,Female,Delhi,2023-10-14,2026-07-17,7,12361,1765.86,Clothing,Paid Ads,Active
+CUST0643,26,Female,Chandigarh,2023-10-15,2025-10-17,16,24940,1558.75,Accessories,Social Media,At Risk
+CUST0644,31,Female,Bengaluru,2023-10-16,2026-04-21,4,7334,1833.5,Clothing,Organic Search,At Risk
+CUST0645,50,Female,Hyderabad,2023-10-17,2025-09-12,2,4049,2024.5,Accessories,Website,Churned
+CUST0646,37,Female,Nagpur,2023-10-17,2025-04-14,3,4009,1336.33,Clothing,Website,Churned
+CUST0647,20,Male,Pune,2023-10-18,2026-06-11,9,115550,12838.89,Electronics,Website,Active
+CUST0648,39,Female,Hyderabad,2023-10-19,2025-10-27,3,13406,4468.67,Clothing,Social Media,Churned
+CUST0649,23,Female,Kolkata,2023-10-19,2023-11-09,1,888,888.0,Accessories,Social Media,Churned
+CUST0650,20,Female,Bengaluru,2023-10-21,2023-10-23,1,1108,1108.0,Books,Website,Churned
+CUST0651,32,Female,Nagpur,2023-10-21,2025-08-09,3,76185,25395.0,Electronics,Email Campaign,Churned
+CUST0652,44,Male,Chennai,2023-10-21,2026-09-13,3,79045,26348.33,Electronics,Referral,Active
+CUST0653,40,Female,Mumbai,2023-10-23,2024-06-06,3,64623,21541.0,Electronics,Social Media,Churned
+CUST0654,45,Male,Kolkata,2023-10-27,2026-08-17,4,4750,1187.5,Grocery,Store,Active
+CUST0655,39,Male,Pune,2023-10-27,2026-02-03,6,31370,5228.33,Clothing,Organic Search,At Risk
+CUST0656,30,Female,Mumbai,2023-10-27,2026-07-07,13,90129,6933.0,Electronics,Website,Active
+CUST0657,37,Female,Indore,2023-10-30,2025-07-30,1,5226,5226.0,Home & Kitchen,Organic Search,Churned
+CUST0658,47,Male,Jaipur,2023-10-31,2026-06-03,5,6065,1213.0,Grocery,Paid Ads,Active
+CUST0659,64,Male,Patna,2023-10-31,2023-11-03,1,7798,7798.0,Home & Kitchen,Website,Churned
+CUST0660,19,Male,Guwahati,2023-11-01,2025-11-28,7,20014,2859.14,Home & Kitchen,Website,At Risk
+CUST0661,35,Female,Pune,2023-11-01,2026-05-15,2,3114,1557.0,Beauty & Personal Care,Social Media,At Risk
+CUST0662,27,Male,Pune,2023-11-02,2025-08-19,2,12456,6228.0,Home & Kitchen,Organic Search,Churned
+CUST0663,41,Male,Ahmedabad,2023-11-03,2026-04-30,6,104274,17379.0,Electronics,Website,Active
+CUST0664,38,Male,Delhi,2023-11-04,2025-10-05,2,1991,995.5,Accessories,Website,Churned
+CUST0665,33,Male,Surat,2023-11-04,2026-04-06,2,1150,575.0,Books,Organic Search,At Risk
+CUST0666,27,Female,Delhi,2023-11-04,2026-01-18,9,28462,3162.44,Clothing,Organic Search,At Risk
+CUST0667,36,Male,Pune,2023-11-05,2025-09-19,2,20466,10233.0,Electronics,Organic Search,Churned
+CUST0668,49,Female,Mumbai,2023-11-06,2025-11-21,4,14643,3660.75,Home & Kitchen,Paid Ads,At Risk
+CUST0669,34,Female,Bengaluru,2023-11-07,2026-02-13,5,4160,832.0,Beauty & Personal Care,Paid Ads,At Risk
+CUST0670,31,Female,Mumbai,2023-11-07,2025-06-29,12,22568,1880.67,Clothing,Paid Ads,Churned
+CUST0671,35,Male,Lucknow,2023-11-09,2026-08-20,20,244896,12244.8,Electronics,Email Campaign,Active
+CUST0672,33,Male,Bengaluru,2023-11-10,2026-09-08,24,193870,8077.92,Electronics,Referral,Active
+CUST0673,40,Female,Bengaluru,2023-11-10,2024-07-28,3,4960,1653.33,Beauty & Personal Care,Social Media,Churned
+CUST0674,18,Male,Delhi,2023-11-11,2023-12-02,1,800,800.0,Books,Organic Search,Churned
+CUST0675,31,Male,Hyderabad,2023-11-12,2024-08-04,14,25751,1839.36,Clothing,Paid Ads,Churned
+CUST0676,59,Male,Chennai,2023-11-13,2025-06-20,3,21620,7206.67,Home & Kitchen,Paid Ads,Churned
+CUST0677,35,Male,Patna,2023-11-14,2025-05-24,2,1359,679.5,Accessories,Organic Search,Churned
+CUST0678,40,Male,Visakhapatnam,2023-11-14,2026-08-28,11,8295,754.09,Beauty & Personal Care,Store,Active
+CUST0679,34,Female,Kolkata,2023-11-14,2023-11-21,1,2468,2468.0,Home & Kitchen,Paid Ads,Churned
+CUST0680,36,Female,Pune,2023-11-15,2025-03-30,8,11390,1423.75,Accessories ,Social Media,Churned
+CUST0681,28,Male,Mumbai,2023-11-15,2026-06-16,2,13163,6581.5,Electronics,Organic Search,Active
+CUST0682,39,Female,Kolkata,2023-11-16,2026-06-21,8,21103,2637.88,Clothing,Paid Ads,Active
+CUST0683,48,Female,Bengaluru,2023-11-16,2026-08-21,4,2183,545.75,Books,Email Campaign,Active
+CUST0684,53,Female,Bhubaneswar,2023-11-17,2025-12-07,10,9434,943.4,Accessories,Organic Search,At Risk
+CUST0685,35,Female,Lucknow,2023-11-17,2026-02-27,2,1659,829.5,Books,Referral,At Risk
+CUST0686,36,Male,Mumbai,2023-11-18,2026-05-25,8,10601,1325.12,Books,Referral,Active
+CUST0687,55,Female,Kolkata,2023-11-18,2023-11-20,1,5824,5824.0,Home & Kitchen,Store,Churned
+CUST0688,26,Female,Kochi,2023-11-19,2025-10-27,3,1905,635.0,Accessories,Website,Churned
+CUST0689,26,Male,Bengaluru,2023-11-19,2025-08-31,16,194496,12156.0,Sports & Fitness,Organic Search,Churned
+CUST0690,34,Female,Bengaluru,2023-11-19,2026-04-23,5,7127,1425.4,Accessories,Website,Active
+CUST0691,39,Female,Kolkata,2023-11-19,2026-05-23,3,12202,4067.33,Sports & Fitness,Email Campaign ,At Risk
+CUST0692,35,Female,Kolkata,2023-11-20,2026-08-16,2,3773,1886.5,Beauty & Personal Care,Social Media,Active
+CUST0693,30,Female,Hyderabad,2023-11-21,2026-07-29,15,12446,829.73,Beauty & Personal Care,Social Media,Active
+CUST0694,38,Male,Delhi,2023-11-21,2024-10-09,6,20230,3371.67,Home & Kitchen,Website,Churned
+CUST0695,30,Male,Ahmedabad,2023-11-21,2025-09-15,2,6982,3491.0,Home & Kitchen,Social Media,Churned
+CUST0696,35,Female,Bengaluru,2023-11-21,2025-10-02,12,43045,3587.08,,Website,At Risk
+CUST0697,28,Male,Bengaluru,2023-11-21,2023-11-23,1,3481,3481.0,Sports & Fitness,Website,Churned
+CUST0698,35,Male,Hyderabad,2023-11-21,2025-12-24,8,95692,11961.5,Electronics,Website,At Risk
+CUST0699,25,Male,Kolkata,2023-11-22,2026-07-29,13,37225,2863.46,Sports & Fitness,Email Campaign,Active
+CUST0700,19,Male,Kolkata,2023-11-22,2025-12-19,6,29919,4986.5,Electronics,Organic Search,At Risk
+CUST0701,53,Female,Bengaluru,2023-11-22,2025-10-17,2,1410,705.0,Books,Store,Churned
+CUST0702,44,Male,Kolkata,2023-11-23,2026-01-16,7,4573,653.29,Accessories,Referral,At Risk
+CUST0703,29,Female,Kolkata,2023-11-23,2023-11-29,1,1602,1602.0,Books,Organic Search,Churned
+CUST0704,18,Female,Ahmedabad,2023-11-25,2025-02-03,2,17105,8552.5,Electronics,Paid Ads,Churned
+CUST0705,42,Male,Mumbai,2023-11-26,2026-04-18,6,131723,21953.83,,Email Campaign,Active
+CUST0706,34,,Delhi,2023-11-27,2025-04-11,11,11323,1029.36,Beauty & Personal Care,Paid Ads,Churned
+CUST0707,52,Female,Pune,2023-11-27,2025-09-05,6,25737,4289.5,Home & Kitchen,Organic Search,Churned
+CUST0708,45,Male,Jaipur,2023-12-01,2026-03-09,10,21884,2188.4,Clothing,Social Media,Active
+CUST0709,28,Male,Jaipur,2023-12-03,2026-07-25,9,51890,5765.56,Home & Kitchen,Organic Search,Active
+CUST0710,32,Male,Visakhapatnam,2023-12-04,2026-07-10,4,17366,4341.5,Sports & Fitness,Referral,Active
+CUST0711,37,Female,Nagpur,2023-12-04,2026-05-09,12,32416,2701.33,Sports & Fitness,Organic Search,Active
+CUST0712,27,Male,Mumbai,2023-12-05,2023-12-10,1,2242,2242.0,Clothing,Social Media,Churned
+CUST0713,40,Female,Indore,2023-12-05,2025-10-17,2,5067,2533.5,Home & Kitchen,Paid Ads,Churned
+CUST0714,38,Female,Jaipur,2023-12-05,2026-03-21,7,8994,1284.86,Accessories,Website,At Risk
+CUST0715,26,Female,Delhi,2023-12-05,2025-07-15,7,27656,3950.86,Clothing,Social Media,Churned
+CUST0716,51,Male,Pune,2023-12-05,2026-07-29,10,33217,3321.7,Home & Kitchen,Website,Active
+CUST0717,52,Male,Chandigarh,2023-12-06,2026-01-03,18,64372,3576.22,Clothing ,Email Campaign,At Risk
+CUST0718,38,Female,Bengaluru,2023-12-07,2025-10-27,6,18974,3162.33,Home & Kitchen,Website,At Risk
+CUST0719,22,Female,Bengaluru,2023-12-08,2026-01-08,24,41847,1743.62,Beauty & Personal Care,Website,At Risk
+CUST0720,41,Male,Indore,2023-12-09,2026-04-23,7,22299,3185.57,Clothing,Social Media,At Risk
+CUST0721,26,Male,Mumbai,2023-12-09,2024-12-02,5,100247,20049.4,Electronics,Email Campaign,Churned
+CUST0722,28,Male,Chennai,2023-12-10,2026-03-03,2,2927,1463.5,Clothing,Organic Search,At Risk
+CUST0723,35,Male,Hyderabad,2023-12-10,2026-08-14,25,105607,4224.28,Clothing,Organic Search,Active
+CUST0724,35,Male,Indore,2023-12-10,2026-01-18,7,12003,1714.71,Clothing,Social Media,At Risk
+CUST0725,36,Female,Kolkata,2023-12-10,2024-01-03,1,3137,3137.0,Clothing,Organic Search,Churned
+CUST0726,33,Male,Surat,2023-12-11,2026-04-13,7,21593,3084.71,Clothing,Organic Search,Active
+CUST0727,24,Female,Delhi,2023-12-11,2026-03-31,16,32553,2034.56,Clothing,Store,Active
+CUST0728,30,Male,Bengaluru,2023-12-12,2026-04-12,10,48358,4835.8,Clothing,Website,Active
+CUST0729,32,Male,Surat,2023-12-12,2025-08-26,3,8221,2740.33,Sports & Fitness,Store,Churned
+CUST0730,35,Female,Lucknow,2023-12-12,2026-06-26,30,10770,359.0,Grocery,Paid Ads,Active
+CUST0731,27,Female,Ahmedabad,2023-12-13,2026-03-09,3,5584,1861.33,Beauty & Personal Care,Website,At Risk
+CUST0732,39,Male,Pune,2023-12-14,2026-09-07,4,17415,4353.75,Clothing,Organic Search,Active
+CUST0733,29,Female,Kolkata,2023-12-14,2026-07-25,3,3167,1055.67,Accessories,Social Media,Active
+CUST0734,27,Male,Bengaluru,2023-12-14,2023-12-21,1,1062,1062.0,Grocery,Organic Search,Churned
+CUST0735,24,Male,Kolkata,2023-12-15,2026-04-20,2,5904,2952.0,Beauty & Personal Care,Website,At Risk
+CUST0736,24,Female,Surat,2023-12-16,2026-08-14,9,9252,1028.0,Beauty & Personal Care,Store,Active
+CUST0737,23,,Jaipur,2023-12-16,2024-11-21,2,1840,920.0,Accessories,Organic Search,Churned
+CUST0738,27,Female,Hyderabad,2023-12-17,2026-01-03,4,14629,3657.25,Electronics,Email Campaign,At Risk
+CUST0739,44,Female,Kolkata,2023-12-17,2025-08-01,3,2595,865.0,Books,Website,Churned
+CUST0740,32,Male,Bengaluru,2023-12-19,2025-12-23,3,37255,12418.33,Electronics,Website,At Risk
+CUST0741,47,Female,Kolkata,2023-12-21,2026-07-27,8,65785,8223.12,Electronics,Email Campaign,Active
+CUST0742,53,Male,Mumbai,2023-12-21,2025-09-11,2,17062,8531.0,Electronics,Organic Search,Churned
+CUST0743,39,Male,Kolkata,2023-12-22,2025-04-02,4,19101,4775.25,Home & Kitchen,Social Media,Churned
+CUST0744,38,Male,Kolkata,2023-12-22,2026-04-11,6,33110,5518.33,Home & Kitchen,Email Campaign,Active
+CUST0745,18,Female,Mumbai,2023-12-23,2026-01-08,2,1328,664.0,Grocery,Store,At Risk
+CUST0746,34,Male,Ahmedabad,2023-12-23,2026-03-16,3,18909,6303.0,Electronics,Social Media,At Risk
+CUST0747,34,Female,Mumbai,2023-12-24,2023-12-25,1,860,860.0,Beauty & Personal Care,Paid Ads,Churned
+CUST0748,35,Female,Delhi,2023-12-25,2026-08-07,7,79860,11408.57,Electronics,Paid Ads,Active
+CUST0749,27,Female,Hyderabad,2023-12-26,2025-09-26,7,6454,922.0,Grocery,Email Campaign,Churned
+CUST0750,36,Female,Jaipur,2023-12-26,2026-02-25,6,14422,2403.67,Beauty & Personal Care,Paid Ads,At Risk
+CUST0751,38,Male,Bengaluru,2023-12-26,2026-06-02,9,127072,14119.11,Electronics,Email Campaign,Active
+CUST0752,51,Female,Jaipur,2023-12-26,2026-06-06,4,2618,654.5,Books,Website,Active
+CUST0753,29,Female,Guwahati,2023-12-27,2026-01-09,2,3258,1629.0,Accessories,Social Media,At Risk
+CUST0754,37,Female,Kochi,2023-12-27,2025-04-03,4,14906,3726.5,Clothing,Email Campaign,Churned
+CUST0755,24,Male,Jaipur,2023-12-28,2026-02-17,3,15037,5012.33,Electronics,Website,At Risk
+CUST0756,39,Female,Bengaluru,2023-12-28,2025-02-18,6,20159,3359.83,Grocery,Email Campaign,Churned
+CUST0757,32,Male,Surat,2023-12-29,2026-02-08,5,4171,834.2,Books,Organic Search,At Risk
+CUST0758,40,Female,Mumbai,2023-12-29,2024-12-15,2,15271,7635.5,,Social Media,Churned
+CUST0759,18,Female,Patna,2023-12-29,2026-03-01,12,107348,8945.67,Electronics,Email Campaign,Active
+CUST0760,40,Female,Nagpur,2023-12-29,2025-01-10,2,9530,4765.0,Home & Kitchen,Referral,Churned
+CUST0761,62,Female,Hyderabad,2023-12-30,2026-03-21,2,2934,1467.0,Clothing,Social Media,Active
+CUST0762,38,Male,Bengaluru,2023-12-30,2025-12-14,2,5991,2995.5,Sports & Fitness,Website,At Risk
+CUST0763,26,Female,Ahmedabad,2023-12-30,2026-06-11,9,65684,7298.22,Electronics,Website,Active
+CUST0764,46,Male,Delhi,2023-12-31,2025-04-16,2,2678,1339.0,Grocery,Website,Churned
+CUST0765,26,Female,Guwahati,2023-12-31,2025-06-03,5,51459,10291.8,Electronics,Organic Search,Churned
+CUST0766,47,Male,Kolkata,2023-12-31,2025-06-11,6,8470,1411.67,Accessories,Website,Churned
+CUST0767,31,Male,Mumbai,2024-01-01,2025-06-29,15,25449,1696.6,Grocery,Email Campaign,Churned
+CUST0768,18,Female,Bengaluru,2024-01-01,2026-09-11,8,4821,602.62,Grocery,Social Media,Active
+CUST0769,38,Female,Kochi,2024-01-05,2026-05-29,13,147984,11383.38,Electronics,Website,Active
+CUST0770,33,Female,Kolkata,2024-01-05,2026-06-30,3,14324,4774.67,Electronics,Organic Search,Active
+CUST0771,41,Male,Visakhapatnam,2024-01-06,2025-12-17,4,1479,369.75,Books,Organic Search,At Risk
+CUST0772,48,Female,Kolkata,2024-01-06,2026-07-30,12,43683,3640.25,Clothing,Social Media,Active
+CUST0773,56,Male,Indore,2024-01-07,2026-05-06,13,55856,4296.62,Home & Kitchen,Social Media,Active
+CUST0774,26,Female,Bengaluru,2024-01-08,2026-03-03,15,9170,611.33,Books,Referral,Active
+CUST0775,41,Male,Chennai,2024-01-08,2026-08-31,3,2595,865.0,Clothing,Social Media,Active
+CUST0776,31,Female,Chennai,2024-01-09,2026-08-30,17,9363,550.76,Grocery,Website,Active
+CUST0777,51,Male,Hyderabad,2024-01-09,2024-01-09,1,10237,10237.0,Electronics,Organic Search,Churned
+CUST0778,40,Male,Pune,2024-01-12,2026-04-13,3,11318,3772.67,Home & Kitchen,Website,Active
+CUST0779,40,,Surat,2024-01-13,2026-03-17,13,14722,1132.46,Clothing,Store,At Risk
+CUST0780,36,Male,Guwahati,2024-01-13,2024-01-19,1,1901,1901.0,Home & Kitchen,Referral,Churned
+CUST0781,58,Female,Kochi,2024-01-13,2026-02-27,20,36121,1806.05,Clothing,Email Campaign,At Risk
+CUST0782,49,Male,Kolkata,2024-01-14,2026-02-28,6,4427,737.83,Grocery,Paid Ads,At Risk
+CUST0783,34,Other,Pune,2024-01-14,2026-05-05,14,78974,5641.0,Clothing,Referral,Active
+CUST0784,36,Female,Kochi,2024-01-16,2026-02-25,2,4118,2059.0,Beauty & Personal Care,Email Campaign,At Risk
+CUST0785,23,Female,Chennai,2024-01-18,2026-04-30,7,8160,1165.71,Beauty & Personal Care,Website,Active
+CUST0786,42,Male,Pune,2024-01-18,2026-03-02,9,5038,559.78,Books,Email Campaign,At Risk
+CUST0787,42,Male,Bengaluru,2024-01-20,2025-07-22,11,67601,6145.55,Home & Kitchen,Store,Churned
+CUST0788,38,Female,Mumbai,2024-01-21,2024-10-28,2,4755,2377.5,Beauty & Personal Care,Paid Ads,Churned
+CUST0789,26,Male,Delhi,2024-01-21,2025-07-18,3,3323,1107.67,Beauty & Personal Care,Social Media,Churned
+CUST0790,38,Female,Bengaluru,2024-01-21,2025-09-26,3,6830,2276.67,Clothing,Organic Search,Churned
+CUST0791,18,Female,Delhi,2024-01-21,2026-01-03,9,14544,1616.0,Beauty & Personal Care,Social Media,At Risk
+CUST0792,40,Male,Visakhapatnam,2024-01-21,2026-06-14,4,24798,6199.5,Electronics,Website,Active
+CUST0793,29,Female,Jaipur,2024-01-22,2026-06-26,10,6545,654.5,Clothing,Social Media,Active
+CUST0794,24,Female,Pune,2024-01-24,2024-01-24,1,2325,2325.0,Beauty & Personal Care,Store,Churned
+CUST0795,49,Male,Bhubaneswar,2024-01-24,2025-12-02,5,3965,793.0,Accessories,Organic Search,At Risk
+CUST0796,32,Male,Bengaluru,2024-01-25,2026-06-28,4,7315,1828.75,Grocery,Email Campaign,Active
+CUST0797,34,Female,Hyderabad,2024-01-26,2026-02-26,9,12332,1370.22,Books,Email Campaign,Active
+CUST0798,33,Female,Jaipur,2024-01-28,2026-05-20,4,20500,5125.0,Clothing,Referral,At Risk
+CUST0799,39,Female,Mumbai,2024-01-28,2024-01-30,1,9897,9897.0,Electronics,Organic Search,Churned
+CUST0800,28,Male,Hyderabad,2024-01-28,2024-02-01,1,924,924.0,Clothing,Social Media,Churned
+CUST0801,46,Male,Pune,2024-01-28,2025-08-11,12,61878,5156.5,Electronics,Paid Ads,Churned
+CUST0802,25,Female,Indore,2024-01-30,2025-11-02,11,13219,1201.73,Clothing,Website,At Risk
+CUST0803,27,Male,Chennai,2024-02-01,2026-07-04,3,20189,6729.67,Clothing,Email Campaign,Active
+CUST0804,34,Male,Delhi,2024-02-01,2025-08-23,5,38494,7698.8,Home & Kitchen,Website,Churned
+CUST0805,50,Female,Delhi,2024-02-02,2026-07-03,5,12989,2597.8,Beauty & Personal Care,Social Media,Active
+CUST0806,28,Female,Bengaluru,2024-02-04,2026-06-13,4,6196,1549.0,Beauty & Personal Care,Website,Active
+CUST0807,35,Other,Jaipur,2024-02-04,2026-03-23,10,20764,2076.4,Clothing,Organic Search,At Risk
+CUST0808,28,,Delhi,2024-02-05,2025-06-19,8,13698,1712.25,Beauty & Personal Care,Referral,Churned
+CUST0809,58,Female,Bhubaneswar,2024-02-06,2025-08-23,6,3216,536.0,Accessories,Paid Ads,Churned
+CUST0810,49,Female,Delhi,2024-02-06,2026-06-29,3,10981,3660.33,Clothing,Website,Active
+CUST0811,45,Male,Hyderabad,2024-02-07,2026-08-14,8,20410,2551.25,Home & Kitchen,Social Media,Active
+CUST0812,62,Male,Pune,2024-02-07,2026-07-31,2,1388,694.0,Books,Website,Active
+CUST0813,34,Female,Mumbai,2024-02-07,2025-02-03,2,5290,2645.0,Accessories,Website,Churned
+CUST0814,37,Female,Delhi,2024-02-08,2025-06-09,2,9920,4960.0,Sports & Fitness,Email Campaign,Churned
+CUST0815,30,Male,Bengaluru,2024-02-08,2024-02-13,1,6297,6297.0,Sports & Fitness,Website,Churned
+CUST0816,29,Male,Ahmedabad,2024-02-10,2025-10-23,4,6037,1509.25,Clothing,Social Media,At Risk
+CUST0817,25,Female,Hyderabad,2024-02-11,2025-11-28,3,1337,445.67,Books,Store,At Risk
+CUST0818,29,Female,Bengaluru,2024-02-12,2025-07-10,2,32280,16140.0,Electronics,Social Media,Churned
+CUST0819,27,Male,Hyderabad,2024-02-13,2025-02-20,2,1546,773.0,Grocery,Website,Churned
+CUST0820,40,Female,Chennai,2024-02-16,2026-07-27,28,106777,3813.46,Electronics,Website,Active
+CUST0821,65,Male,Kolkata,2024-02-16,2026-03-23,2,12213,6106.5,Electronics,Website,Active
+CUST0822,35,Male,Surat,2024-02-16,2025-08-03,1,12825,12825.0,Electronics,Social Media,Churned
+CUST0823,43,Male,Delhi,2024-02-16,2026-06-27,15,14641,976.07,Beauty & Personal Care,Social Media,Active
+CUST0824,24,Male,Kolkata,2024-02-16,2026-01-03,6,118249,19708.17,,Organic Search,At Risk
+CUST0825,24,Female,Pune,2024-02-17,2026-07-23,7,62170,8881.43,Electronics,Social Media,Active
+CUST0826,32,Female,Kolkata,2024-02-17,2026-06-18,2,6217,3108.5,Sports & Fitness,Website,Active
+CUST0827,27,Female,Bengaluru,2024-02-17,2025-04-21,2,1074,537.0,Accessories,Email Campaign,Churned
+CUST0828,40,Male,Mumbai,2024-02-17,2026-08-05,28,118532,4233.29,Home & Kitchen,Organic Search,Active
+CUST0829,39,Male,Kolkata,2024-02-18,2026-08-31,19,32994,1736.53,Books,Email Campaign,Active
+CUST0830,35,Male,Hyderabad,2024-02-19,2026-05-21,15,79296,5286.4,Clothing,Store,Active
+CUST0831,42,Male,Bengaluru,2024-02-20,2025-03-20,3,21048,7016.0,Electronics,Organic Search,Churned
+CUST0832,30,Male,Bengaluru,2024-02-21,2026-09-07,8,19904,2488.0,Accessories,Website,Active
+CUST0833,33,Male,Indore,2024-02-22,2026-03-18,2,3583,1791.5,Home & Kitchen,Email Campaign,At Risk
+CUST0834,42,Male,Indore,2024-02-23,2026-04-13,2,1582,791.0,Books,Organic Search,Active
+CUST0835,53,Female,Chennai,2024-02-23,2024-07-11,1,2941,2941.0,Beauty & Personal Care,Social Media,Churned
+CUST0836,29,Male,Hyderabad,2024-02-26,2026-04-26,10,166783,16678.3,Electronics,Organic Search,Active
+CUST0837,30,Female,Chennai,2024-03-03,2025-10-20,3,5920,1973.33,Accessories,Website,Churned
+CUST0838,46,Male,Hyderabad,2024-03-04,2024-03-06,1,637,637.0,Books,Paid Ads,Churned
+CUST0839,33,Male,Delhi,2024-03-04,2025-07-20,7,33303,4757.57,Clothing,Website,Churned
+CUST0840,45,Female,Mumbai,2024-03-05,2026-06-08,5,9485,1897.0,Beauty & Personal Care,Organic Search,At Risk
+CUST0841,36,Female,Bengaluru,2024-03-05,2026-03-20,6,14880,2480.0,Home & Kitchen,Email Campaign,At Risk
+CUST0842,32,Female,Pune,2024-03-05,2025-06-07,2,2868,1434.0,Clothing,Social Media,Churned
+CUST0843,34,Other,Mumbai,2024-03-05,2025-09-06,9,7779,864.33,Clothing,Social Media,Churned
+CUST0844,40,Female,Kolkata,2024-03-05,2024-03-06,1,918,918.0,Beauty & Personal Care,Paid Ads,Churned
+CUST0845,28,Female,Mumbai,2024-03-06,2026-04-08,12,15418,1284.83,Beauty & Personal Care,Website,Active
+CUST0846,28,Male,Kolkata,2024-03-07,2026-08-04,6,69235,11539.17,Electronics,Paid Ads,Active
+CUST0847,26,Male,Kolkata,2024-03-07,2026-02-12,17,42444,2496.71,Clothing,Store,At Risk
+CUST0848,47,Male,Hyderabad,2024-03-08,2024-12-25,1,14492,14492.0,Home & Kitchen,Store,Churned
+CUST0849,35,Male,Kochi,2024-03-08,2024-09-25,5,49328,9865.6,Electronics,Organic Search,Churned
+CUST0850,18,Female,Ranchi,2024-03-09,2025-12-10,4,60637,15159.25,Electronics,Paid Ads,At Risk
+CUST0851,41,Male,Mumbai,2024-03-09,2025-10-22,2,7828,3914.0,Electronics,Paid Ads,At Risk
+CUST0852,36,Male,Hyderabad,2024-03-11,2025-08-12,8,41034,5129.25,Home & Kitchen,Website,Churned
+CUST0853,18,Male,Delhi,2024-03-11,2026-04-25,6,2532,422.0,Books,Social Media,At Risk
+CUST0854,46,Male,Delhi,2024-03-12,2024-03-18,1,16139,16139.0,Electronics,Website,Churned
+CUST0855,48,Male,Ranchi,2024-03-12,2026-06-21,5,4630,926.0,Grocery,Website,Active
+CUST0856,33,Female,Chennai,2024-03-13,2026-07-22,3,15324,5108.0,Clothing,Store,Active
+CUST0857,38,Male,Pune,2024-03-13,2026-02-27,7,27666,3952.29,Home & Kitchen,Referral,Active
+CUST0858,46,Female,Hyderabad,2024-03-14,2026-08-26,13,69337,5333.62,Home & Kitchen,Referral,Active
+CUST0859,28,Female,Lucknow,2024-03-14,2026-02-15,5,5198,1039.6,Beauty & Personal Care,Referral,At Risk
+CUST0860,48,Male,Delhi,2024-03-15,2026-03-22,2,23822,11911.0,Electronics,Paid Ads,At Risk
+CUST0861,29,Male,Delhi,2024-03-16,2025-06-29,3,52697,17565.67,Electronics,Website,Churned
+CUST0862,28,Female,Mumbai,2024-03-16,2026-07-30,5,22560,4512.0,Clothing,Social Media,Active
+CUST0863,36,Male,Bengaluru,2024-03-18,2026-03-01,8,31129,3891.12,Sports & Fitness,Email Campaign,Active
+CUST0864,20,Female,Chennai,2024-03-18,2024-03-19,1,2033,2033.0,Clothing,Store,Churned
+CUST0865,41,Female,Ahmedabad,2024-03-18,2025-06-30,3,1035,345.0,Books,Organic Search,Churned
+CUST0866,39,Male,Mumbai,2024-03-20,2026-01-05,8,52066,6508.25,Home & Kitchen,Website,At Risk
+CUST0867,18,Female,Chennai,2024-03-20,2025-11-07,2,6667,3333.5,Clothing,Paid Ads,At Risk
+CUST0868,31,Male,Kolkata,2024-03-22,2024-03-27,1,5545,5545.0,Electronics,Social Media,Churned
+CUST0869,28,Female,Mumbai,2024-03-22,2026-05-29,8,25374,3171.75,Clothing,Website,Active
+CUST0870,25,Female,Kolkata,2024-03-23,2025-07-28,11,82368,7488.0,Electronics,Organic Search,Churned
+CUST0871,21,Female,Delhi,2024-03-23,2026-06-22,16,19135,1195.94,Beauty & Personal Care,Email Campaign,Active
+CUST0872,24,Male,Hyderabad,2024-03-24,2026-06-09,7,11044,1577.71,Beauty & Personal Care,Store,Active
+CUST0873,26,Male,Bengaluru,2024-03-25,2024-03-30,1,9920,9920.0,Electronics,Paid Ads,Churned
+CUST0874,25,Female,Ahmedabad,2024-03-27,2025-03-29,4,31809,7952.25,Electronics,Social Media,Churned
+CUST0875,30,Female,Mumbai,2024-03-27,2026-03-25,7,18014,2573.43,Beauty & Personal Care,Paid Ads,Active
+CUST0876,28,Female,Pune,2024-03-28,2025-02-12,2,2904,1452.0,Sports & Fitness,Organic Search,Churned
+CUST0877,23,Female,Kolkata,2024-03-28,2025-11-21,4,19464,4866.0,Clothing,Organic Search,At Risk
+CUST0878,53,Female,Mumbai,2024-03-30,2025-03-14,3,10440,3480.0,Sports & Fitness,Store,Churned
+CUST0879,34,Female,Bhubaneswar,2024-03-31,2025-10-25,4,15613,3903.25,Electronics,Website,At Risk
+CUST0880,20,Male,Pune,2024-03-31,2025-03-31,5,25693,5138.6,Sports & Fitness,Email Campaign,Churned
+CUST0881,41,Female,Kochi,2024-03-31,2025-06-15,2,3913,1956.5,Clothing,Paid Ads,Churned
+CUST0882,30,Male,Bengaluru,2024-03-31,2026-08-08,10,16332,1633.2,Beauty & Personal Care,Social Media,Active
+CUST0883,37,Male,Pune,2024-03-31,2025-11-19,7,14902,2128.86,Beauty & Personal Care,Social Media,At Risk
+CUST0884,26,Female,Chennai,2024-04-01,2026-07-31,4,9291,2322.75,Accessories,Paid Ads,Active
+CUST0885,23,Female,Bengaluru,2024-04-02,2026-07-23,14,221378,15812.71,Electronics,Website,Active
+CUST0886,32,Female,Guwahati,2024-04-02,2026-07-14,2,2930,1465.0,Clothing,Store,Active
+CUST0887,23,Female,Ahmedabad,2024-04-03,2025-01-12,2,2286,1143.0,Beauty & Personal Care,Paid Ads,Churned
+CUST0888,41,Female,Bhubaneswar,2024-04-04,2025-06-21,5,29564,5912.8,Electronics,Website,At Risk
+CUST0889,50,Male,Delhi,2024-04-05,2026-07-29,2,10041,5020.5,Home & Kitchen,Website,Active
+CUST0890,38,Female,Bhubaneswar,2024-04-06,2026-02-08,2,19533,9766.5,Electronics,Paid Ads,At Risk
+CUST0891,32,Female,Mumbai,2024-04-06,2026-08-22,9,6771,752.33,Grocery,Website,Active
+CUST0892,28,Male,Pune,2024-04-07,2024-05-13,1,9046,9046.0,Electronics,Organic Search,Churned
+CUST0893,43,Male,Kolkata,2024-04-09,2024-12-30,4,3159,789.75,Books,Email Campaign,Churned
+CUST0894,47,Male,Guwahati,2024-04-09,2026-03-08,4,4043,1010.75,Books,Organic Search,Active
+CUST0895,25,Female,Pune,2024-04-09,2024-04-25,1,2628,2628.0,Clothing,Website,Churned
+CUST0896,27,Male,Delhi,2024-04-10,2026-07-14,10,24079,2407.9,Sports & Fitness,Website,Active
+CUST0897,43,Female,Guwahati,2024-04-10,2026-04-24,4,3297,824.25,Accessories,Website,Active
+CUST0898,29,Male,Jaipur,2024-04-11,2026-07-25,2,2845,1422.5,Home & Kitchen,Website,Active
+CUST0899,38,Female,Kolkata,2024-04-11,2025-07-02,3,7072,2357.33,Clothing,Website,Churned
+CUST0900,41,Male,Mumbai,2024-04-13,2026-03-15,5,22571,4514.2,Sports & Fitness,Store,At Risk
+CUST0901,38,Male,Bengaluru,2024-04-14,2024-04-21,1,3946,3946.0,Beauty & Personal Care,Organic Search,Churned
+CUST0902,35,Male,Mumbai,2024-04-15,2026-03-25,3,4197,1399.0,Clothing,Paid Ads,Active
+CUST0903,33,Female,Chennai ,2024-04-16,2026-07-11,14,47795,3413.93,Home & Kitchen,Organic Search,Active
+CUST0904,25,Male,Delhi,2024-04-17,2024-11-20,2,4679,2339.5,Accessories,Organic Search,Churned
+CUST0905,30,Male,Pune,2024-04-17,2025-05-13,4,4686,1171.5,Beauty & Personal Care,Website,Churned
+CUST0906,38,Male,Patna,2024-04-18,2026-02-06,2,1276,638.0,Books,Email Campaign,At Risk
+CUST0907,21,Female,Pune,2024-04-18,2026-08-25,8,24032,3004.0,Sports & Fitness,Email Campaign,Active
+CUST0908,28,Female,Mumbai,2024-04-18,2024-05-03,1,1112,1112.0,Clothing,Social Media,Churned
+CUST0909,35,Female,Lucknow,2024-04-18,2025-07-30,4,2518,629.5,Accessories,Referral,Churned
+CUST0910,37,Female,Chennai,2024-04-21,2025-12-16,2,3357,1678.5,Beauty & Personal Care,Email Campaign,At Risk
+CUST0911,32,Female,Pune,2024-04-21,2026-05-19,6,60886,10147.67,Electronics,Email Campaign,Active
+CUST0912,29,Female,Kolkata,2024-04-21,2025-11-20,2,22140,11070.0,Electronics,Social Media,At Risk
+CUST0913,36,Male,Chennai,2024-04-23,2026-02-22,16,16475,1029.69,Beauty & Personal Care,Organic Search,Active
+CUST0914,34,Female,Bhubaneswar,2024-04-23,2026-02-15,20,19130,956.5,Grocery,Email Campaign,Active
+CUST0915,32,Female,Bengaluru,2024-04-24,2026-06-15,2,2430,1215.0,Home & Kitchen,Website,Active
+CUST0916,32,Male,Hyderabad,2024-04-25,2025-10-24,3,1018,339.33,Grocery,Website,Churned
+CUST0917,47,Male,Bengaluru,2024-04-26,2025-06-30,4,22430,5607.5,Sports & Fitness,Website,Churned
+CUST0918,39,Female,Delhi,2024-04-27,2025-06-19,1,18953,18953.0,Electronics,Paid Ads,Churned
+CUST0919,41,Female,Hyderabad,2024-04-28,2026-09-06,14,16111,1150.79,Accessories,Social Media,Active
+CUST0920,43,Male,Pune,2024-04-29,2026-06-23,12,58046,4837.17,Electronics,Social Media,Active
+CUST0921,30,Female,Guwahati,2024-04-30,2026-04-24,4,2434,608.5,Accessories,Paid Ads,At Risk
+CUST0922,18,Female,Mumbai,2024-04-30,2025-09-26,6,6298,1049.67,Accessories,Social Media,At Risk
+CUST0923,22,Female,Mumbai,2024-04-30,2025-12-07,13,39249,3019.15,Beauty & Personal Care,Referral,At Risk
+CUST0924,38,Male,Mumbai,2024-04-30,2026-06-16,3,2883,961.0,Books,Store,Active
+CUST0925,24,Female,Surat,2024-05-01,2024-05-21,1,1369,1369.0,Grocery,Organic Search,Churned
+CUST0926,36,Female,Delhi,2024-05-03,2026-07-27,4,16482,4120.5,Clothing,Email Campaign,Active
+CUST0927,44,Male,Mumbai,2024-05-04,2025-04-30,3,16681,5560.33,Clothing,Referral,Churned
+CUST0928,37,Female,Delhi,2024-05-05,2026-06-27,10,14355,1435.5,Grocery,Social Media,Active
+CUST0929,33,Male,Kochi,2024-05-05,2026-03-13,5,5268,1053.6,Accessories,Organic Search,At Risk
+CUST0930,32,Male,Kochi,2024-05-06,2025-12-30,6,66000,11000.0,Electronics,Website,At Risk
+CUST0931,29,Male,Hyderabad,2024-05-06,2026-05-31,3,3866,1288.67,Beauty & Personal Care,Store,Active
+CUST0932,35,Male,Bengaluru,2024-05-07,2026-07-21,7,12155,1736.43,Accessories,Email Campaign,Active
+CUST0933,38,Female,Ahmedabad,2024-05-08,2026-06-01,4,5190,1297.5,Clothing,Website,Active
+CUST0934,35,Male,Mumbai,2024-05-09,2025-03-16,3,6378,2126.0,Beauty & Personal Care,Organic Search,Churned
+CUST0935,30,Male,Ahmedabad,2024-05-09,2026-07-09,6,3569,594.83,Accessories,Paid Ads,Active
+CUST0936,46,Female,Delhi,2024-05-10,2026-08-03,4,36208,9052.0,Electronics,Store,Active
+CUST0937,52,Male,Surat,2024-05-12,2024-11-04,3,33533,11177.67,Electronics,Social Media,Churned
+CUST0938,34,Male,Mumbai,2024-05-14,2026-05-12,7,6483,926.14,Grocery,Organic Search,Active
+CUST0939,26,Female,Bengaluru,2024-05-14,2026-06-12,18,154098,8561.0,Electronics,Social Media,Active
+CUST0940,36,Male,Chennai,2024-05-18,2025-02-04,2,2087,1043.5,Books,Paid Ads,Churned
+CUST0941,40,Male,Pune,2024-05-19,2024-05-22,1,3414,3414.0,Clothing,Referral,Churned
+CUST0942,20,Male,Kolkata,2024-05-20,2026-08-19,12,34613,2884.42,Home & Kitchen,Organic Search,Active
+CUST0943,44,Male,Ranchi,2024-05-21,2026-05-18,3,3702,1234.0,Grocery,Website,Active
+CUST0944,28,Female,Mumbai,2024-05-21,2026-07-24,2,7227,3613.5,Home & Kitchen,Paid Ads,Active
+CUST0945,30,Male,Delhi,2024-05-22,2026-06-13,17,34258,2015.18,Clothing,Email Campaign,Active
+CUST0946,26,Male,Bengaluru,2024-05-23,2026-07-27,4,3661,915.25,Grocery,Social Media,Active
+CUST0947,18,Female,Bengaluru,2024-05-24,2026-03-26,7,13754,1964.86,Sports & Fitness,Referral,Active
+CUST0948,28,Female,Kolkata,2024-05-25,2025-12-30,2,2150,1075.0,Accessories,Organic Search,At Risk
+CUST0949,21,Male,Mumbai,2024-05-26,2025-02-15,1,1515,1515.0,Grocery,Social Media,Churned
+CUST0950,23,Female,Jaipur,2024-05-26,2026-05-15,4,14489,3622.25,Sports & Fitness,Social Media,Active
+CUST0951,44,Female,Chennai,2024-05-27,2024-06-21,1,3506,3506.0,Clothing,Website,Churned
+CUST0952,41,Male,Mumbai,2024-05-27,2025-01-11,1,13237,13237.0,Electronics,Website,Churned
+CUST0953,34,Female,Hyderabad,2024-05-28,2026-06-29,3,27823,9274.33,Electronics,Referral,Active
+CUST0954,24,Female,Mumbai,2024-05-28,2026-08-17,4,19889,4972.25,Electronics,Social Media,Active
+CUST0955,44,Female,Delhi,2024-05-28,2025-11-20,5,6397,1279.4,Beauty & Personal Care,Social Media,At Risk
+CUST0956,33,Female,Indore,2024-05-29,2026-08-14,8,22059,2757.38,Electronics,Website,Active
+CUST0957,30,Male,Bengaluru,2024-05-30,2024-05-31,1,2154,2154.0,Sports & Fitness,Social Media,Churned
+CUST0958,25,Male,Mumbai,2024-05-31,2025-09-19,12,35251,2937.58,Clothing,Social Media,Churned
+CUST0959,33,Male,Kolkata,2024-05-31,2026-06-02,21,203433,9687.29,Electronics,Organic Search,Active
+CUST0960,53,Male,Mumbai,2024-05-31,2026-06-23,12,19022,1585.17,Sports & Fitness,Paid Ads,Active
+CUST0961,37,Female,Pune,2024-05-31,2024-06-02,1,4609,4609.0,Clothing,Website,Churned
+CUST0962,29,Female,Hyderabad,2024-05-31,2024-06-01,1,667,667.0,Books,Paid Ads,Churned
+CUST0963,37,Male,,2024-06-02,2025-11-05,12,46687,3890.58,Home & Kitchen,Organic Search,At Risk
+CUST0964,37,Male,Chennai,2024-06-03,2025-10-04,2,3854,1927.0,Home & Kitchen,Paid Ads,Churned
+CUST0965,43,Female,Kolkata,2024-06-03,2026-04-18,7,5095,727.86,Accessories,Organic Search,At Risk
+CUST0966,42,Male,Bhubaneswar,2024-06-04,2026-04-17,7,46628,6661.14,Electronics,Website,Active
+CUST0967,21,Male,Hyderabad,2024-06-05,2026-06-03,4,14826,3706.5,Home & Kitchen,Organic Search,Active
+CUST0968,52,Male,Kolkata,2024-06-05,2025-02-28,2,6061,3030.5,Accessories,Organic Search,Churned
+CUST0969,18,Male,Mumbai,2024-06-06,2025-10-07,10,9163,916.3,Grocery,Referral,At Risk
+CUST0970,24,Female,Kolkata,2024-06-07,2026-04-16,5,5801,1160.2,Grocery,Store,At Risk
+CUST0971,50,,Hyderabad,2024-06-07,2024-06-10,1,15252,15252.0,Electronics,Paid Ads,Churned
+CUST0972,46,Female,Hyderabad,2024-06-08,2026-08-26,14,53112,3793.71,Home & Kitchen,Organic Search,Active
+CUST0973,36,Female,Jaipur,2024-06-08,2024-06-08,1,5313,5313.0,Home & Kitchen,Social Media,Churned
+CUST0974,33,Female,Surat,2024-06-08,2026-09-13,20,17456,872.8,Beauty & Personal Care,Website,Active
+CUST0975,29,Male,Kolkata,2024-06-09,2026-06-08,10,67885,6788.5,Electronics,Referral,Active
+CUST0976,33,Male,Lucknow,2024-06-09,2025-12-29,5,3513,702.6,,Website,At Risk
+CUST0977,32,Female,Delhi,2024-06-10,2026-03-12,3,7936,2645.33,Clothing,Organic Search,Active
+CUST0978,35,Male,Pune,2024-06-10,2025-10-16,10,19136,1913.6,Grocery,Website,At Risk
+CUST0979,25,Male,,2024-06-10,2025-05-12,7,94950,13564.29,Electronics,Website,Churned
+CUST0980,34,Male,Chennai,2024-06-11,2024-06-25,1,12387,12387.0,Sports & Fitness,Store,Churned
+CUST0981,20,Female,Chennai,2024-06-12,2024-06-18,1,4072,4072.0,Sports & Fitness,Website,Churned
+CUST0982,18,Female,Bengaluru,2024-06-13,2025-07-27,5,5138,1027.6,Beauty & Personal Care,Social Media,Churned
+CUST0983,41,Female,Bhubaneswar,2024-06-15,2024-06-28,1,1954,1954.0,Sports & Fitness,Paid Ads,Churned
+CUST0984,57,Female,Delhi,2024-06-19,2026-01-24,4,7385,1846.25,Beauty & Personal Care,Paid Ads,At Risk
+CUST0985,34,Male,Jaipur,2024-06-19,2026-07-20,2,10324,5162.0,Electronics,Website,Active
+CUST0986,32,,Ahmedabad,2024-06-19,2026-04-20,6,31111,5185.17,Home & Kitchen,Email Campaign,At Risk
+CUST0987,43,Male,Chandigarh,2024-06-20,2026-09-04,8,15900,1987.5,Beauty & Personal Care,Website,Active
+CUST0988,21,Female,Pune,2024-06-21,2024-06-22,1,747,747.0,Books,Email Campaign,Churned
+CUST0989,19,Male,Pune,2024-06-23,2026-06-29,2,10171,5085.5,Clothing,Website,Active
+CUST0990,38,Female,Delhi,2024-06-23,2026-04-24,5,3877,775.4,Grocery,Organic Search,At Risk
+CUST0991,44,Male,Kolkata,2024-06-23,2026-04-01,15,26600,1773.33,Home & Kitchen,Paid Ads,At Risk
+CUST0992,37,Male,Bengaluru,2024-06-24,2024-06-26,1,1601,1601.0,Grocery,Store,Churned
+CUST0993,30,Male,Mumbai,2024-06-25,2026-08-19,5,4808,961.6,Books,Organic Search,Active
+CUST0994,54,Female,Patna,2024-06-25,2026-07-26,8,32832,4104.0,Beauty & Personal Care,Referral,Active
+CUST0995,28,Female,Pune,2024-06-25,2026-08-31,11,24490,2226.36,Accessories,Paid Ads,Active
+CUST0996,65,Female,Bengaluru,2024-06-26,2026-08-30,8,36937,4617.12,Clothing,Social Media,Active
+CUST0997,28,Male,Kolkata,2024-06-27,2026-07-31,2,5800,2900.0,Sports & Fitness,Store,Active
+CUST0998,22,Female,Ahmedabad,2024-06-28,2026-06-09,9,13165,1462.78,,Paid Ads,Active
+CUST0999,30,Male,Jaipur,2024-06-28,2025-11-19,5,11237,2247.4,Home & Kitchen,Website,Churned
+CUST1000,40,Male,Delhi,2024-06-30,2026-06-06,2,5946,2973.0,Sports & Fitness,Email Campaign,Active
+CUST1001,31,Female,Kolkata,2024-07-02,2026-03-14,8,11903,1487.88,Clothing,Social Media,At Risk
+CUST1002,37,Female,Delhi,2024-07-05,2026-04-07,3,12736,4245.33,Sports & Fitness,Social Media,At Risk
+CUST1003,27,,Chennai,2024-07-05,2025-08-09,3,3998,1332.67,Books,Store,Churned
+CUST1004,43,Male,Indore,2024-07-06,2024-12-14,3,4339,1446.33,Clothing,Social Media,Churned
+CUST1005,29,Male,Kochi,2024-07-06,2026-03-02,6,18502,3083.67,Home & Kitchen,Paid Ads,Active
+CUST1006,23,Female,Lucknow,2024-07-06,2026-09-02,2,2612,1306.0,Beauty & Personal Care,Organic Search,Active
+CUST1007,49,Male,Chennai,2024-07-07,2026-03-25,3,15315,5105.0,Home & Kitchen,Website,At Risk
+CUST1008,28,Female,Delhi,2024-07-07,2026-04-04,3,4990,1663.33,Clothing,Social Media,At Risk
+CUST1009,30,Female,Delhi,2024-07-07,2026-06-19,4,5950,1487.5,Beauty & Personal Care,Social Media,Active
+CUST1010,35,Female,Kochi,2024-07-08,2026-09-08,12,87130,7260.83,Home & Kitchen,Website,Active
+CUST1011,33,Male,Hyderabad,2024-07-08,2025-07-03,3,24848,8282.67,Electronics,Email Campaign,Churned
+CUST1012,41,Male,Jaipur,2024-07-09,2026-02-14,5,7703,1540.6,Sports & Fitness,Paid Ads,At Risk
+CUST1013,28,Female,Ahmedabad,2024-07-10,2024-11-16,2,2822,1411.0,Accessories,Organic Search,Churned
+CUST1014,38,Female,Delhi,2024-07-11,2026-05-15,5,41828,8365.6,Electronics,Paid Ads,Active
+CUST1015,33,Female,Mumbai,2024-07-11,2026-07-21,3,13377,4459.0,Clothing,Organic Search,Active
+CUST1016,37,Female,Jaipur,2024-07-13,2024-07-21,1,1547,1547.0,Beauty & Personal Care,Paid Ads,Churned
+CUST1017,26,Female,Kolkata,2024-07-13,2026-07-21,11,109646,9967.82,Electronics,Organic Search,Active
+CUST1018,39,Male,Bengaluru,2024-07-14,2026-05-26,3,4889,1629.67,Sports & Fitness,Store,Active
+CUST1019,23,Female,Kolkata,2024-07-16,2026-03-05,6,4258,709.67,Grocery,Website,At Risk
+CUST1020,51,Male,Lucknow,2024-07-16,2025-01-16,2,10547,5273.5,Home & Kitchen,Paid Ads,Churned
+CUST1021,19,Male,Delhi,2024-07-17,2026-05-18,1,7250,7250.0,Sports & Fitness,Organic Search,At Risk
+CUST1022,28,Male,Delhi,2024-07-18,2026-08-12,3,7636,2545.33,Clothing,Organic Search,Active
+CUST1023,31,Female,Pune,2024-07-19,2025-09-10,2,5059,2529.5,Books,Website,Churned
+CUST1024,36,Male,Ranchi,2024-07-21,2026-08-27,8,7587,948.38,Accessories,Referral,Active
+CUST1025,47,Male,Kolkata,2024-07-21,2026-01-30,2,7010,3505.0,Home & Kitchen,Referral,At Risk
+CUST1026,24,Male,Bengaluru,2024-07-21,2026-07-17,5,3882,776.4,Grocery,Referral,Active
+CUST1027,42,Male,Ahmedabad,2024-07-22,2026-02-03,8,15015,1876.88,Clothing,Social Media,At Risk
+CUST1028,48,Male,Bengaluru,2024-07-22,2025-08-27,4,20353,5088.25,Clothing,Email Campaign,Churned
+CUST1029,55,Male,Kolkata,2024-07-23,2025-06-08,3,62074,20691.33,Electronics,Organic Search,Churned
+CUST1030,28,Female,Mumbai,2024-07-24,2026-05-11,2,1400,700.0,Grocery,Organic Search,Active
+CUST1031,37,Female,Hyderabad,2024-07-26,2026-02-11,4,6124,1531.0,Beauty & Personal Care,Social Media,At Risk
+CUST1032,48,Male,Indore,2024-07-26,2025-06-05,1,951,951.0,Grocery,Paid Ads,Churned
+CUST1033,25,Male,Kolkata,2024-07-26,2025-12-14,3,7272,2424.0,Sports & Fitness,Referral,Churned
+CUST1034,33,Male,Jaipur,2024-07-26,2025-12-20,14,7167,511.93,Grocery,Email Campaign,At Risk
+CUST1035,48,Female,Delhi,2024-07-29,2026-08-31,15,10009,667.27,Grocery,Social Media,Active
+CUST1036,22,Male,Patna,2024-07-30,2024-08-31,1,3493,3493.0,Home & Kitchen,Referral,Churned
+CUST1037,43,Male,Ahmedabad,2024-07-30,2025-06-23,2,6829,3414.5,Clothing,Website,Churned
+CUST1038,31,Female,Bengaluru ,2024-07-31,2026-05-19,2,6713,3356.5,Home & Kitchen,Website,Active
+CUST1039,25,Male,Delhi,2024-08-01,2026-09-11,2,5829,2914.5,Clothing,Website,Active
+CUST1040,41,Female,Hyderabad,2024-08-01,2025-05-04,4,4385,1096.25,Clothing,Paid Ads,Churned
+CUST1041,26,Male,Hyderabad,2024-08-02,2026-01-22,5,47134,9426.8,Electronics,Organic Search,At Risk
+CUST1042,46,Male,Kolkata,2024-08-02,2026-02-05,7,18679,2668.43,Clothing,Website,At Risk
+CUST1043,50,Male,Mumbai,2024-08-03,2026-08-31,12,6014,501.17,Books,Email Campaign,Active
+CUST1044,55,Female,Ahmedabad,2024-08-05,2024-08-12,1,1295,1295.0,Sports & Fitness,Organic Search,Churned
+CUST1045,33,Female,Kolkata,2024-08-06,2026-01-14,2,2503,1251.5,Beauty & Personal Care,Website,At Risk
+CUST1046,24,Female,Jaipur,2024-08-06,2026-04-21,8,9709,1213.62,Beauty & Personal Care,Social Media,Active
+CUST1047,43,Male,Chennai,2024-08-07,2026-08-13,6,68644,11440.67,Electronics,Organic Search,Active
+CUST1048,34,Female,Chandigarh,2024-08-10,2025-11-02,6,5386,897.67,Grocery,Website,At Risk
+CUST1049,38,Male,Lucknow,2024-08-11,2026-06-26,3,11106,3702.0,Clothing,Paid Ads,Active
+CUST1050,27,Male,Surat,2024-08-12,2025-10-16,3,55805,18601.67,Electronics,Store,At Risk
+CUST1051,24,Female,Chennai,2024-08-12,2025-06-01,4,48189,12047.25,Electronics,Organic Search,Churned
+CUST1052,54,Female,Lucknow,2024-08-14,2025-09-21,2,1552,776.0,Grocery,Website,Churned
+CUST1053,37,Female,Indore,2024-08-15,2026-05-06,7,3779,539.86,Beauty & Personal Care,Website,Active
+CUST1054,47,Female,Chennai,2024-08-16,2025-05-10,8,29776,3722.0,Home & Kitchen,Email Campaign,Churned
+CUST1055,45,Male,Kolkata,2024-08-16,2024-10-24,1,17297,17297.0,Electronics,Store,Churned
+CUST1056,35,Male,Jaipur,2024-08-18,2025-10-14,8,19595,2449.38,Beauty & Personal Care,Organic Search,At Risk
+CUST1057,46,Male,Guwahati,2024-08-18,2025-11-15,11,21720,1974.55,Home & Kitchen,Website,At Risk
+CUST1058,23,Male,Hyderabad,2024-08-19,2025-11-19,5,102363,20472.6,Electronics,Website,At Risk
+CUST1059,29,Male,Ahmedabad,2024-08-19,2025-09-21,2,37012,18506.0,Electronics,Organic Search,Churned
+CUST1060,58,Male,Bengaluru,2024-08-20,2025-12-08,6,9036,1506.0,Grocery,Organic Search,At Risk
+CUST1061,33,Female,Bengaluru,2024-08-21,2025-12-17,1,3373,3373.0,Home & Kitchen,Social Media,At Risk
+CUST1062,24,Female,Surat,2024-08-22,2026-09-02,4,36684,9171.0,Electronics,Organic Search,Active
+CUST1063,36,Female,Bengaluru,2024-08-22,2025-12-13,8,41639,5204.88,Home & Kitchen,Paid Ads,At Risk
+CUST1064,32,Male,Mumbai,2024-08-23,2026-09-04,11,48643,4422.09,Sports & Fitness,Website,Active
+CUST1065,34,Female,Mumbai,2024-08-24,2026-01-15,9,82349,9149.89,Electronics,Paid Ads,At Risk
+CUST1066,35,Male,Delhi,2024-08-26,2025-12-07,12,12916,1076.33,Accessories,Website,At Risk
+CUST1067,29,Female,Pune,2024-08-27,2026-04-06,2,6886,3443.0,Home & Kitchen,Website,Active
+CUST1068,41,Male,Hyderabad,2024-08-28,2026-06-08,8,136456,17057.0,Electronics,Website,Active
+CUST1069,30,Male,Bengaluru,2024-08-28,2026-02-25,5,6767,1353.4,Grocery,Organic Search,At Risk
+CUST1070,37,Female,Kochi,2024-08-28,2026-04-06,6,26422,4403.67,Sports & Fitness,Organic Search,At Risk
+CUST1071,34,Male,Pune,2024-08-30,2026-07-16,3,6341,2113.67,Clothing,Email Campaign,Active
+CUST1072,37,Female,Delhi,2024-08-30,2025-02-23,6,5725,954.17,Books,Website,Churned
+CUST1073,27,Male,Kolkata,2024-08-31,2025-07-24,3,11224,3741.33,Clothing,Referral,Churned
+CUST1074,25,Male,Indore,2024-08-31,2025-06-22,4,28208,7052.0,Electronics,Social Media,Churned
+CUST1075,40,Female,Mumbai,2024-09-02,2026-02-23,5,3803,760.6,Grocery,Paid Ads,At Risk
+CUST1076,36,Female,Indore,2024-09-03,2026-04-20,7,10345,1477.86,Clothing,Website,Active
+CUST1077,35,Male,Patna,2024-09-04,2026-06-29,3,3806,1268.67,Home & Kitchen,Paid Ads,Active
+CUST1078,46,Male,Patna,2024-09-05,2026-07-06,4,11728,2932.0,Clothing,Organic Search,Active
+CUST1079,20,Female,Bengaluru,2024-09-05,2026-05-18,6,67215,11202.5,Electronics,Social Media,Active
+CUST1080,37,Female,Visakhapatnam,2024-09-06,2026-05-22,2,13669,6834.5,Home & Kitchen,Social Media,Active
+CUST1081,44,Male,Pune,2024-09-07,2026-02-12,2,6153,3076.5,Sports & Fitness,Referral,At Risk
+CUST1082,22,Female,Kochi,2024-09-07,2025-08-25,4,3210,802.5,Beauty & Personal Care,Website,Churned
+CUST1083,35,Female,Pune,2024-09-07,2026-03-13,6,13861,2310.17,Clothing,Email Campaign,At Risk
+CUST1084,37,Male,Jaipur,2024-09-08,2025-08-06,3,22578,7526.0,Electronics,Website,Churned
+CUST1085,32,Female,Delhi,2024-09-08,2026-02-07,9,13825,1536.11,Grocery,Website,At Risk
+CUST1086,19,Female,Surat,2024-09-08,2025-03-07,1,781,781.0,Books,Website,Churned
+CUST1087,26,Male,Bengaluru,2024-09-08,2026-07-17,1,1039,1039.0,Beauty & Personal Care,Organic Search,Active
+CUST1088,53,Female,Bengaluru,2024-09-09,2026-08-22,14,11714,836.71,Books,Website,Active
+CUST1089,41,Female,Bengaluru,2024-09-11,2026-08-23,2,16626,8313.0,Home & Kitchen,Referral,Active
+CUST1090,31,Female,Mumbai,2024-09-11,2025-04-20,3,11014,3671.33,Clothing,Referral,Churned
+CUST1091,49,Female,Mumbai,2024-09-11,2026-05-23,2,6320,3160.0,Clothing,Paid Ads,At Risk
+CUST1092,43,Male,Kolkata,2024-09-11,2026-04-15,2,6920,3460.0,Clothing,Organic Search,At Risk
+CUST1093,34,Female,Patna,2024-09-11,2026-07-14,9,8472,941.33,Accessories,Website,Active
+CUST1094,37,Male,Lucknow,2024-09-12,2026-05-05,3,3493,1164.33,Grocery,Store,Active
+CUST1095,39,Male,Hyderabad,2024-09-15,2025-09-27,4,4039,1009.75,Grocery,Website,At Risk
+CUST1096,18,Male,Bengaluru,2024-09-16,2026-01-14,3,2338,779.33,Books,Store,At Risk
+CUST1097,58,Male,Hyderabad,2024-09-16,2026-05-01,6,45553,7592.17,Clothing,Referral,At Risk
+CUST1098,37,Female,Chennai,2024-09-17,2026-01-13,2,5806,2903.0,Clothing,Social Media,At Risk
+CUST1099,49,Male,Mumbai,2024-09-17,2026-03-23,3,23917,7972.33,Electronics,Store,At Risk
+CUST1100,26,Male,Jaipur,2024-09-20,2025-07-19,2,3038,1519.0,Clothing,Paid Ads,Churned
+CUST1101,19,Female,Delhi,2024-09-20,2026-02-10,2,3940,1970.0,Clothing,Website,At Risk
+CUST1102,55,Male,Bengaluru,2024-09-21,2026-08-24,5,6070,1214.0,Grocery,Organic Search,Active
+CUST1103,19,Female,Kolkata,2024-09-22,2026-08-08,13,88963,6843.31,Electronics,Paid Ads,Active
+CUST1104,27,Female,Bengaluru,2024-09-23,2025-08-19,2,4293,2146.5,Beauty & Personal Care,Paid Ads,Churned
+CUST1105,42,Male,Bengaluru,2024-09-23,2024-09-29,1,6052,6052.0,Sports & Fitness,Social Media,Churned
+CUST1106,21,Female,Ahmedabad,2024-09-23,2025-10-29,3,8354,2784.67,Grocery,Organic Search,Churned
+CUST1107,33,Female,Mumbai,2024-09-25,2026-02-01,17,14632,860.71,Grocery,Referral,Active
+CUST1108,32,Male,Mumbai,2024-09-25,2025-03-16,8,86871,10858.88,Electronics,Website,Churned
+CUST1109,30,Male,Pune,2024-09-26,2026-01-05,2,11974,5987.0,Sports & Fitness,Website,At Risk
+CUST1110,28,Female,Mumbai,2024-09-27,2025-06-15,3,8442,2814.0,Accessories,Referral,Churned
+CUST1111,44,Female,Lucknow,2024-09-27,2026-06-28,7,29501,4214.43,Home & Kitchen,Store,Active
+CUST1112,33,Male,Jaipur,2024-09-28,2026-05-12,11,10259,932.64,Sports & Fitness,Social Media,Active
+CUST1113,54,Male,Kolkata,2024-09-28,2026-03-03,3,12162,4054.0,Home & Kitchen,Organic Search,At Risk
+CUST1114,36,Female,Guwahati,2024-09-29,2025-12-22,3,33254,11084.67,Home & Kitchen,Website,At Risk
+CUST1115,39,Male,Indore,2024-09-30,2026-07-30,24,96168,4007.0,Home & Kitchen,Organic Search,Active
+CUST1116,30,Male,Delhi,2024-09-30,2026-04-11,2,6499,3249.5,Clothing,Email Campaign,At Risk
+CUST1117,52,Male,Lucknow,2024-09-30,2024-10-04,1,1926,1926.0,Clothing,Paid Ads,Churned
+CUST1118,50,Female,Mumbai,2024-09-30,2026-08-24,3,6882,2294.0,Beauty & Personal Care,Store,Active
+CUST1119,36,Female,Bengaluru,2024-10-01,2024-10-01,1,731,731.0,Grocery,Paid Ads,Churned
+CUST1120,18,Female,Pune,2024-10-01,2026-05-03,4,36684,9171.0,Home & Kitchen,Website,At Risk
+CUST1121,34,Male,Chandigarh,2024-10-02,2026-03-24,2,7594,3797.0,Home & Kitchen,Website,At Risk
+CUST1122,28,Male,Bengaluru,2024-10-02,2026-07-01,2,2911,1455.5,Home & Kitchen,Store,Active
+CUST1123,35,Male,Visakhapatnam,2024-10-03,2024-12-31,4,3040,760.0,Beauty & Personal Care,Email Campaign,Churned
+CUST1124,38,Female,Ahmedabad,2024-10-03,2026-05-07,8,3694,461.75,Beauty & Personal Care,Website,Active
+CUST1125,37,Male,Kolkata,2024-10-04,2026-01-16,4,4800,1200.0,Sports & Fitness,Paid Ads,At Risk
+CUST1126,26,Female,Ranchi,2024-10-06,2025-12-09,2,1383,691.5,Accessories,Website,At Risk
+CUST1127,23,Female,Kochi,2024-10-07,2026-08-31,3,2569,856.33,Grocery,Store,Active
+CUST1128,37,Female,Hyderabad,2024-10-07,2026-05-04,8,6515,814.38,Grocery,Website,Active
+CUST1129,43,Female,Pune,2024-10-09,2026-04-30,6,24132,4022.0,Home & Kitchen,Organic Search,Active
+CUST1130,37,Male,Bengaluru,2024-10-09,2024-10-09,1,10066,10066.0,Electronics,Social Media,Churned
+CUST1131,44,Female,Kolkata,2024-10-09,2025-05-21,2,3526,1763.0,Accessories,Paid Ads,Churned
+CUST1132,26,Male,Bengaluru,2024-10-10,2025-11-20,5,25411,5082.2,Clothing,Store,At Risk
+CUST1133,24,Male,Delhi,2024-10-10,2025-06-05,2,6069,3034.5,Clothing,Website,Churned
+CUST1134,29,Male,Bengaluru,2024-10-10,2026-08-16,1,1002,1002.0,Grocery,Website,Active
+CUST1135,40,Male,Mumbai,2024-10-10,2026-04-19,2,9559,4779.5,Clothing,Social Media,Active
+CUST1136,29,Female,Delhi,2024-10-11,2026-02-04,9,61586,6842.89,Electronics,Paid Ads,Active
+CUST1137,23,Female,Mumbai,2024-10-11,2025-05-04,2,6117,3058.5,Accessories,Paid Ads,Churned
+CUST1138,39,Female,Mumbai,2024-10-11,2026-01-22,7,12609,1801.29,Grocery,Store,Active
+CUST1139,27,Female,Kolkata,2024-10-11,2026-02-23,7,8182,1168.86,Grocery,Organic Search,At Risk
+CUST1140,26,Female,Guwahati,2024-10-11,2025-11-12,3,1574,524.67,Beauty & Personal Care,Organic Search,Churned
+CUST1141,21,Male,Hyderabad,2024-10-11,2024-10-17,1,556,556.0,Books,Website,Churned
+CUST1142,36,Female,Chennai,2024-10-11,2025-11-25,3,2242,747.33,Grocery,Website,Churned
+CUST1143,33,Female,Mumbai,2024-10-12,2026-08-19,2,1437,718.5,Grocery,Website,Active
+CUST1144,40,Female,Visakhapatnam,2024-10-12,2026-08-24,3,5018,1672.67,Sports & Fitness,Website,Active
+CUST1145,29,Male,Kochi,2024-10-13,2025-09-25,5,10186,2037.2,Clothing,Paid Ads,At Risk
+CUST1146,34,Female,Patna,2024-10-13,2026-08-17,13,41436,3187.38,Sports & Fitness,Website,Active
+CUST1147,42,Male,Delhi,2024-10-13,2024-10-16,1,1828,1828.0,Grocery,Email Campaign,Churned
+CUST1148,24,Male,Mumbai,2024-10-14,2026-09-01,13,16970,1305.38,Accessories,Store,Active
+CUST1149,48,Female,Bhubaneswar,2024-10-14,2026-07-02,2,2461,1230.5,Beauty & Personal Care,Organic Search,Active
+CUST1150,51,Female,Chennai,2024-10-14,2026-07-05,2,21368,10684.0,Electronics,Paid Ads,Active
+CUST1151,54,Other, Ranchi,2024-10-15,2026-01-13,2,2446,1223.0,Beauty & Personal Care,Website,At Risk
+CUST1152,37,Female,Mumbai,2024-10-15,2026-07-11,3,38855,12951.67,Electronics,Store,Active
+CUST1153,35,Male,Nagpur,2024-10-16,2026-06-13,10,3538,353.8,Books,Organic Search,Active
+CUST1154,30,Male,Visakhapatnam,2024-10-16,2025-09-24,4,14101,3525.25,Sports & Fitness,Social Media,At Risk
+CUST1155,34,Female,Kolkata,2024-10-17,2025-09-12,2,27774,13887.0,Electronics,Paid Ads,Churned
+CUST1156,53,Male,Hyderabad,2024-10-17,2026-05-25,5,6917,1383.4,Beauty & Personal Care,Social Media,Active
+CUST1157,46,Male,Patna,2024-10-18,2024-10-20,1,1206,1206.0,Beauty & Personal Care,Website,Churned
+CUST1158,42,Female,Delhi,2024-10-18,2026-04-07,4,71373,17843.25,Electronics,Organic Search,Active
+CUST1159,44,Male,Mumbai,2024-10-19,2026-06-22,15,41884,2792.27,Beauty & Personal Care,Referral,Active
+CUST1160,47,Male,Hyderabad,2024-10-19,2026-05-23,6,12923,2153.83,Clothing,Referral,Active
+CUST1161,33,Male,Mumbai,2024-10-19,2024-10-23,1,513,513.0,Books,Paid Ads,Churned
+CUST1162,24,Female,Ranchi,2024-10-20,2025-04-16,3,6411,2137.0,Accessories,Email Campaign,Churned
+CUST1163,31,Male,Bengaluru,2024-10-20,2026-01-17,6,9678,1613.0,Accessories,Referral,At Risk
+CUST1164,27,Male,Mumbai,2024-10-21,2025-12-30,2,4157,2078.5,Clothing,Website,At Risk
+CUST1165,38,Female,Bhubaneswar,2024-10-22,2026-08-13,10,89757,8975.7,Electronics,Referral,Active
+CUST1166,18,Female,Surat,2024-10-22,2026-01-11,8,10790,1348.75,Accessories,Organic Search,Active
+CUST1167,29,Other,Chandigarh,2024-10-23,2025-08-14,7,80282,11468.86,Electronics,Referral,Churned
+CUST1168,37,Male,Delhi,2024-10-23,2026-07-09,4,7198,1799.5,Sports & Fitness,Paid Ads,Active
+CUST1169,36,Female,Ahmedabad,2024-10-23,2024-11-05,1,2516,2516.0,Grocery,Email Campaign,Churned
+CUST1170,36,Male,Bengaluru,2024-10-23,2026-06-21,3,3604,1201.33,Grocery,Website,Active
+CUST1171,35,Other,Bhubaneswar,2024-10-23,2026-06-20,7,9947,1421.0,Clothing,Email Campaign,Active
+CUST1172,21,Female,Delhi,2024-10-24,2026-07-13,6,11648,1941.33,Home & Kitchen,Website,Active
+CUST1173,44,Male,Chennai,2024-10-26,2025-10-30,7,40297,5756.71,Electronics,Website,At Risk
+CUST1174,40,Other,Delhi,2024-10-26,2026-06-08,8,43188,5398.5,Clothing,Organic Search,Active
+CUST1175,43,Female,Kolkata,2024-10-26,2025-06-16,8,7789,973.62,Beauty & Personal Care,Website,Churned
+CUST1176,56,Female,Bengaluru,2024-10-27,2026-06-24,5,27917,5583.4,Clothing,Website,Active
+CUST1177,29,Female,Kolkata,2024-10-27,2025-11-11,4,10498,2624.5,Sports & Fitness,Paid Ads,At Risk
+CUST1178,40,Female,Surat,2024-10-29,2026-04-06,2,4321,2160.5,Clothing,Website,Active
+CUST1179,27,Female,Ahmedabad,2024-10-29,2026-07-30,2,2367,1183.5,Accessories,Email Campaign,Active
+CUST1180,23,Female,Kolkata,2024-10-29,2026-07-08,6,25709,4284.83,Home & Kitchen,Organic Search,Active
+CUST1181,18,Other,Kochi,2024-10-29,2026-04-22,6,12130,2021.67,Home & Kitchen,Paid Ads,Active
+CUST1182,25,Female,Kochi,2024-10-29,2025-12-27,20,14046,702.3,Grocery,Organic Search,At Risk
+CUST1183,31,Male,Mumbai,2024-10-29,2025-04-28,2,18171,9085.5,Electronics,Referral,Churned
+CUST1184,19,Female,Patna,2024-10-29,2026-05-30,2,3804,1902.0,,Organic Search,Active
+CUST1185,59,Female,Kolkata,2024-10-30,2026-01-26,2,1411,705.5,Accessories,Website,At Risk
+CUST1186,27,Male,Lucknow,2024-10-30,2025-02-19,6,17536,2922.67,Clothing,Email Campaign,Churned
+CUST1187,54,Male,Kolkata,2024-10-30,2026-01-15,2,4947,2473.5,Home & Kitchen,Social Media,At Risk
+CUST1188,29,Male,Kolkata,2024-11-01,2025-05-29,4,2920,730.0,Books,Referral,Churned
+CUST1189,34,Female,Pune,2024-11-01,2025-07-15,2,3919,1959.5,Accessories,Social Media,Churned
+CUST1190,43,Male,Ahmedabad,2024-11-01,2025-05-10,2,36794,18397.0,Electronics,Organic Search,Churned
+CUST1191,33,Male,Hyderabad,2024-11-01,2026-06-15,2,4457,2228.5,Beauty & Personal Care,Website,Active
+CUST1192,37,Male,Delhi,2024-11-01,2025-07-28,3,1536,512.0,Books,Social Media,Churned
+CUST1193,21,Female,Delhi,2024-11-02,2026-07-05,4,19737,4934.25,Clothing,Referral,Active
+CUST1194,28,Male,Nagpur,2024-11-02,2025-06-15,2,32645,16322.5,Electronics,Email Campaign,Churned
+CUST1195,31,Female,Hyderabad,2024-11-03,2024-11-14,1,7015,7015.0,Electronics ,Paid Ads,Churned
+CUST1196,35,Male,Lucknow,2024-11-03,2026-02-23,5,10173,2034.6,Accessories,Social Media,Active
+CUST1197,27,Female,Nagpur,2024-11-03,2026-02-27,2,4585,2292.5,Clothing,Social Media,At Risk
+CUST1198,18,Male,Delhi,2024-11-03,2026-05-07,3,11741,3913.67,Clothing,Organic Search,Active
+CUST1199,27,Male,Kolkata,2024-11-04,2024-11-04,1,10677,10677.0,Electronics,Organic Search,Churned
+CUST1200,44,Male,Hyderabad,2024-11-04,2026-05-14,15,9606,640.4,Grocery,Social Media,Active
+CUST1201,43,Female,Kolkata,2024-11-06,2024-11-06,1,1601,1601.0,Clothing,Paid Ads,Churned
+CUST1202,27,Female,Pune,2024-11-06,2026-03-17,2,4349,2174.5,Beauty & Personal Care,Organic Search,At Risk
+CUST1203,25,Male,Bengaluru,2024-11-07,2026-03-23,16,21289,1330.56,Home & Kitchen,Social Media,Active
+CUST1204,24,Male,Mumbai,2024-11-10,2026-08-15,2,1621,810.5,Books,Social Media,Active
+CUST1205,29,Male,Kolkata,2024-11-10,2025-12-30,2,2852,1426.0,Clothing,Store,At Risk
+CUST1206,46,Male,Surat,2024-11-11,2024-11-29,1,6780,6780.0,Home & Kitchen,Website,Churned
+CUST1207,39,Male,Chandigarh,2024-11-11,2026-08-28,5,21071,4214.2,Home & Kitchen,Social Media,Active
+CUST1208,46,Male,Kolkata,2024-11-12,2026-02-25,4,7377,1844.25,Home & Kitchen,Store,At Risk
+CUST1209,30,Male,Mumbai,2024-11-13,2026-02-12,6,11225,1870.83,Clothing,Organic Search,At Risk
+CUST1210,47,Female,Delhi,2024-11-14,2026-09-02,3,5049,1683.0,Accessories,Organic Search,Active
+CUST1211,41,Male,Bengaluru,2024-11-14,2026-08-17,11,7212,655.64,Books,Organic Search,Active
+CUST1212,42,Female,Visakhapatnam,2024-11-14,2026-01-29,2,23197,11598.5,Electronics,Social Media,At Risk
+CUST1213,20,Male,Delhi,2024-11-14,2026-03-26,1,10637,10637.0,Electronics,Email Campaign,At Risk
+CUST1214,31,Other,Kolkata,2024-11-16,2025-07-30,3,6380,2126.67,Clothing,Email Campaign,Churned
+CUST1215,45,Male,Delhi,2024-11-16,2025-06-03,6,37736,6289.33,Home & Kitchen,Website,Churned
+CUST1216,31,Female,Kochi,2024-11-16,2025-06-12,3,6549,2183.0,Beauty & Personal Care,Referral,Churned
+CUST1217,47,Female,Pune,2024-11-17,2026-07-20,5,10586,2117.2,Accessories,Website,Active
+CUST1218,23,Male,Pune,2024-11-17,2025-11-02,3,9994,3331.33,Clothing,Store,At Risk
+CUST1219,48,Male,Pune,2024-11-18,2025-08-05,3,3114,1038.0,Books,Referral,Churned
+CUST1220,28,Female,Delhi,2024-11-18,2026-05-20,17,26300,1547.06,Beauty & Personal Care,Email Campaign,Active
+CUST1221,24,Female,Lucknow,2024-11-19,2026-03-04,2,1999,999.5,Clothing,Social Media,At Risk
+CUST1222,28,Male,Mumbai,2024-11-19,2025-12-14,6,18040,3006.67,Accessories,Referral,At Risk
+CUST1223,27,Male,Lucknow,2024-11-20,2025-11-01,1,1584,1584.0,Sports & Fitness,Website,Churned
+CUST1224,19,Female,Hyderabad,2024-11-21,2026-08-06,5,153598,30719.6,Electronics,Referral,Active
+CUST1225,25,Male,Delhi,2024-11-22,2026-05-13,3,6824,2274.67,Clothing,Store,At Risk
+CUST1226,18,Female,Hyderabad,2024-11-22,2024-11-24,1,1455,1455.0,Accessories,Organic Search,Churned
+CUST1227,43,Male,Chennai,2024-11-22,2026-03-29,6,30905,5150.83,Home & Kitchen,Paid Ads,At Risk
+CUST1228,37,Male,Delhi,2024-11-23,2026-07-24,4,113680,28420.0,Electronics,Website,Active
+CUST1229,27,Male,Ahmedabad,2024-11-23,2026-01-28,5,63694,12738.8,Electronics,Email Campaign,At Risk
+CUST1230,26,Male,Mumbai,2024-11-23,2026-07-13,4,5938,1484.5,Grocery,Website,Active
+CUST1231,44,Female,Patna,2024-11-25,2026-07-21,6,75259,12543.17,Electronics,Store,Active
+CUST1232,23,Male,Delhi,2024-11-26,2026-02-27,6,19996,3332.67,Clothing,Organic Search,At Risk
+CUST1233,39,Female,Pune,2024-11-27,2025-11-02,4,6441,1610.25,Clothing,Paid Ads,Churned
+CUST1234,43,Female,Hyderabad,2024-11-27,2026-05-19,4,6151,1537.75,Sports & Fitness,Social Media,Active
+CUST1235,65,Male,Nagpur,2024-11-28,2025-12-09,2,2197,1098.5,Accessories,Social Media,At Risk
+CUST1236,42,Male,Chandigarh,2024-11-28,2026-06-26,9,32569,3618.78,Home & Kitchen,Paid Ads,Active
+CUST1237,38,Male,Patna,2024-11-30,2026-05-05,3,15789,5263.0,Electronics,Organic Search,Active
+CUST1238,31,Male,Bengaluru,2024-11-30,2024-12-08,1,1211,1211.0,Accessories,Email Campaign,Churned
+CUST1239,42,Female, Mumbai,2024-11-30,2024-12-14,1,2165,2165.0,Grocery,Website,Churned
+CUST1240,27,Male,Indore,2024-11-30,2026-06-01,5,4895,979.0,Grocery,Website,Active
+CUST1241,48,Female,Bengaluru,2024-11-30,2026-02-11,3,3806,1268.67,Beauty & Personal Care,Paid Ads,At Risk
+CUST1242,39,Male,Bhubaneswar,2024-11-30,2024-12-09,1,2083,2083.0,Clothing,Organic Search,Churned
+CUST1243,31,Male,Chennai,2024-12-01,2026-05-23,3,26706,8902.0,Electronics,Social Media,At Risk
+CUST1244,42,Female,Ahmedabad,2024-12-01,2026-07-08,4,7779,1944.75,Home & Kitchen,Website,Active
+CUST1245,41,Female,Ahmedabad,2024-12-02,2026-05-04,2,4043,2021.5,Clothing,Paid Ads,At Risk
+CUST1246,30,Female,Bengaluru,2024-12-03,2024-12-05,1,2000,2000.0,Clothing,Store,Churned
+CUST1247,23,Female,Indore,2024-12-03,2024-12-04,1,1339,1339.0,Clothing,Website,Churned
+CUST1248,22,Female,Hyderabad,2024-12-04,2026-03-22,2,3587,1793.5,Home & Kitchen,Organic Search,At Risk
+CUST1249,26,,Hyderabad,2024-12-04,2026-01-20,5,51119,10223.8,Electronics,Organic Search,At Risk
+CUST1250,30,Male,Surat,2024-12-04,2025-03-27,1,1282,1282.0,Beauty & Personal Care,Organic Search,Churned
+CUST1251,31,Male,Kochi,2024-12-04,2026-03-09,4,3894,973.5,Accessories,Email Campaign,At Risk
+CUST1252,52,Male,Hyderabad,2024-12-04,2025-06-01,3,16975,5658.33,Clothing,Email Campaign,Churned
+CUST1253,32,Female,Delhi,2024-12-05,2026-03-11,7,9547,1363.86,Accessories,Organic Search,At Risk
+CUST1254,34,Female,Hyderabad,2024-12-05,2026-07-31,2,9996,4998.0,Clothing,Email Campaign,Active
+CUST1255,28,Male,Delhi,2024-12-05,2025-12-10,5,9865,1973.0,Clothing,Email Campaign,At Risk
+CUST1256,45,Male,Nagpur,2024-12-06,2026-05-24,4,4074,1018.5,Accessories,Paid Ads,Active
+CUST1257,21,Male,Indore,2024-12-06,2026-01-03,8,23403,2925.38,Clothing,Store,At Risk
+CUST1258,35,Male,Ahmedabad,2024-12-07,2026-06-14,8,19255,2406.88,Clothing,Website,Active
+CUST1259,32,Male,Hyderabad,2024-12-07,2025-09-04,4,42191,10547.75,Electronics,Website,At Risk
+CUST1260,36,Male,Patna,2024-12-07,2025-10-28,3,2250,750.0,Grocery,Paid Ads,At Risk
+CUST1261,33,Female,Hyderabad,2024-12-07,2026-01-16,2,5829,2914.5,Home & Kitchen,Website,At Risk
+CUST1262,28,Male,Bhubaneswar,2024-12-08,2024-12-09,1,1450,1450.0,Clothing,Email Campaign,Churned
+CUST1263,23,Female,Bhubaneswar,2024-12-08,2025-10-24,3,5730,1910.0,Clothing,Store,At Risk
+CUST1264,41,Female,Mumbai,2024-12-09,2026-05-03,2,13737,6868.5,Home & Kitchen,Website,At Risk
+CUST1265,44,Male,Mumbai,2024-12-10,2024-12-23,1,6620,6620.0,Electronics,Organic Search,Churned
+CUST1266,38,Female,Chandigarh,2024-12-10,2025-11-04,5,16024,3204.8,Electronics,Paid Ads,At Risk
+CUST1267,51,Male,Mumbai,2024-12-10,2026-07-01,3,2493,831.0,Grocery,Social Media,Active
+CUST1268,34,Female,Mumbai,2024-12-11,2026-07-02,2,2021,1010.5,Beauty & Personal Care,Paid Ads,Active
+CUST1269,18,Female,Bengaluru,2024-12-12,2026-07-11,2,25001,12500.5,Electronics,Website,Active
+CUST1270,24,Male,Bengaluru,2024-12-13,2026-01-02,5,8919,1783.8,Accessories,Website,Churned
+CUST1271,37,Female,Kolkata,2024-12-14,2025-05-01,3,4704,1568.0,Clothing,Organic Search,Churned
+CUST1272,42,Male,Jaipur,2024-12-14,2026-07-29,2,28901,14450.5,Electronics, Organic Search,Active
+CUST1273,34,Male,Mumbai,2024-12-14,2026-08-14,2,19746,9873.0,Electronics,Organic Search,Active
+CUST1274,35,Female,Chennai,2024-12-14,2026-04-19,5,3747,749.4,Grocery,Website,At Risk
+CUST1275,35,Male,Delhi,2024-12-16,2025-10-08,2,6473,3236.5,Clothing,Website,Churned
+CUST1276,24,Female,Jaipur,2024-12-16,2026-04-29,3,25216,8405.33,Electronics,Organic Search,Active
+CUST1277,30,Female,Bengaluru,2024-12-18,2026-01-30,4,15997,3999.25,Home & Kitchen,Email Campaign,At Risk
+CUST1278,30,Male,Hyderabad,2024-12-18,2025-09-28,5,4571,914.2,Grocery,Email Campaign,Churned
+CUST1279,35,Male,Visakhapatnam,2024-12-18,2026-07-23,9,52000,5777.78,Sports & Fitness,Referral,Active
+CUST1280,30,Female,Jaipur,2024-12-19,2026-05-19,2,4774,2387.0,Clothing,Social Media,Active
+CUST1281,41,Female,Chennai,2024-12-19,2026-06-08,15,21843,1456.2,Grocery,Website,Active
+CUST1282,52,Female,Bengaluru,2024-12-21,2025-05-27,5,52842,10568.4,Electronics,Store,Churned
+CUST1283,35,Male,Lucknow,2024-12-21,2025-07-01,2,13057,6528.5,Home & Kitchen,Email Campaign,Churned
+CUST1284,31,Female,Patna,2024-12-22,2025-12-05,3,4629,1543.0,Beauty & Personal Care,Organic Search,At Risk
+CUST1285,28,Female,Chennai,2024-12-23,2026-01-01,3,7168,2389.33,Clothing,Website,At Risk
+CUST1286,39,Male,Lucknow,2024-12-24,2026-07-16,13,16649,1280.69,Sports & Fitness,Organic Search,Active
+CUST1287,34,Male,Hyderabad,2024-12-24,2026-04-26,7,31032,4433.14,Clothing,Email Campaign,At Risk
+CUST1288,36,Female,Mumbai,2024-12-24,2025-09-20,3,5320,1773.33,Beauty & Personal Care,Website,Churned
+CUST1289,20,Female,Chennai,2024-12-24,2025-12-04,6,13309,2218.17,Beauty & Personal Care,Organic Search,At Risk
+CUST1290,18,Male,Hyderabad,2024-12-25,2025-11-30,6,7461,1243.5,Sports & Fitness,Email Campaign,Churned
+CUST1291,44,Male,Kochi,2024-12-25,2026-04-19,4,28906,7226.5,Electronics,Social Media,At Risk
+CUST1292,34,Female,Delhi,2024-12-25,2026-09-09,4,43806,10951.5,Electronics,Email Campaign,Active
+CUST1293,35,Male,Indore,2024-12-26,2026-08-23,3,5598,1866.0,Beauty & Personal Care,Paid Ads,Active
+CUST1294,37,Male,Chandigarh,2024-12-26,2026-01-09,3,10294,3431.33,Clothing,Paid Ads,At Risk
+CUST1295,29,Male,Chennai,2024-12-26,2026-08-16,11,15163,1378.45,Beauty & Personal Care,Website,Active
+CUST1296,37,Male,Delhi,2024-12-26,2026-04-25,4,17870,4467.5,Clothing,Organic Search,Active
+CUST1297,55,Male,Delhi,2024-12-28,2026-04-06,2,4076,2038.0,Grocery,Email Campaign,At Risk
+CUST1298,53,Male,Chandigarh,2024-12-29,2026-08-11,11,156130,14193.64,Electronics,Website,Active
+CUST1299,32,Female,Delhi,2024-12-29,2026-03-20,4,12292,3073.0,Accessories,Organic Search,At Risk
+CUST1300,41,Female,Chandigarh,2024-12-29,2026-05-09,2,9945,4972.5,Clothing,Website,At Risk
+CUST1301,29,Male,Bengaluru,2024-12-29,2026-07-18,2,4273,2136.5,Clothing,Paid Ads,Active
+CUST1302,50,Female,Chennai,2024-12-29,2025-10-21,3,17249,5749.67,Sports & Fitness,Organic Search,Churned
+CUST1303,18,Male,Chennai,2024-12-30,2026-03-09,3,3669,1223.0,Clothing,Paid Ads,At Risk
+CUST1304,42,Male,Lucknow,2024-12-30,2026-04-12,3,1388,462.67,Grocery,Social Media,Active
+CUST1305,18,Male,Jaipur,2024-12-30,2026-04-06,6,4107,684.5,Books,Social Media,At Risk
+CUST1306,41,Female,Pune,2024-12-30,2026-08-11,1,1890,1890.0,Grocery,Website,Active
+CUST1307,39,Female,Delhi,2024-12-31,2025-11-29,2,5200,2600.0,Beauty & Personal Care,Website,Churned
+CUST1308,27,Male,Delhi,2024-12-31,2026-03-08,1,1832,1832.0,Clothing,Email Campaign,At Risk
+CUST1309,29,Female,Kolkata,2024-12-31,2026-09-07,8,23687,2960.88,Clothing,Organic Search,Active
+CUST1310,45,Female,Ranchi,2025-01-01,2025-11-12,2,15822,7911.0,Electronics,Email Campaign,Churned
+CUST1311,39,Female,Lucknow,2025-01-01,2025-11-03,4,1973,493.25,Books,Paid Ads,At Risk
+CUST1312,28,Female,Jaipur,2025-01-03,2026-03-09,4,11289,2822.25,Sports & Fitness,Referral,At Risk
+CUST1313,35,Male,,2025-01-04,2026-06-23,7,11328,1618.29,Grocery,Organic Search,Active
+CUST1314,33,Female,Surat,2025-01-05,2026-02-27,4,37139,9284.75,Electronics,Social Media,At Risk
+CUST1315,38,Female,Kolkata,2025-01-07,2026-06-07,3,1209,403.0,Books,Paid Ads,Active
+CUST1316,34,Other,Bengaluru,2025-01-08,2026-03-23,3,98826,32942.0,Electronics,Store,At Risk
+CUST1317,62,Female,Surat,2025-01-08,2026-08-10,5,14137,2827.4,Home & Kitchen,Social Media,Active
+CUST1318,39,Male,Ahmedabad,2025-01-08,2026-07-26,12,197797,16483.08,Electronics,Organic Search,Active
+CUST1319,63,Female,Delhi,2025-01-09,2025-01-21,1,4564,4564.0,Clothing,Social Media,Churned
+CUST1320,38,Male,Delhi,2025-01-09,2026-07-07,6,14340,2390.0,Home & Kitchen,Website,Active
+CUST1321,31,Male,Jaipur,2025-01-09,2026-08-29,31,34028,1097.68,Sports & Fitness,Website,Active
+CUST1322,32,Male,Hyderabad,2025-01-12,2026-05-18,8,5852,731.5,Grocery,Organic Search,Active
+CUST1323,26,Male,Nagpur,2025-01-12,2026-04-30,4,34927,8731.75,Electronics,Paid Ads,Active
+CUST1324,38,Female,Mumbai,2025-01-14,2026-09-05,2,5601,2800.5,Clothing,Referral,Active
+CUST1325,25,Male,Delhi,2025-01-14,2026-03-07,9,27853,3094.78,Home & Kitchen,Paid Ads,Active
+CUST1326,31,Female,Chandigarh,2025-01-16,2026-08-18,1,12936,12936.0,Electronics,Website,Active
+CUST1327,32,Female,Mumbai,2025-01-17,2025-08-25,3,7831,2610.33,Grocery,Social Media,Churned
+CUST1328,37,Female,Bengaluru,2025-01-18,2026-06-29,7,17332,2476.0,Clothing,Store,Active
+CUST1329,37,Male,Mumbai,2025-01-18,2026-06-25,2,1655,827.5,Grocery,Paid Ads,Active
+CUST1330,39,Male,Kochi,2025-01-19,2026-07-31,4,13750,3437.5,Home & Kitchen,Social Media,Active
+CUST1331,34,Female,Mumbai,2025-01-19,2026-03-19,2,2082,1041.0,Accessories,Paid Ads,Active
+CUST1332,21,Female,Hyderabad,2025-01-20,2025-02-02,1,1295,1295.0,Beauty & Personal Care,Referral,Churned
+CUST1333,29,Male,Delhi,2025-01-21,2026-04-06,10,90513,9051.3,Electronics,Social Media,At Risk
+CUST1334,34,Male,Bengaluru,2025-01-21,2026-02-04,5,15956,3191.2,Home & Kitchen,Organic Search,At Risk
+CUST1335,36,Male,Hyderabad,2025-01-21,2026-03-18,2,6710,3355.0,Home & Kitchen,Website,Active
+CUST1336,26,Male,Kolkata,2025-01-21,2026-01-02,1,1397,1397.0,Beauty & Personal Care,Email Campaign,At Risk
+CUST1337,28,Male,Hyderabad,2025-01-22,2026-09-09,2,1592,796.0,Grocery,Social Media,Active
+CUST1338,32,Female,Kolkata,2025-01-22,2026-09-07,8,8996,1124.5,Beauty & Personal Care,Website,Active
+CUST1339,23,Female,Delhi,2025-01-23,2026-03-07,3,4262,1420.67,Beauty & Personal Care,Website,At Risk
+CUST1340,31,Male,Surat,2025-01-23,2026-03-13,5,4703,940.6,Accessories,Store,At Risk
+CUST1341,42,Female,Bhubaneswar,2025-01-24,2025-01-30,1,10826,10826.0,,Email Campaign,Churned
+CUST1342,22,Other,Jaipur,2025-01-24,2026-04-24,2,6683,3341.5,Sports & Fitness,Paid Ads,Active
+CUST1343,21,Female,Delhi,2025-01-24,2026-04-17,4,6522,1630.5,Beauty & Personal Care,Organic Search,Active
+CUST1344,41,Male,Hyderabad,2025-01-25,2026-08-31,3,35054,11684.67,Electronics,Website,Active
+CUST1345,31,Male,Delhi,2025-01-25,2025-01-28,1,1142,1142.0,Beauty & Personal Care,Organic Search,Churned
+CUST1346,46,Female,Lucknow,2025-01-27,2026-04-10,2,5690,2845.0,Home & Kitchen,Website,Active
+CUST1347,21,Male,Chennai,2025-01-27,2025-04-19,3,20758,6919.33,Electronics,Website,Churned
+CUST1348,41,Male,Kolkata,2025-01-28,2026-07-29,2,15744,7872.0,Electronics,Email Campaign,Active
+CUST1349,65,Male,Kolkata,2025-01-28,2025-01-30,1,2061,2061.0,Clothing,Organic Search,Churned
+CUST1350,23,Male,Ahmedabad,2025-01-29,2026-09-01,4,6676,1669.0,Sports & Fitness,Website,Active
+CUST1351,36,Female,Mumbai,2025-01-30,2026-02-07,3,6514,2171.33,Home & Kitchen,Website,At Risk
+CUST1352,51,Female,Bengaluru,2025-01-30,2026-06-29,3,8054,2684.67,Beauty & Personal Care,Organic Search,Active
+CUST1353,40,Male,Indore,2025-01-30,2026-02-04,11,12352,1122.91,Grocery,Email Campaign,At Risk
+CUST1354,35,Female,Pune,2025-01-30,2026-02-19,6,71432,11905.33,Electronics,Social Media,At Risk
+CUST1355,58,Female,Hyderabad,2025-01-31,2026-08-20,12,23533,1961.08,Grocery,Organic Search,Active
+CUST1356,22,Female,Mumbai,2025-01-31,2026-07-17,2,4374,2187.0,Clothing,Organic Search,Active
+CUST1357,59,Female,Bhubaneswar,2025-02-01,2026-05-13,2,5764,2882.0,Beauty & Personal Care,Organic Search,At Risk
+CUST1358,30,Male,Mumbai,2025-02-03,2026-02-14,7,82258,11751.14,Electronics,Social Media,At Risk
+CUST1359,40,Female,Delhi,2025-02-03,2026-06-22,2,2596,1298.0,Grocery,Paid Ads,Active
+CUST1360,31,Male,Bengaluru,2025-02-03,2026-04-07,3,9654,3218.0,Clothing,Website,Active
+CUST1361,47,Female,Jaipur,2025-02-04,2026-07-06,1,2726,2726.0,Clothing,Website,Active
+CUST1362,25,Male,Kolkata,2025-02-05,2026-04-25,3,3315,1105.0,Accessories,Website,At Risk
+CUST1363,24,Female,Kolkata,2025-02-07,2026-01-24,2,3980,1990.0,Accessories,Organic Search,At Risk
+CUST1364,45,Female,Kochi,2025-02-07,2026-04-08,4,17704,4426.0,Clothing,Paid Ads,At Risk
+CUST1365,32,Female,Hyderabad,2025-02-07,2026-03-29,8,18985,2373.12,Sports & Fitness,Organic Search,At Risk
+CUST1366,46,Male,Jaipur,2025-02-07,2026-08-11,5,10509,2101.8,Home & Kitchen,Paid Ads,Active
+CUST1367,38,Male,Hyderabad,2025-02-08,2026-06-10,8,24257,3032.12,Home & Kitchen,Organic Search,Active
+CUST1368,48,Female,Delhi,2025-02-09,2025-03-29,1,2076,2076.0,Home & Kitchen,Paid Ads,Churned
+CUST1369,34,Female,Mumbai,2025-02-10,2025-02-14,1,3686,3686.0,Home & Kitchen,Email Campaign,Churned
+CUST1370,39,Male,Kolkata,2025-02-10,2026-02-09,9,10598,1177.56,Books,Social Media,At Risk
+CUST1371,53,Female,Mumbai,2025-02-11,2025-02-21,1,2200,2200.0,Beauty & Personal Care,Website,Churned
+CUST1372,34,Female,Bengaluru,2025-02-11,2026-08-10,24,24502,1020.92,Accessories,Website,Active
+CUST1373,22,Male,Bengaluru,2025-02-12,2026-07-24,4,44791,11197.75,Electronics,Website,Active
+CUST1374,20,Female,Delhi,2025-02-12,2026-02-09,10,18864,1886.4,Clothing,Website,At Risk
+CUST1375,33,Male,Ranchi,2025-02-12,2026-04-20,7,59912,8558.86,Electronics,Paid Ads,Active
+CUST1376,35,Male,Bhubaneswar,2025-02-12,2025-12-19,4,8496,2124.0,Grocery,Website,Active
+CUST1377,27,Female,Ahmedabad,2025-02-12,2026-09-05,5,4240,848.0,Grocery,Social Media,Active
+CUST1378,29,Female,Mumbai,2025-02-12,2026-08-28,5,25427,5085.4,Home & Kitchen,Organic Search,Active
+CUST1379,29,Female,Indore,2025-02-12,2026-07-18,4,3241,810.25,Beauty & Personal Care,Organic Search,Active
+CUST1380,44,Other,Chennai,2025-02-14,2025-12-14,4,7316,1829.0,Home & Kitchen,Social Media,Churned
+CUST1381,22,Female,Hyderabad,2025-02-15,2026-02-10,10,54436,5443.6,Electronics,Paid Ads,At Risk
+CUST1382,29,Male,Guwahati,2025-02-15,2026-02-04,2,27809,13904.5,Electronics,Website,At Risk
+CUST1383,42,Female,Pune,2025-02-15,2026-08-15,7,12938,1848.29,Grocery,Referral,Active
+CUST1384,46,Male,Kolkata,2025-02-15,2026-07-14,5,6331,1266.2,Grocery,Social Media,Active
+CUST1385,28,Female,Ahmedabad,2025-02-16,2026-07-06,3,5878,1959.33,Clothing,Organic Search,Active
+CUST1386,52,Male,Bengaluru,2025-02-17,2026-03-05,4,5676,1419.0,Books,Organic Search,At Risk
+CUST1387,23,Male,Delhi,2025-02-17,2025-10-28,7,27923,3989.0,Home & Kitchen,Email Campaign,Churned
+CUST1388,44,Female,Bhubaneswar,2025-02-18,2026-07-30,9,49855,5539.44,Clothing,Referral,Active
+CUST1389,26,Male,Pune,2025-02-18,2026-02-21,2,2870,1435.0,Grocery,Social Media,At Risk
+CUST1390,25,Female,Chandigarh,2025-02-18,2026-06-17,10,25405,2540.5,Clothing,Referral,Active
+CUST1391,34,Female,Kolkata,2025-02-18,2025-02-19,1,2252,2252.0,Clothing,Paid Ads,Churned
+CUST1392,25,Male,Bengaluru,2025-02-19,2026-07-23,4,19830,4957.5,Sports & Fitness,Organic Search,Active
+CUST1393,30,Female,Mumbai,2025-02-21,2026-08-21,2,7561,3780.5,Clothing,Social Media,Active
+CUST1394,36,Male,Delhi,2025-02-22,2026-01-26,2,2171,1085.5,Grocery,Organic Search,At Risk
+CUST1395,19,Female,Ahmedabad,2025-02-22,2026-08-24,3,7188,2396.0,Clothing,Paid Ads,Active
+CUST1396,35,Female,Mumbai,2025-02-23,2026-03-03,2,26261,13130.5,Electronics,Paid Ads,At Risk
+CUST1397,46,Male,Hyderabad,2025-02-23,2026-08-31,2,5217,2608.5,Beauty & Personal Care,Store,Active
+CUST1398,50,Male,Surat,2025-02-23,2026-04-30,6,8653,1442.17,Beauty & Personal Care,Referral,At Risk
+CUST1399,40,Male,Bhubaneswar,2025-02-24,2026-02-13,6,3767,627.83,Accessories,Website,At Risk
+CUST1400,28,Female,Delhi,2025-02-24,2025-07-30,1,1130,1130.0,Accessories,Website,Churned
+CUST1401,31,Male,Surat,2025-02-25,2026-06-12,8,3143,392.88,Books,Paid Ads,Active
+CUST1402,18,Female,Delhi,2025-02-25,2026-07-27,6,19388,3231.33,Clothing,Paid Ads,Active
+CUST1403,18,Female,Kolkata,2025-02-25,2026-07-06,12,13483,1123.58,Accessories,Website,Active
+CUST1404,24,Male,Mumbai,2025-02-26,2025-03-12,1,23556,23556.0,Electronics,Website,Churned
+CUST1405,32,Male,Delhi,2025-02-27,2025-03-05,1,1711,1711.0,Beauty & Personal Care,Referral,Churned
+CUST1406,33,Female,Bengaluru,2025-02-28,2026-01-25,4,3535,883.75,Grocery,Social Media,At Risk
+CUST1407,30,Male,Bengaluru,2025-02-28,2026-01-20,2,5354,2677.0,Beauty & Personal Care,Referral,At Risk
+CUST1408,30,Female,Bhubaneswar,2025-03-02,2026-02-17,8,2280,285.0,Beauty & Personal Care,Social Media,At Risk
+CUST1409,32,Male,Hyderabad,2025-03-03,2025-09-10,8,60915,7614.38,Electronics,Website,Churned
+CUST1410,33,Female,Kolkata,2025-03-05,2026-04-05,2,4814,2407.0,Home & Kitchen,Social Media,Active
+CUST1411,26,Male,Bengaluru,2025-03-05,2026-07-03,10,16553,1655.3,Grocery,Social Media,Active
+CUST1412,19,Female,Hyderabad,2025-03-05,2026-08-13,3,7552,2517.33,Clothing,Website,Active
+CUST1413,38,Female,Delhi,2025-03-06,2026-01-20,6,48029,8004.83,Electronics,Website,At Risk
+CUST1414,21,Female,Bengaluru,2025-03-06,2026-08-11,5,21263,4252.6,Electronics,Social Media,Active
+CUST1415,48,Male,Mumbai,2025-03-06,2026-02-21,4,18164,4541.0,Beauty & Personal Care,Organic Search,At Risk
+CUST1416,24,Female,Chennai,2025-03-07,2026-06-14,4,19967,4991.75,Electronics,Website,Active
+CUST1417,30,Male,Mumbai,2025-03-07,2026-01-22,2,15904,7952.0,Electronics,Social Media,At Risk
+CUST1418,40,Female,Delhi,2025-03-07,2025-03-25,1,1080,1080.0,Grocery,Website,Churned
+CUST1419,29,Male,Mumbai,2025-03-07,2026-07-06,6,57161,9526.83,Electronics,Social Media,Active
+CUST1420,22,Female,Patna,2025-03-08,2026-03-05,2,1871,935.5,Accessories,Social Media,At Risk
+CUST1421,31,Female,Mumbai,2025-03-08,2025-03-12,1,1433,1433.0,Accessories,Website,Churned
+CUST1422,38,Male,Indore,2025-03-08,2026-08-15,9,27425,3047.22,Sports & Fitness,Paid Ads,Active
+CUST1423,32,Female,Bengaluru,2025-03-09,2026-08-29,2,29706,14853.0,Electronics,Website,Active
+CUST1424,63,Male,Bengaluru,2025-03-09,2026-06-22,3,68275,22758.33,Electronics,Store,Active
+CUST1425,37,Female,Guwahati,2025-03-09,2026-08-19,3,5167,1722.33,Clothing,Social Media,Active
+CUST1426,43,Female,Pune,2025-03-09,2026-02-04,6,4440,740.0,Beauty & Personal Care,Website,At Risk
+CUST1427,22,Male,Mumbai,2025-03-10,2026-06-17,9,25889,2876.56,Home & Kitchen,Website,Active
+CUST1428,35,Female,Mumbai,2025-03-11,2026-01-23,17,67849,3991.12,Clothing,Website,Active
+CUST1429,53,Male,Kolkata,2025-03-13,2026-05-24,3,10209,3403.0,Home & Kitchen,Website,Active
+CUST1430,32,Male,Jaipur,2025-03-13,2026-01-01,3,2182,727.33,Accessories,Paid Ads,At Risk
+CUST1431,39,Female,Bengaluru,2025-03-14,2026-05-02,3,4168,1389.33,Grocery,Organic Search,At Risk
+CUST1432,26,Female,Jaipur,2025-03-14,2025-11-23,4,18130,4532.5,Home & Kitchen,Social Media,Churned
+CUST1433,28,Female,Pune,2025-03-14,2025-03-16,1,2391,2391.0,Clothing,Organic Search,Churned
+CUST1434,33,Male,Delhi,2025-03-15,2025-12-23,4,4524,1131.0,Grocery,Website,At Risk
+CUST1435,58,Male,Bengaluru,2025-03-15,2025-04-01,1,11964,11964.0,Electronics,Paid Ads,Churned
+CUST1436,24,Female,Kochi,2025-03-16,2025-04-29,1,1541,1541.0,Beauty & Personal Care ,Paid Ads,Churned
+CUST1437,39,Male,Delhi,2025-03-16,2025-10-30,2,4349,2174.5,Grocery,Social Media,At Risk
+CUST1438,28,Female,Bengaluru,2025-03-17,2025-06-04,1,36820,36820.0,Electronics,Referral,Churned
+CUST1439,39,Female,Delhi,2025-03-17,2025-11-10,3,3530,1176.67,Grocery,Paid Ads,At Risk
+CUST1440,47,Male,Kochi,2025-03-19,2026-01-18,9,18724,2080.44,Home & Kitchen,Paid Ads,At Risk
+CUST1441,44,Female,Kolkata,2025-03-19,2026-02-01,3,3520,1173.33,Books,Organic Search,At Risk
+CUST1442,31,Male,Mumbai,2025-03-19,2026-05-11,7,1754,250.57,Books,Website,At Risk
+CUST1443,25,Female,Delhi,2025-03-19,2026-04-07,10,9904,990.4,Clothing,Website,Active
+CUST1444,41,Female,Chennai,2025-03-19,2026-03-22,7,8900,1271.43,Beauty & Personal Care,Organic Search,Active
+CUST1445,21,Female,Ahmedabad,2025-03-20,2026-08-04,5,8188,1637.6,Beauty & Personal Care,Referral,Active
+CUST1446,29,Female,Kolkata,2025-03-20,2025-10-15,5,9066,1813.2,Home & Kitchen,Social Media,At Risk
+CUST1447,30,Female,Kolkata,2025-03-20,2026-06-10,3,3499,1166.33,Books,Website,Active
+CUST1448,41,Female,Hyderabad,2025-03-21,2025-12-17,2,13050,6525.0,Clothing,Email Campaign,At Risk
+CUST1449,36,Female,Mumbai,2025-03-21,2026-08-08,14,16046,1146.14,Grocery,Organic Search,Active
+CUST1450,34,Female,Pune,2025-03-22,2026-04-04,2,3502,1751.0,Beauty & Personal Care,Store,Active
+CUST1451,46,Male,Bengaluru,2025-03-22,2025-03-22,1,1146,1146.0,Accessories,Social Media,Churned
+CUST1452,33,Female,Guwahati,2025-03-23,2026-03-21,2,1971,985.5,Grocery,Paid Ads,At Risk
+CUST1453,21,Female,Delhi,2025-03-24,2026-05-15,8,19574,2446.75,Accessories,Website,Active
+CUST1454,23,Female,Hyderabad,2025-03-24,2026-05-28,3,3357,1119.0,Clothing,Social Media,Active
+CUST1455,59,Female,Chennai,2025-03-28,2025-04-05,1,3645,3645.0,Home & Kitchen,Organic Search,Churned
+CUST1456,32,Female,Surat,2025-03-28,2026-03-01,5,10042,2008.4,Beauty & Personal Care,Organic Search,At Risk
+CUST1457,32,Male,Bengaluru,2025-03-29,2026-07-29,7,93828,13404.0,Electronics,Email Campaign,Active
+CUST1458,35,Male,Ahmedabad,2025-03-29,2026-01-28,2,3893,1946.5,Clothing,Referral,At Risk
+CUST1459,34,Female,Chandigarh,2025-03-30,2026-05-05,2,16715,8357.5,Electronics,Website,At Risk
+CUST1460,34,Male,Mumbai,2025-03-30,2025-08-04,2,11436,5718.0,Home & Kitchen,Referral,Churned
+CUST1461,47,Female,Chennai,2025-03-31,2026-05-12,5,33892,6778.4,Electronics,Social Media,Active
+CUST1462,35,Male,Ahmedabad,2025-04-01,2025-04-01,1,4031,4031.0,Home & Kitchen,Paid Ads,Churned
+CUST1463,25,Male,Nagpur,2025-04-01,2026-08-16,3,8414,2804.67,Sports & Fitness,Paid Ads,Active
+CUST1464,28,Female,Pune,2025-04-01,2025-04-04,1,7265,7265.0,Sports & Fitness,Email Campaign,Churned
+CUST1465,28,Female,Ahmedabad,2025-04-01,2025-04-01,1,1938,1938.0,Clothing,Social Media,Churned
+CUST1466,31,Male,Pune,2025-04-02,2026-08-07,7,7311,1044.43,Books,Website,Active
+CUST1467,20,Female,Kolkata,2025-04-02,2026-05-08,9,80908,8989.78,Electronics,Organic Search,Active
+CUST1468,41,Female,Mumbai,2025-04-03,2026-07-14,5,14297,2859.4,Beauty & Personal Care,Website,Active
+CUST1469,22,Female,Jaipur,2025-04-03,2026-09-04,6,2328,388.0,Accessories,Website,Active
+CUST1470,36,Male,Bengaluru,2025-04-04,2026-08-01,19,14795,778.68,Grocery,Social Media,Active
+CUST1471,39,Male,Nagpur,2025-04-04,2026-07-18,2,3604,1802.0,Home & Kitchen,Paid Ads,Active
+CUST1472,38,Male,Chennai,2025-04-06,2026-04-10,7,9272,1324.57,Books,Website,Active
+CUST1473,34,Female,Mumbai,2025-04-06,2025-04-18,1,907,907.0,Books,Social Media,Churned
+CUST1474,33,Male,Kolkata,2025-04-06,2025-04-17,1,2474,2474.0,Clothing,Paid Ads,Churned
+CUST1475,54,Male,Lucknow,2025-04-06,2025-12-03,6,30733,5122.17,Electronics,Organic Search,At Risk
+CUST1476,39,Female,Ranchi,2025-04-07,2025-12-06,2,5179,2589.5,Clothing,Store,Churned
+CUST1477,21,Male,Bhubaneswar,2025-04-07,2026-03-25,5,13089,2617.8,Sports & Fitness,Website,Active
+CUST1478,37,Male,Kolkata,2025-04-07,2025-04-09,1,1246,1246.0,Clothing,Paid Ads,Churned
+CUST1479,23,Male,Visakhapatnam,2025-04-08,2025-12-18,3,9893,3297.67,Sports & Fitness,Organic Search,At Risk
+CUST1480,39,Male,Delhi,2025-04-09,2026-03-06,5,8857,1771.4,Grocery,Paid Ads,At Risk
+CUST1481,39,Male,Pune,2025-04-09,2026-05-08,4,9117,2279.25,Clothing,Paid Ads,Active
+CUST1482,54,Female,Guwahati,2025-04-09,2026-08-16,8,116023,14502.88,Electronics,Store,Active
+CUST1483,34,Male,Chandigarh,2025-04-10,2026-04-18,2,30124,15062.0,Electronics,Store,Active
+CUST1484,45,Male,Pune,2025-04-10,2026-08-01,5,6178,1235.6,Grocery,Website,Active
+CUST1485,30,Male,Visakhapatnam,2025-04-10,2026-04-21,7,39185,5597.86,Electronics,Paid Ads,Active
+CUST1486,38,Female,Pune,2025-04-12,2025-05-25,1,3299,3299.0,Clothing,Social Media,Churned 
+CUST1487,37,Male,Indore,2025-04-13,2026-07-05,5,2850,570.0,Accessories,Paid Ads,Active
+CUST1488,37,Male,Mumbai,2025-04-13,2026-04-24,4,15297,3824.25,Clothing,Social Media,Active
+CUST1489,43,Female,Visakhapatnam,2025-04-15,2026-09-02,1,2503,2503.0,Sports & Fitness,Store,Active
+CUST1490,37,Female,Hyderabad,2025-04-16,2026-07-09,2,6440,3220.0,Home & Kitchen,Store,Active
+CUST1491,20,Female,Bengaluru,2025-04-17,2025-04-23,1,1302,1302.0,Beauty & Personal Care,Paid Ads,Churned
+CUST1492,30,Male,Nagpur,2025-04-17,2026-01-15,2,12561,6280.5,Electronics,Website,At Risk
+CUST1493,34,Female,Hyderabad,2025-04-17,2026-07-11,5,17369,3473.8,Beauty & Personal Care,Email Campaign,Active
+CUST1494,36,Male,Mumbai,2025-04-17,2025-06-03,5,44025,8805.0,Electronics,Organic Search,Churned
+CUST1495,23,Female,Jaipur,2025-04-17,2025-04-29,1,19277,19277.0,Electronics,Paid Ads,Churned
+CUST1496,42,Female,Mumbai,2025-04-17,2026-01-29,4,53402,13350.5,Electronics,Email Campaign,At Risk
+CUST1497,38,Male,Kochi,2025-04-17,2026-04-22,2,3094,1547.0,Sports & Fitness,Social Media,At Risk
+CUST1498,40,Female,Visakhapatnam,2025-04-18,2025-11-13,2,1146,573.0,Books,Organic Search,At Risk
+CUST1499,40,Male,Pune,2025-04-19,2026-07-15,6,57340,9556.67,Electronics,Organic Search,Active
+CUST1500,27,Male,Ranchi,2025-04-19,2026-06-20,3,2763,921.0,Accessories,Website,Active
+CUST1501,38,Female,Nagpur,2025-04-19,2026-05-23,7,4920,702.86,Accessories,Organic Search,Active
+CUST1502,35,Male,Bengaluru,2025-04-20,2026-04-28,2,1744,872.0,Grocery,Website,At Risk
+CUST1503,34,Female,Mumbai,2025-04-20,2025-12-10,2,57398,28699.0,Electronics,Organic Search,At Risk
+CUST1504,38,Male,Ranchi,2025-04-20,2025-08-26,2,1524,762.0,Beauty & Personal Care,Store,Churned
+CUST1505,23,Female,Mumbai,2025-04-21,2026-02-06,2,3479,1739.5,Beauty & Personal Care,Website,At Risk
+CUST1506,23,Female,Visakhapatnam,2025-04-21,2025-04-29,1,1553,1553.0,Accessories,Store,Churned
+CUST1507,36,Female,Hyderabad,2025-04-22,2025-09-10,3,11876,3958.67,Home & Kitchen,Social Media,Churned
+CUST1508,18,Female,Bengaluru,2025-04-22,2025-05-09,1,3181,3181.0,Clothing ,Paid Ads,Churned
+CUST1509,27,Female,Chennai,2025-04-22,2025-11-21,3,2826,942.0,Beauty & Personal Care,Website,At Risk
+CUST1510,32,Male,Pune,2025-04-22,2026-07-25,3,4710,1570.0,Grocery,Organic Search,Active
+CUST1511,38,Male,Mumbai,2025-04-23,2025-10-06,1,4510,4510.0,Sports & Fitness,Organic Search,Churned
+CUST1512,44,Male,Kolkata,2025-04-23,2026-07-03,4,3905,976.25,Grocery,Social Media,Active
+CUST1513,51,Female,Bengaluru,2025-04-25,2026-07-26,5,5562,1112.4,Clothing,Social Media,Active
+CUST1514,22,Male,Lucknow,2025-04-26,2026-09-10,5,10782,2156.4,Clothing,Social Media,Active
+CUST1515,30,Male,Pune,2025-04-27,2026-08-21,5,56509,11301.8,Home & Kitchen,Referral,Active
+CUST1516,36,Female,Guwahati,2025-04-27,2026-07-04,4,10198,2549.5,Clothing,Website,Active
+CUST1517,29,Male,Chandigarh,2025-04-28,2026-03-25,2,1412,706.0,Accessories,Email Campaign,At Risk
+CUST1518,36,Male,Hyderabad,2025-04-28,2025-04-30,1,34267,34267.0,Electronics,Email Campaign,Churned
+CUST1519,24,Female,Bengaluru,2025-05-01,2025-10-21,10,39181,3918.1,Sports & Fitness,Referral,At Risk
+CUST1520,24,Female,Nagpur,2025-05-02,2026-06-30,3,4410,1470.0,Accessories,Website,Active
+CUST1521,55,Male,Mumbai,2025-05-02,2026-03-01,2,31199,15599.5,Electronics,Website,At Risk
+CUST1522,29,Female,Delhi,2025-05-03,2026-07-22,2,1610,805.0,Clothing,Website,Active
+CUST1523,32,Male,Guwahati,2025-05-03,2026-09-08,10,88591,8859.1,Electronics,Website,Active
+CUST1524,42,Female,Chennai,2025-05-03,2026-08-17,3,8829,2943.0,Clothing,Paid Ads,Active
+CUST1525,33,Female,Mumbai,2025-05-03,2026-03-22,2,23131,11565.5,Home & Kitchen,Organic Search,At Risk
+CUST1526,44,Female,Hyderabad,2025-05-05,2025-06-23,2,6936,3468.0,Beauty & Personal Care,Website,Churned
+CUST1527,55,Male,Kolkata,2025-05-05,2025-12-25,1,19558,19558.0,Electronics,Referral,At Risk
+CUST1528,35,Female,Delhi,2025-05-06,2026-08-26,2,2722,1361.0,Beauty & Personal Care,Website,Active
+CUST1529,39,Male,Mumbai,2025-05-07,2026-05-06,3,32487,10829.0,Electronics,Social Media,Active
+CUST1530,29,Female,Bengaluru,2025-05-08,2026-07-29,2,2093,1046.5,Beauty & Personal Care,Website,Active
+CUST1531,51,Male,Hyderabad,2025-05-08,2026-08-21,3,7339,2446.33,Home & Kitchen,Social Media,Active
+CUST1532,36,Female,Hyderabad,2025-05-09,2026-07-04,3,5544,1848.0,Grocery,Referral,Active
+CUST1533,38,Female,Chennai,2025-05-09,2026-07-10,3,7228,2409.33,Beauty & Personal Care,Social Media,Active
+CUST1534,22,Male,Bengaluru,2025-05-10,2026-06-01,6,20144,3357.33,Sports & Fitness,Paid Ads,Active
+CUST1535,21,Male,Bengaluru,2025-05-12,2026-03-30,3,7276,2425.33,Home & Kitchen,Organic Search,At Risk
+CUST1536,25,Female,Chennai,2025-05-12,2026-06-25,2,5298,2649.0,Clothing,Paid Ads,Active
+CUST1537,18,,Pune,2025-05-13,2025-11-16,4,8266,2066.5,Beauty & Personal Care,Social Media,At Risk
+CUST1538,33,Male,Chennai,2025-05-13,2026-07-08,5,49257,9851.4,Electronics,Paid Ads,Active
+CUST1539,27,Male,Ranchi,2025-05-13,2026-06-18,5,4716,943.2,Grocery,Organic Search,Active
+CUST1540,47,Male,Chennai,2025-05-13,2025-05-21,1,5166,5166.0,Home & Kitchen,Organic Search,Churned
+CUST1541,42,Female,Hyderabad,2025-05-14,2025-12-19,3,7732,2577.33,Clothing,Paid Ads,At Risk
+CUST1542,57,Female,Chennai,2025-05-15,2025-05-22,1,5632,5632.0,Home & Kitchen,Social Media,Churned
+CUST1543,37,Female,Jaipur,2025-05-15,2026-04-02,2,5761,2880.5,Home & Kitchen,Paid Ads,At Risk
+CUST1544,45,Male,Chennai,2025-05-15,2025-10-29,7,106996,15285.14,Electronics,Website,At Risk
+CUST1545,45,Female,Chennai,2025-05-16,2026-07-06,7,47427,6775.29,Home & Kitchen,Organic Search,Active
+CUST1546,20,Male,Ahmedabad,2025-05-16,2025-06-03,1,1393,1393.0,Beauty & Personal Care,Organic Search,Churned
+CUST1547,34,Male,Chennai,2025-05-16,2026-06-20,2,20254,10127.0,Electronics,Website,Active
+CUST1548,36,Female,Pune,2025-05-17,2025-05-19,1,2155,2155.0,Clothing,Paid Ads,Churned
+CUST1549,34,Male,Chennai,2025-05-19,2026-06-03,3,12305,4101.67,Clothing,Website,Active
+CUST1550,41,Male,Mumbai,2025-05-19,2025-05-21,1,8529,8529.0,Electronics,Website,Churned
+CUST1551,29,Female,Delhi,2025-05-20,2025-06-25,1,1714,1714.0,Clothing,Paid Ads,Churned
+CUST1552,18,Male,Hyderabad,2025-05-21,2026-01-21,2,1465,732.5,Grocery,Email Campaign,At Risk
+CUST1553,42,Male,Delhi,2025-05-21,2026-03-11,6,23003,3833.83,Sports & Fitness,Website,At Risk
+CUST1554,24,Female,Bhubaneswar,2025-05-21,2025-05-27,1,1352,1352.0,Beauty & Personal Care,Paid Ads,Churned
+CUST1555,39,Male,Kolkata,2025-05-22,2025-06-14,1,4192,4192.0,Home & Kitchen,Paid Ads,Churned
+CUST1556,35,Male,Surat,2025-05-22,2026-04-22,2,3043,1521.5,Beauty & Personal Care,Social Media,Active
+CUST1557,21,Male,Surat,2025-05-22,2026-05-17,6,10676,1779.33,Clothing,Organic Search,At Risk
+CUST1558,31,Male,Ahmedabad,2025-05-23,2026-09-13,3,15234,5078.0,Clothing,Store,Active
+CUST1559,23,Female,Chennai,2025-05-24,2026-04-17,2,1925,962.5,Beauty & Personal Care,Paid Ads,At Risk
+CUST1560,27,Female,Delhi,2025-05-24,2026-06-27,2,3454,1727.0,Beauty & Personal Care,Organic Search,Active
+CUST1561,24,Male,Delhi,2025-05-24,2025-06-07,1,1285,1285.0,Clothing,Website,Churned
+CUST1562,22,Male,Hyderabad,2025-05-25,2026-08-06,2,6987,3493.5,Sports & Fitness,Organic Search,Active
+CUST1563,39,Other,Hyderabad,2025-05-25,2026-02-06,2,4876,2438.0,Home & Kitchen,Referral,At Risk
+CUST1564,38,Female,Indore,2025-05-26,2025-05-26,1,9329,9329.0,Electronics,Website,Churned
+CUST1565,33,Male,Hyderabad,2025-05-26,2025-06-10,1,2767,2767.0,Home & Kitchen,Paid Ads,Churned
+CUST1566,27,Female,Bengaluru,2025-05-26,2026-02-04,3,9393,3131.0,Home & Kitchen,Paid Ads,At Risk
+CUST1567,22,Female,Surat,2025-05-26,2025-12-31,9,32800,3644.44,Clothing,Store,At Risk
+CUST1568,18,Female,Mumbai,2025-05-26,2026-05-11,3,7471,2490.33,Clothing,Paid Ads,At Risk
+CUST1569,27,Female,Surat,2025-05-27,2026-02-08,2,9397,4698.5,Home & Kitchen,Website,At Risk
+CUST1570,29,Female,Hyderabad,2025-05-29,2026-08-19,2,16082,8041.0,Electronics,Organic Search,Active
+CUST1571,35,Female,Delhi,2025-05-29,2026-07-24,2,3618,1809.0,Beauty & Personal Care,Organic Search,Active
+CUST1572,58,Female,Delhi,2025-05-31,2026-05-01,6,8009,1334.83,Beauty & Personal Care,Paid Ads,Active
+CUST1573,32,Female,Bengaluru,2025-05-31,2026-07-30,3,2356,785.33,Beauty & Personal Care,Referral,Active
+CUST1574,48,Male,Hyderabad,2025-05-31,2026-03-18,2,18168,9084.0,Electronics,Organic Search,At Risk
+CUST1575,27,Male,Bengaluru,2025-06-01,2026-06-05,2,2850,1425.0,Beauty & Personal Care,Email Campaign,Active
+CUST1576,31,Female,Bengaluru,2025-06-01,2025-08-07,1,5257,5257.0,Clothing,Social Media,Churned
+CUST1577,36,Male,Pune,2025-06-01,2025-06-22,1,1110,1110.0,Grocery,Website,Churned
+CUST1578,24,Male,Guwahati,2025-06-04,2026-07-18,5,23951,4790.2,Clothing,Referral,Active
+CUST1579,31,Female,Delhi,2025-06-04,2025-09-24,2,5859,2929.5,Clothing,Social Media,Churned
+CUST1580,32,Female,Kochi,2025-06-04,2025-07-03,1,2506,2506.0,Sports & Fitness,Website,Churned
+CUST1581,39,Male,Mumbai,2025-06-04,2026-01-12,2,8536,4268.0,Home & Kitchen,Organic Search,At Risk
+CUST1582,22,Female,Bengaluru,2025-06-05,2025-06-27,1,903,903.0,Accessories,Social Media,Churned
+CUST1583,44,Female,Indore,2025-06-05,2026-08-02,2,30428,15214.0,Electronics,Email Campaign,Active
+CUST1584,39,Other,Lucknow,2025-06-06,2026-04-09,5,86884,17376.8,Electronics,Organic Search,Active
+CUST1585,29,Female,Guwahati,2025-06-06,2026-04-08,5,12942,2588.4,Clothing,Store,Active
+CUST1586,32,Female,Pune,2025-06-07,2026-06-26,5,4875,975.0,Beauty & Personal Care,Social Media,Active
+CUST1587,39,Male,Ahmedabad,2025-06-07,2025-06-11,1,3749,3749.0,Beauty & Personal Care,Website,Churned
+CUST1588,23,Male,Bengaluru,2025-06-08,2026-08-15,8,12554,1569.25,Sports & Fitness,Email Campaign,Active
+CUST1589,32,Male,Hyderabad,2025-06-08,2026-05-14,10,17975,1797.5,Accessories,Paid Ads,Active
+CUST1590,39,Female,Bengaluru,2025-06-09,2026-07-11,8,60849,7606.12,Clothing,Referral,Active
+CUST1591,25,Male,Kochi,2025-06-09,2026-07-18,2,14034,7017.0,Electronics,Paid Ads,Active
+CUST1592,34,Female,Kochi,2025-06-09,2025-12-27,5,1753,350.6,Books,Organic Search,At Risk
+CUST1593,18,Male,Pune,2025-06-10,2025-06-10,1,2363,2363.0,Sports & Fitness,Paid Ads,Churned
+CUST1594,33,Other,Ahmedabad,2025-06-11,2026-02-18,4,8520,2130.0,Grocery,Referral,At Risk
+CUST1595,31,Male,Mumbai,2025-06-11,2026-01-28,7,40373,5767.57,Sports & Fitness,Paid Ads,At Risk
+CUST1596,48,Male,Chennai,2025-06-12,2026-04-26,2,34764,17382.0,Electronics,Paid Ads,Active
+CUST1597,34,Male,Delhi,2025-06-12,2026-03-30,3,5358,1786.0,Accessories,Website,At Risk
+CUST1598,25,Male,Jaipur,2025-06-13,2026-07-03,2,3938,1969.0,Home & Kitchen,Social Media,Active
+CUST1599,37,Female,Patna,2025-06-13,2025-08-03,3,23517,7839.0,Electronics,Store,Churned
+CUST1600,34,Female,Bengaluru,2025-06-15,2025-06-18,1,3377,3377.0,Clothing,Social Media,Churned
+CUST1601,24,Male,Jaipur,2025-06-15,2026-05-16,3,14459,4819.67,Clothing,Organic Search,Active
+CUST1602,32,Male,Jaipur,2025-06-15,2026-08-25,1,2608,2608.0,Sports & Fitness,Store,Active
+CUST1603,49,Male,Bengaluru,2025-06-16,2026-08-31,5,10591,2118.2,Clothing,Social Media,Active
+CUST1604,36,Male,Mumbai,2025-06-17,2025-07-07,1,1445,1445.0,Grocery,Social Media,Churned
+CUST1605,19,Female,Lucknow,2025-06-18,2026-03-21,1,904,904.0,Beauty & Personal Care,Paid Ads,At Risk
+CUST1606,30,Male,Delhi,2025-06-18,2025-12-19,2,3951,1975.5,Books,Store,At Risk
+CUST1607,35,Male,Bhubaneswar,2025-06-19,2025-06-20,1,1689,1689.0,Accessories,Social Media,Churned
+CUST1608,31,Male,Bhubaneswar,2025-06-20,2026-07-30,3,17393,5797.67,Electronics,Email Campaign,Active
+CUST1609,44,Female,,2025-06-21,2026-04-15,2,37522,18761.0,Electronics,Referral,At Risk
+CUST1610,29,Female,Kolkata,2025-06-21,2026-05-10,8,20026,2503.25,Beauty & Personal Care,Store,Active
+CUST1611,46,Male,Bhubaneswar,2025-06-21,2026-04-15,4,7262,1815.5,Grocery,Email Campaign,Active
+CUST1612,54,Male,Mumbai,2025-06-21,2025-10-23,4,23294,5823.5,Home & Kitchen,Social Media,Churned
+CUST1613,32,Male,Ranchi,2025-06-22,2025-12-05,2,2965,1482.5,Home & Kitchen,Paid Ads,At Risk
+CUST1614,49,Female,Delhi,2025-06-23,2026-03-16,2,3296,1648.0,Home & Kitchen,Website,At Risk
+CUST1615,19,Male,Chandigarh,2025-06-23,2025-06-25,1,12849,12849.0,Electronics,Social Media,Churned
+CUST1616,25,Female,Kolkata,2025-06-24,2026-05-30,4,30229,7557.25,Home & Kitchen,Email Campaign,Active
+CUST1617,37,Male,Chennai,2025-06-24,2026-05-14,2,6302,3151.0,Clothing,Organic Search,Active
+CUST1618,46,Male,Kochi,2025-06-24,2026-09-03,10,24083,2408.3,Home & Kitchen,Website,Active
+CUST1619,27,Female,Kochi,2025-06-25,2026-09-09,8,75486,9435.75,Electronics,Referral,Active
+CUST1620,37,Male,Ahmedabad,2025-06-26,2026-06-24,2,1696,848.0,Accessories,Email Campaign,Active
+CUST1621,22,Female,Pune,2025-06-26,2026-01-27,2,4387,2193.5,Sports & Fitness,Organic Search,At Risk
+CUST1622,37,Male,Kochi,2025-06-26,2026-08-02,2,9564,4782.0,Home & Kitchen,Paid Ads,Active
+CUST1623,46,Male,Kolkata,2025-06-27,2026-02-21,3,4804,1601.33,Home & Kitchen,Referral,At Risk
+CUST1624,35,Female,Kolkata,2025-06-27,2025-07-01,1,3348,3348.0,Sports & Fitness,Paid Ads,Churned
+CUST1625,28,Male,Kolkata,2025-06-27,2026-05-25,2,12575,6287.5,Home & Kitchen,Organic Search,Active
+CUST1626,52,Male,Nagpur,2025-06-27,2026-05-01,2,2777,1388.5,Clothing,Paid Ads,At Risk
+CUST1627,38,Male,Chandigarh,2025-06-28,2026-06-27,2,46171,23085.5,Electronics,Organic Search,Active
+CUST1628,41,Male,Mumbai,2025-06-29,2026-02-21,2,7184,3592.0,Home & Kitchen,Organic Search,Active
+CUST1629,42,Male,Bengaluru,2025-06-29,2025-07-01,1,2165,2165.0,Home & Kitchen,Paid Ads,Churned
+CUST1630,31,Male,Bengaluru,2025-06-30,2026-06-13,8,89257,11157.12,Sports & Fitness,Referral,Active
+CUST1631,41,Female,Pune,2025-07-02,2026-03-23,8,18922,2365.25,Clothing,Referral,At Risk
+CUST1632,48,Other,Hyderabad,2025-07-02,2026-08-24,2,4860,2430.0,Beauty & Personal Care,Email Campaign,Active
+CUST1633,29,Male,Bhubaneswar,2025-07-03,2026-05-09,2,2050,1025.0,Accessories,Paid Ads,Active
+CUST1634,63,Male,Visakhapatnam,2025-07-04,2025-07-04,1,8737,8737.0,Electronics,Organic Search,Churned
+CUST1635,29,Male,Delhi,2025-07-05,2026-02-14,5,90055,18011.0,Electronics,Organic Search,At Risk
+CUST1636,45,Male,Bengaluru,2025-07-05,2026-02-10,2,3203,1601.5,Grocery,Referral,At Risk
+CUST1637,37,Other,Delhi,2025-07-05,2026-03-30,4,38971,9742.75,Sports & Fitness,Website,At Risk
+CUST1638,21,Male,Lucknow,2025-07-06,2025-07-07,1,993,993.0,Beauty & Personal Care,Organic Search,Churned
+CUST1639,34,Female,Bengaluru,2025-07-06,2026-08-11,8,6893,861.62,Accessories,Organic Search,Active
+CUST1640,28,Female,Kochi,2025-07-08,2026-06-15,2,1756,878.0,Beauty & Personal Care,Social Media,Active
+CUST1641,39,Male,Bengaluru,2025-07-09,2026-08-09,3,30048,10016.0,Electronics,Organic Search,Active
+CUST1642,31,Male,Bengaluru,2025-07-09,2026-08-28,2,2914,1457.0,Clothing,Paid Ads,Active
+CUST1643,31,Male,Ahmedabad,2025-07-11,2025-07-26,1,758,758.0,Books,Organic Search,Churned
+CUST1644,38,Male,Nagpur,2025-07-11,2026-04-26,3,5205,1735.0,Beauty & Personal Care,Referral,Active
+CUST1645,28,Male,Mumbai,2025-07-12,2025-08-28,1,1684,1684.0,Grocery,Store,Churned
+CUST1646,18,Female,Jaipur,2025-07-12,2026-05-19,2,5859,2929.5,Clothing,Email Campaign,Active
+CUST1647,28,Female,Chandigarh,2025-07-13,2025-10-17,3,4974,1658.0,Sports & Fitness,Website,Churned
+CUST1648,27,Male,Mumbai,2025-07-13,2025-07-18,1,4043,4043.0,Home & Kitchen,Referral,Churned
+CUST1649,64,Male,Pune,2025-07-13,2025-12-26,3,7033,2344.33,Sports & Fitness,Organic Search,At Risk
+CUST1650,45,Male,Chennai,2025-07-13,2026-06-25,3,5568,1856.0,Sports & Fitness,Email Campaign,Active
+CUST1651,47,Male,Mumbai,2025-07-14,2026-08-19,4,29592,7398.0,Electronics,Social Media,Active
+CUST1652,33,Male,Delhi,2025-07-14,2026-01-19,4,1908,477.0,Books,Social Media,At Risk
+CUST1653,36,Female,Surat,2025-07-14,2026-07-24,16,136791,8549.44,Electronics,Organic Search,Active
+CUST1654,31,Female,Hyderabad,2025-07-15,2025-09-27,1,2066,2066.0,Clothing,Store,Churned
+CUST1655,31,Male,Nagpur,2025-07-15,2026-04-15,3,3708,1236.0,Beauty & Personal Care,Website,At Risk
+CUST1656,27,Female,Indore,2025-07-16,2025-11-09,7,70730,10104.29,Electronics,Organic Search,At Risk
+CUST1657,49,Male,Jaipur,2025-07-16,2025-07-18,1,8867,8867.0,Electronics,Paid Ads,At Risk
+CUST1658,26,Male,Delhi,2025-07-17,2026-08-14,3,45869,15289.67,Electronics,Store,Active
+CUST1659,36,Male,Chennai,2025-07-19,2026-07-24,10,15776,1577.6,Clothing,Website,Active
+CUST1660,34,Male,Kochi,2025-07-19,2026-06-22,2,1340,670.0,Beauty & Personal Care,Store,Active
+CUST1661,32,Female,Surat,2025-07-21,2026-06-25,2,988,494.0,Beauty & Personal Care,Paid Ads,Active
+CUST1662,41,Female,Hyderabad,2025-07-22,2026-07-25,10,16633,1663.3,Clothing,Paid Ads,Active
+CUST1663,37,Female,Hyderabad,2025-07-22,2026-06-10,1,843,843.0,Beauty & Personal Care,Paid Ads,At Risk
+CUST1664,18,Female,Jaipur,2025-07-23,2026-03-01,5,6667,1333.4,Beauty & Personal Care,Website, At Risk
+CUST1665,18,Male,Delhi,2025-07-23,2026-06-21,2,10009,5004.5,Home & Kitchen,Social Media,Active
+CUST1666,28,Female,Ahmedabad,2025-07-25,2025-07-31,1,3957,3957.0,Home & Kitchen,Organic Search,Churned
+CUST1667,44,Female,Nagpur,2025-07-25,2026-07-22,4,2322,580.5,Accessories,Website,Active
+CUST1668,36,Female,Hyderabad,2025-07-26,2026-08-17,6,14913,2485.5,Home & Kitchen,Paid Ads,Active
+CUST1669,29,Male,Kolkata,2025-07-27,2026-01-03,2,2257,1128.5,Accessories,Store,At Risk
+CUST1670,33,Male,Kochi,2025-07-27,2025-12-21,4,4397,1099.25,Accessories,Website,At Risk
+CUST1671,23,Female,Delhi,2025-07-28,2026-06-07,12,6263,521.92,Beauty & Personal Care,Organic Search,Active
+CUST1672,35,Female,Mumbai,2025-07-29,2026-08-30,2,6935,3467.5,Clothing,Email Campaign,Active
+CUST1673,35,Male,Chennai,2025-07-29,2025-08-08,1,5703,5703.0,Electronics,Website,Churned
+CUST1674,52,Male,Delhi,2025-07-29,2026-01-07,2,3987,1993.5,Beauty & Personal Care,Referral,At Risk
+CUST1675,29,Male,Bengaluru,2025-07-30,2026-04-19,2,2596,1298.0,Beauty & Personal Care,Organic Search,At Risk
+CUST1676,36,Male,Ranchi,2025-07-31,2026-01-16,3,2834,944.67,Accessories,Website,At Risk
+CUST1677,47,Female,Mumbai,2025-07-31,2026-07-15,7,30607,4372.43,Beauty & Personal Care,Website,Active
+CUST1678,48,Female,Mumbai,2025-08-01,2026-07-09,2,4359,2179.5,Sports & Fitness,Paid Ads,Active
+CUST1679,54,Male,Mumbai,2025-08-01,2025-10-17,1,6358,6358.0,Home & Kitchen,Website,Churned
+CUST1680,27,Female,Bengaluru,2025-08-01,2026-07-08,6,10773,1795.5,Beauty & Personal Care,Website,Active
+CUST1681,18,Male,Hyderabad,2025-08-02,2026-09-04,2,3400,1700.0,Grocery,Social Media,Active
+CUST1682,33,Female,Chennai,2025-08-02,2026-05-10,6,14162,2360.33,Home & Kitchen,Website,Active
+CUST1683,22,Female,Kolkata,2025-08-02,2026-02-18,2,4458,2229.0,Beauty & Personal Care,Referral,At Risk
+CUST1684,36,Male,Hyderabad,2025-08-04,2026-05-21,4,27928,6982.0,Electronics,Referral,Active
+CUST1685,65,Female,Patna,2025-08-05,2025-08-11,1,4209,4209.0,Electronics,Email Campaign,Churned
+CUST1686,26,Male,Patna,2025-08-05,2026-09-08,2,1096,548.0,Beauty & Personal Care,Email Campaign,Active
+CUST1687,32,Male,Kolkata,2025-08-06,2026-01-11,3,12575,4191.67,Clothing,Referral,At Risk
+CUST1688,41,Male,Bhubaneswar,2025-08-06,2026-04-29,2,3112,1556.0,Home & Kitchen,Paid Ads,At Risk
+CUST1689,35,Male,Chennai,2025-08-07,2026-09-09,3,3448,1149.33,Grocery,Paid Ads,Active
+CUST1690,32,Male,Kolkata,2025-08-07,2026-03-18,2,3351,1675.5,Accessories,Website,At Risk
+CUST1691,25,Male,Jaipur,2025-08-08,2026-01-14,3,33405,11135.0,Electronics,Paid Ads,At Risk
+CUST1692,23,Female,,2025-08-09,2025-08-10,1,6379,6379.0,Beauty & Personal Care,Organic Search,Churned
+CUST1693,35,Female,Ahmedabad,2025-08-09,2025-08-17,1,2350,2350.0,Clothing,Organic Search,Churned
+CUST1694,29,Male,Chennai,2025-08-10,2026-07-31,5,126411,25282.2,Electronics,Store,Active
+CUST1695,24,Female,Bengaluru,2025-08-10,2026-08-29,7,7715,1102.14,Grocery,Store,Active
+CUST1696,49,Female,Patna,2025-08-10,2025-08-13,1,1509,1509.0,Clothing,Paid Ads,Churned
+CUST1697,32,Male,Chennai,2025-08-11,2026-07-30,4,10593,2648.25,Home & Kitchen,Website,Active
+CUST1698,30,Female,Indore,2025-08-11,2026-02-03,7,7988,1141.14,Beauty & Personal Care,Website,At Risk
+CUST1699,58,Female,Ranchi,2025-08-12,2025-08-13,1,2441,2441.0,Home & Kitchen,Website,Churned
+CUST1700,39,Female,Chennai,2025-08-12,2025-09-08,1,3684,3684.0,Home & Kitchen,Social Media,Churned
+CUST1701,40,Male,Pune,2025-08-13,2025-11-30,2,22831,11415.5,Electronics,Website,At Risk
+CUST1702,33,Female,Chennai,2025-08-13,2026-09-02,3,2543,847.67,Clothing,Paid Ads,Active
+CUST1703,36,Male,Kolkata,2025-08-15,2026-06-30,2,1546,773.0,Grocery,Website,Active
+CUST1704,63,Female,Patna,2025-08-15,2025-08-16,1,656,656.0,Grocery,Email Campaign,Churned
+CUST1705,40,Female,Bengaluru,2025-08-18,2026-09-03,4,17660,4415.0,Sports & Fitness,Store,Active
+CUST1706,45,Male,Mumbai,2025-08-18,2026-02-10,3,17502,5834.0,Home & Kitchen,Website,At Risk
+CUST1707,21,Male,Bengaluru,2025-08-18,2026-04-15,3,69174,23058.0,Electronics,Organic Search,At Risk
+CUST1708,42,Female,Kolkata,2025-08-19,2026-04-22,3,8650,2883.33,Clothing,Email Campaign,Active
+CUST1709,30,Other,Delhi,2025-08-19,2026-08-17,2,46112,23056.0,Electronics,Organic Search,Active
+CUST1710,35,Male,Pune,2025-08-20,2026-04-03,3,30523,10174.33,Electronics,Email Campaign,Active
+CUST1711,39,Male,Kolkata,2025-08-20,2026-04-28,4,4263,1065.75,Clothing,Paid Ads,Active
+CUST1712,28,Male,Bengaluru,2025-08-21,2025-08-27,1,15748,15748.0,Electronics,Paid Ads,At Risk
+CUST1713,27,Male,Ahmedabad,2025-08-21,2026-07-23,2,3197,1598.5,Accessories,Organic Search,Active
+CUST1714,45,Male,Mumbai,2025-08-21,2026-06-14,2,20494,10247.0,Electronics,Social Media,Active
+CUST1715,27,Male,Patna,2025-08-22,2026-02-19,3,58903,19634.33,Electronics,Social Media,At Risk
+CUST1716,38,Other,Hyderabad,2025-08-22,2026-08-12,3,6758,2252.67,Sports & Fitness,Organic Search,Active
+CUST1717,19,Male,Bengaluru,2025-08-23,2026-05-11,4,12085,3021.25,Home & Kitchen,Paid Ads,Active
+CUST1718,31,Female,Indore,2025-08-24,2025-08-26,1,625,625.0,Grocery,Website,Churned
+CUST1719,44,Male,Pune,2025-08-24,2026-03-22,3,7418,2472.67,Home & Kitchen,Social Media,At Risk
+CUST1720,31,Female,Kolkata,2025-08-25,2026-07-11,2,4680,2340.0,Sports & Fitness,Social Media,Active
+CUST1721,24,Female,Kolkata,2025-08-26,2025-12-27,4,8715,2178.75,Sports & Fitness,Social Media,At Risk
+CUST1722,31,Male,Kolkata,2025-08-26,2026-07-20,1,22115,22115.0,Electronics,Email Campaign,Active
+CUST1723,24,Female,Mumbai,2025-08-27,2026-09-01,2,2686,1343.0,Accessories,Email Campaign,Active
+CUST1724,39,Male,Bengaluru,2025-08-27,2026-08-04,3,13103,4367.67,Sports & Fitness,Website,Active
+CUST1725,33,Male,Ranchi,2025-08-30,2026-05-23,2,1773,886.5,Books,Social Media,At Risk
+CUST1726,65,Female,Bengaluru,2025-08-30,2026-06-07,11,178913,16264.82,Electronics,Store,Active
+CUST1727,38,Female,Delhi,2025-09-01,2026-07-11,2,5297,2648.5,Grocery,Referral,Active
+CUST1728,31,Other,Chennai,2025-09-03,2026-05-02,3,7745,2581.67,Clothing,Website,At Risk
+CUST1729,26,Male,Delhi,2025-09-04,2026-03-06,5,2943,588.6,Grocery,Website,At Risk
+CUST1730,29,Female,Hyderabad,2025-09-05,2026-04-16,3,6260,2086.67,Beauty & Personal Care,Website,At Risk
+CUST1731,25,Male,Delhi,2025-09-05,2026-03-10,3,2929,976.33,Beauty & Personal Care,Paid Ads,At Risk
+CUST1732,23,Female,Ranchi,2025-09-05,2025-09-05,1,502,502.0,Accessories,Social Media,Churned
+CUST1733,37,Female,Delhi,2025-09-07,2026-05-17,14,32961,2354.36,Beauty & Personal Care,Email Campaign,Active
+CUST1734,26,Male,Ranchi,2025-09-08,2026-09-10,4,2924,731.0,Beauty & Personal Care,Social Media,Active
+CUST1735,27,Male,Bengaluru,2025-09-08,2026-05-13,5,16822,3364.4,Sports & Fitness,Organic Search,Active
+CUST1736,40,Male,Delhi,2025-09-09,2025-09-12,1,1978,1978.0,Sports & Fitness,Paid Ads,Churned
+CUST1737,21,Male,,2025-09-09,2026-04-04,2,19707,9853.5,Home & Kitchen,Organic Search,At Risk
+CUST1738,47,Female,Indore,2025-09-09,2026-04-02,2,4463,2231.5,Beauty & Personal Care,Referral,At Risk
+CUST1739,27,Male,Chennai,2025-09-09,2026-03-11,2,1538,769.0,Books,Referral,At Risk
+CUST1740,45,Male,Delhi,2025-09-10,2026-08-07,2,9802,4901.0,Home & Kitchen,Paid Ads,Active
+CUST1741,30,Male,Visakhapatnam ,2025-09-10,2026-08-31,6,10962,1827.0,Accessories,Store,Active
+CUST1742,33,Female,Nagpur,2025-09-12,2026-06-12,3,2433,811.0,Beauty & Personal Care,Social Media,Active
+CUST1743,47,Female,Hyderabad,2025-09-12,2026-04-03,5,4844,968.8,Books,Organic Search,At Risk
+CUST1744,22,Female,Hyderabad,2025-09-12,2026-08-12,2,12624,6312.0,Clothing,Referral,Active
+CUST1745,35,Male,Kochi,2025-09-12,2026-02-02,2,979,489.5,Beauty & Personal Care,Organic Search,At Risk
+CUST1746,39,Male,Delhi,2025-09-12,2026-09-05,10,14698,1469.8,Grocery,Website,Active
+CUST1747,48,Female,Surat,2025-09-13,2026-06-12,2,2564,1282.0,Beauty & Personal Care,Paid Ads,Active
+CUST1748,46,Female,Mumbai,2025-09-13,2026-05-02,2,2359,1179.5,Beauty & Personal Care,Social Media,At Risk
+CUST1749,37,Female,Bengaluru,2025-09-13,2025-09-15,1,1386,1386.0,Books,Paid Ads,Churned
+CUST1750,40,Male,Surat,2025-09-14,2025-10-30,1,3694,3694.0,Home & Kitchen,Social Media,Churned
+CUST1751,33,Female,Jaipur,2025-09-14,2026-06-26,2,5503,2751.5,Clothing,Social Media,Active
+CUST1752,50,Male,Visakhapatnam,2025-09-14,2026-07-14,2,6269,3134.5,Beauty & Personal Care,Organic Search,Active
+CUST1753,49,Male,Hyderabad,2025-09-15,2025-11-20,1,16736,16736.0,Electronics,Organic Search,At Risk
+CUST1754,45,Female,Bengaluru,2025-09-15,2026-01-20,2,3089,1544.5,Accessories,Organic Search,At Risk
+CUST1755,21,Female,Mumbai,2025-09-15,2025-09-17,1,1883,1883.0,Clothing,Paid Ads,Churned
+CUST1756,30,Male,Kochi,2025-09-15,2026-04-12,3,8467,2822.33,Clothing,Website,At Risk
+CUST1757,39,Male,Surat,2025-09-15,2025-10-06,1,4511,4511.0,Electronics,Social Media,At Risk
+CUST1758,33,Female,Delhi,2025-09-16,2026-05-28,2,1320,660.0,Grocery,Organic Search,Active
+CUST1759,18,Female,Ranchi,2025-09-17,2025-10-03,1,2048,2048.0,Beauty & Personal Care,Email Campaign,Churned
+CUST1760,34,Female,Hyderabad,2025-09-17,2025-10-25,2,14949,7474.5,Electronics,Website,At Risk
+CUST1761,57,Male,Mumbai,2025-09-18,2025-09-20,1,1125,1125.0,Beauty & Personal Care,Email Campaign,Churned
+CUST1762,46,Male,Delhi,2025-09-18,2026-07-10,2,25112,12556.0,Electronics,Email Campaign,Active
+CUST1763,38,Female,Indore,2025-09-19,2026-05-14,3,2112,704.0,Beauty & Personal Care,Paid Ads,Active
+CUST1764,33,Female,Bengaluru,2025-09-19,2026-05-12,10,34428,3442.8,Sports & Fitness,Organic Search,Active
+CUST1765,32,Female,Delhi,2025-09-19,2026-08-22,3,2491,830.33,Accessories,Social Media,Active
+CUST1766,35,Female,Mumbai,2025-09-20,2026-04-02,3,9100,3033.33,Home & Kitchen,Organic Search,At Risk
+CUST1767,28,Male,Hyderabad,2025-09-21,2025-11-23,4,2917,729.25,Grocery,Organic Search,At Risk
+CUST1768,28,Male,Pune,2025-09-22,2025-10-10,1,6011,6011.0,Electronics,Paid Ads,Churned
+CUST1769,34,Female,Kolkata,2025-09-22,2026-03-23,2,12631,6315.5,Electronics,Website,Active
+CUST1770,50,Male,Hyderabad,2025-09-22,2026-07-05,4,21118,5279.5,Home & Kitchen,Referral,Active
+CUST1771,32,Male,Bhubaneswar,2025-09-24,2026-03-12,1,3559,3559.0,Clothing,Paid Ads,At Risk
+CUST1772,35,Female,Surat,2025-09-24,2026-03-09,2,3669,1834.5,Clothing,Organic Search,At Risk
+CUST1773,50,Male,Delhi,2025-09-25,2026-07-14,8,18715,2339.38,Clothing,Organic Search,Active
+CUST1774,36,Female,Kochi,2025-09-25,2025-10-17,1,893,893.0,Accessories,Website,Churned
+CUST1775,42,Female,Kolkata,2025-09-25,2026-06-29,7,3713,530.43,Beauty & Personal Care,Paid Ads,Active
+CUST1776,24,Female,Mumbai,2025-09-26,2026-05-16,2,7536,3768.0,Beauty & Personal Care,Referral,At Risk
+CUST1777,47,Female,Delhi,2025-09-27,2026-04-22,2,3960,1980.0,Beauty & Personal Care,Referral,Active
+CUST1778,40,Male,Pune,2025-09-27,2026-08-23,6,23137,3856.17,Electronics,Organic Search,Active
+CUST1779,22,Female,Chennai,2025-09-28,2026-08-22,4,1789,447.25,Books,Organic Search,Active
+CUST1780,30,Female,Mumbai,2025-09-29,2026-02-21,7,81232,11604.57,Electronics,Website,At Risk
+CUST1781,43,Female,Delhi,2025-09-29,2025-09-29,1,1072,1072.0,Accessories,Email Campaign,At Risk
+CUST1782,26,,Chennai,2025-09-29,2026-03-10,2,9772,4886.0,Sports & Fitness,Organic Search,At Risk
+CUST1783,32,Female,Hyderabad,2025-09-29,2026-09-13,6,11687,1947.83,Home & Kitchen,Store,Active
+CUST1784,35,Female,Nagpur,2025-09-30,2026-08-16,3,38774,12924.67,Sports & Fitness,Organic Search,Active
+CUST1785,57,Female,Hyderabad,2025-09-30,2025-10-01,1,14431,14431.0,Electronics,Email Campaign,At Risk
+CUST1786,34,Female,Delhi,2025-09-30,2026-06-16,2,3800,1900.0,Clothing,Store,Active
+CUST1787,28,Male,Surat,2025-10-01,2026-07-30,3,6967,2322.33,Accessories,Referral,Active
+CUST1788,36,Female,Visakhapatnam,2025-10-02,2026-06-21,6,6288,1048.0,Accessories,Email Campaign,Active
+CUST1789,32,Male,Visakhapatnam,2025-10-05,2026-01-23,3,4043,1347.67,Beauty & Personal Care,Organic Search,At Risk
+CUST1790,37,Male,Delhi,2025-10-05,2026-06-07,2,2201,1100.5,Beauty & Personal Care,Website,Active
+CUST1791,40,Female,Hyderabad,2025-10-05,2026-01-15,1,5164,5164.0,Sports & Fitness,Organic Search,At Risk
+CUST1792,39,Male,Nagpur,2025-10-06,2026-07-05,8,28494,3561.75,Clothing,Website,Active
+CUST1793,30,Female,Jaipur,2025-10-06,2025-11-13,1,4948,4948.0,Home & Kitchen,Store,At Risk 
+CUST1794,18,Female,Delhi,2025-10-08,2026-04-03,2,4025,2012.5,Home & Kitchen,Paid Ads,At Risk
+CUST1795,37,Male,Mumbai,2025-10-08,2025-10-14,1,1091,1091.0,Grocery,Referral,Churned
+CUST1796,20,Male,Hyderabad,2025-10-08,2026-07-09,2,2263,1131.5,Sports & Fitness,Website,Active
+CUST1797,39,Male,Kolkata,2025-10-09,2026-03-04,3,7331,2443.67,Sports & Fitness,Paid Ads,At Risk
+CUST1798,42,Male,Nagpur,2025-10-09,2026-06-16,6,42153,7025.5,,Organic Search,Active
+CUST1799,41,Female,Mumbai,2025-10-09,2025-10-18,1,1233,1233.0,Books,Website,At Risk
+CUST1800,43,Female,Guwahati,2025-10-09,2026-06-12,4,3114,778.5,Books,Organic Search,Active
+CUST1801,42,Male,Bengaluru,2025-10-09,2026-05-03,7,4879,697.0,Books,Website,Active
+CUST1802,25,Male,Kochi,2025-10-09,2025-10-13,1,11417,11417.0,Electronics,Email Campaign,Churned
+CUST1803,21,Male,Bengaluru,2025-10-10,2026-06-14,3,52309,17436.33,Electronics,Organic Search,At Risk
+CUST1804,18,Female,Mumbai,2025-10-10,2026-06-24,2,15964,7982.0,Home & Kitchen,Organic Search,Active
+CUST1805,33,Male,Mumbai,2025-10-10,2026-09-04,4,10103,2525.75,Home & Kitchen,Website,Active
+CUST1806,36,Female,Jaipur,2025-10-10,2026-07-26,3,9791,3263.67,Clothing,Paid Ads,Active
+CUST1807,40,Female,Kolkata,2025-10-10,2026-06-01,3,9976,3325.33,Clothing,Referral,Active
+CUST1808,32,Male,Bengaluru,2025-10-11,2026-07-03,2,25267,12633.5,Electronics,Organic Search,Active
+CUST1809,41,Male,Delhi,2025-10-11,2026-08-01,3,3411,1137.0,Grocery,Store,Active
+CUST1810,40,Male,Hyderabad,2025-10-12,2025-11-02,1,10979,10979.0,Home & Kitchen,Email Campaign,At Risk
+CUST1811,18,Female,Bengaluru,2025-10-12,2025-10-13,1,1349,1349.0,Clothing,Store,At Risk
+CUST1812,49,Female,Mumbai,2025-10-13,2026-04-22,3,28347,9449.0,Electronics,Organic Search,Active
+CUST1813,43,Female,Hyderabad,2025-10-14,2026-07-09,2,5805,2902.5,Clothing,Website,Active
+CUST1814,54,Female,Lucknow,2025-10-14,2026-05-27,3,4743,1581.0,Home & Kitchen,Social Media,Active
+CUST1815,20,Male,Kolkata,2025-10-14,2026-09-06,6,10834,1805.67,Clothing,Store,Active
+CUST1816,54,Male,Delhi,2025-10-14,2026-07-26,2,4436,2218.0,Sports & Fitness,Organic Search,Active
+CUST1817,29,Male,Jaipur,2025-10-15,2026-05-31,7,5851,835.86,Books,Email Campaign,Active
+CUST1818,42,Female,Ahmedabad,2025-10-15,2026-06-20,3,5346,1782.0,Beauty & Personal Care,Referral,Active
+CUST1819,28,Female,Ahmedabad,2025-10-17,2025-10-18,1,2637,2637.0,Beauty & Personal Care,Social Media,At Risk
+CUST1820,42,Female,Guwahati,2025-10-17,2026-08-14,2,3709,1854.5,Accessories,Store,Active
+CUST1821,39,Female,Mumbai,2025-10-17,2026-02-03,2,2275,1137.5,Beauty & Personal Care,Paid Ads,At Risk
+CUST1822,28,Male,Bengaluru,2025-10-19,2026-07-26,6,5791,965.17,Grocery,Store,Active
+CUST1823,28,Male,Jaipur,2025-10-19,2025-10-26,1,1454,1454.0,Clothing,Website,At Risk
+CUST1824,44,Female,Chennai,2025-10-19,2026-01-14,2,5469,2734.5,Sports & Fitness,Store,At Risk
+CUST1825,35,Male,Hyderabad,2025-10-20,2026-08-02,2,3781,1890.5,Sports & Fitness,Social Media,Active
+CUST1826,23,Female,,2025-10-20,2026-01-14,2,2521,1260.5,Beauty & Personal Care,Social Media,At Risk
+CUST1827,24,Female,Surat,2025-10-21,2026-07-29,2,33292,16646.0,Electronics,Referral,Active
+CUST1828,28,Female,Jaipur,2025-10-21,2026-04-04,2,2329,1164.5,Grocery,Email Campaign,Active
+CUST1829,31,Female,Kolkata,2025-10-22,2026-07-04,2,3588,1794.0,Accessories,Referral,Active
+CUST1830,22,Female,Mumbai,2025-10-22,2025-11-07,1,5938,5938.0,Home & Kitchen,Website,At Risk
+CUST1831,47,Male,Hyderabad,2025-10-22,2025-10-22,1,2205,2205.0,Books,Referral,At Risk
+CUST1832,24,Male,Mumbai,2025-10-23,2026-03-09,1,10480,10480.0,Home & Kitchen,Social Media,At Risk
+CUST1833,23,Female,Hyderabad,2025-10-23,2026-04-16,4,2917,729.25,Beauty & Personal Care,Social Media,At Risk
+CUST1834,18,Male,Kolkata,2025-10-24,2026-08-10,1,2727,2727.0,Home & Kitchen,Website,Active
+CUST1835,31,Male,Lucknow,2025-10-24,2026-04-03,5,6832,1366.4,Accessories,Organic Search,At Risk
+CUST1836,29,Male,Ahmedabad,2025-10-24,2025-11-09,1,2343,2343.0,Clothing,Paid Ads,At Risk
+CUST1837,38,Male,Delhi,2025-10-25,2026-03-24,16,76562,4785.12,Home & Kitchen,Email Campaign,At Risk
+CUST1838,28,Female,Bhubaneswar,2025-10-25,2025-10-31,1,775,775.0,Beauty & Personal Care,Paid Ads,At Risk
+CUST1839,32,Male,Surat,2025-10-26,2026-02-25,2,11154,5577.0,Electronics,Social Media,At Risk
+CUST1840,31,Male,Indore,2025-10-26,2025-11-21,1,2426,2426.0,Home & Kitchen,Referral,At Risk
+CUST1841,32,Female,Mumbai,2025-10-26,2026-04-03,3,32729,10909.67,Electronics,Organic Search,At Risk
+CUST1842,29,Male,Mumbai,2025-10-26,2026-09-12,2,23369,11684.5,Electronics,Website,Active
+CUST1843,26,Female,Pune,2025-10-26,2026-07-29,9,5981,664.56,Accessories,Social Media,Active
+CUST1844,34,Female,Hyderabad,2025-10-28,2026-06-17,2,7487,3743.5,Sports & Fitness,Social Media,Active
+CUST1845,41,Male,Mumbai,2025-10-28,2025-10-30,1,10969,10969.0,Home & Kitchen,Website,At Risk
+CUST1846,50,Female,Ranchi,2025-10-28,2026-01-10,2,5234,2617.0,Beauty & Personal Care,Email Campaign,At Risk
+CUST1847,23,Male,Guwahati,2025-10-29,2026-08-17,2,2169,1084.5,Grocery,Social Media,Active
+CUST1848,24,Male,Hyderabad,2025-10-29,2026-07-27,5,7905,1581.0,Beauty & Personal Care,Email Campaign,Active
+CUST1849,31,Male,Visakhapatnam,2025-10-29,2026-06-11,4,2939,734.75,Grocery,Website,Active
+CUST1850,39,Male,Indore,2025-10-29,2026-08-27,2,19703,9851.5,Sports & Fitness,Referral,Active
+CUST1851,34,Male,Mumbai,2025-10-30,2026-07-08,3,4152,1384.0,Sports & Fitness,Paid Ads,Active
+CUST1852,27,Male,Ranchi,2025-10-30,2026-07-24,7,16818,2402.57,Accessories,Email Campaign,Active
+CUST1853,52,Male,Delhi,2025-10-31,2025-11-15,1,1399,1399.0,Accessories,Paid Ads,At Risk
+CUST1854,57,Male,Bengaluru,2025-10-31,2025-11-14,1,1123,1123.0,Books,Store,At Risk
+CUST1855,29,Male,Lucknow,2025-10-31,2026-06-08,4,4791,1197.75,Accessories,Social Media,Active
+CUST1856,25,Female,Kolkata,2025-10-31,2026-06-26,2,32337,16168.5,Sports & Fitness,Paid Ads,Active
+CUST1857,23,Female,Surat,2025-10-31,2026-04-02,3,3406,1135.33,Accessories,Website,At Risk
+CUST1858,21,Female,Patna,2025-10-31,2026-06-01,2,4941,2470.5,Clothing,Organic Search,Active
+CUST1859,49,Female,Ranchi,2025-11-01,2026-07-21,4,3627,906.75,Beauty & Personal Care,Organic Search,Active
+CUST1860,57,Female,Nagpur,2025-11-01,2026-05-15,1,7120,7120.0,Home & Kitchen,Organic Search,Active
+CUST1861,47,Male,Delhi,2025-11-02,2025-11-04,1,11244,11244.0,Electronics,Paid Ads,At Risk
+CUST1862,19,Female,Bengaluru,2025-11-02,2026-04-06,2,15092,7546.0,Home & Kitchen,Website,Active
+CUST1863,25,Male,Bengaluru,2025-11-03,2025-11-08,1,3660,3660.0,Sports & Fitness,Organic Search,At Risk
+CUST1864,36,Female,Kolkata,2025-11-04,2025-11-04,1,3534,3534.0,Beauty & Personal Care,Organic Search,At Risk
+CUST1865,22,Female,Ahmedabad,2025-11-04,2025-11-29,1,817,817.0,Sports & Fitness,Social Media,Churned
+CUST1866,35,Male,Kolkata,2025-11-05,2026-07-30,1,1596,1596.0,Home & Kitchen,Organic Search,Active
+CUST1867,32,Male,Delhi,2025-11-05,2026-06-29,3,4849,1616.33,Sports & Fitness,Website,Active
+CUST1868,36,Female,Bengaluru,2025-11-06,2026-04-23,2,3632,1816.0,Beauty & Personal Care,Paid Ads,Active
+CUST1869,60,Female,Mumbai,2025-11-06,2025-11-07,1,13390,13390.0,Home & Kitchen,Store,At Risk
+CUST1870,24,Male,Bhubaneswar,2025-11-07,2025-12-20,4,4869,1217.25,Electronics,Website,At Risk
+CUST1871,37,Male,Chennai,2025-11-07,2026-03-30,6,20069,3344.83,Accessories,Website,At Risk
+CUST1872,48,Female,Chennai,2025-11-07,2026-03-10,5,21853,4370.6,Beauty & Personal Care,Referral,At Risk
+CUST1873,26,Male,Pune,2025-11-08,2026-01-05,3,2219,739.67,Grocery,Paid Ads,At Risk
+CUST1874,18,Female,Hyderabad,2025-11-08,2025-11-30,1,2784,2784.0,Clothing,Website,Churned
+CUST1875,34,Male,Pune,2025-11-08,2025-11-09,1,27954,27954.0,Electronics,Organic Search,At Risk
+CUST1876,44,Male,Pune,2025-11-08,2026-08-17,2,1174,587.0,Grocery,Website,Active
+CUST1877,33,Female,Mumbai,2025-11-09,2025-11-10,1,742,742.0,Books,Paid Ads,At Risk
+CUST1878,26,Female,Mumbai,2025-11-09,2026-08-27,5,6093,1218.6,Grocery,Store,Active
+CUST1879,26,Male,Bengaluru,2025-11-09,2025-12-09,1,1336,1336.0,Accessories,Organic Search,At Risk
+CUST1880,41,Male,Indore,2025-11-09,2026-03-08,6,13896,2316.0,Home & Kitchen,Email Campaign,At Risk
+CUST1881,53,Male,Visakhapatnam,2025-11-09,2025-11-18,1,22107,22107.0,Electronics,Store,Churned
+CUST1882,44,Male,Nagpur,2025-11-10,2026-09-12,3,1874,624.67,Clothing,Paid Ads,Active
+CUST1883,37,Male,Ranchi,2025-11-11,2025-11-16,1,2560,2560.0,Home & Kitchen,Email Campaign,At Risk
+CUST1884,36,Male,Mumbai,2025-11-11,2025-11-27,1,5017,5017.0,Clothing,Website,At Risk
+CUST1885,31,Female,Mumbai,2025-11-11,2026-08-07,2,2248,1124.0,Beauty & Personal Care,Social Media,Active
+CUST1886,33,Male,Bengaluru,2025-11-11,2026-06-30,2,13798,6899.0,Home & Kitchen,Organic Search,Active
+CUST1887,31,Other,Lucknow,2025-11-11,2026-07-13,2,3003,1501.5,Beauty & Personal Care,Email Campaign,Active
+CUST1888,18,Male,Kolkata,2025-11-12,2026-06-03,2,4371,2185.5,Clothing,Website,At Risk
+CUST1889,57,Male,Jaipur,2025-11-13,2026-06-11,3,13309,4436.33,Clothing,Email Campaign,Active
+CUST1890,36,Female,Bengaluru,2025-11-14,2025-11-21,1,3097,3097.0,Home & Kitchen,Website,At Risk
+CUST1891,30,Female,Mumbai,2025-11-14,2026-04-13,2,3401,1700.5,Grocery,Paid Ads,Active
+CUST1892,26,Male,Indore,2025-11-14,2026-06-06,7,14227,2032.43,Clothing,Email Campaign,Active
+CUST1893,33,Male,Ahmedabad,2025-11-15,2026-07-21,3,22455,7485.0,Electronics,Paid Ads,Active
+CUST1894,33,Female,Kochi,2025-11-15,2026-05-06,1,3072,3072.0,Clothing,Paid Ads,At Risk
+CUST1895,23,Male,Mumbai,2025-11-15,2026-03-22,2,6493,3246.5,Clothing,Organic Search,Active
+CUST1896,61,Female,Bengaluru,2025-11-15,2025-11-16,1,1304,1304.0,Beauty & Personal Care,Organic Search,At Risk
+CUST1897,44,Male,Patna,2025-11-16,2026-06-25,1,698,698.0,Grocery,Social Media,Active
+CUST1898,23,Female,Delhi,2025-11-17,2026-06-20,4,7862,1965.5,Beauty & Personal Care,Paid Ads,Active
+CUST1899,33,Male,Ranchi,2025-11-17,2025-12-23,2,3860,1930.0,Beauty & Personal Care,Email Campaign,At Risk
+CUST1900,32,Female,Bhubaneswar,2025-11-18,2025-12-02,1,5802,5802.0,Home & Kitchen,Paid Ads,At Risk
+CUST1901,29,Male,Pune,2025-11-18,2026-08-12,3,18056,6018.67,Home & Kitchen,Website,Active
+CUST1902,39,Male,Ahmedabad,2025-11-19,2026-03-14,1,1742,1742.0,Beauty & Personal Care,Social Media,At Risk
+CUST1903,29,Male,Indore,2025-11-19,2026-02-22,3,9368,3122.67,Home & Kitchen,Organic Search,At Risk
+CUST1904,31,Female,Bengaluru,2025-11-20,2025-12-14,1,1548,1548.0,Home & Kitchen,Website,At Risk
+CUST1905,22,Female,Kolkata,2025-11-20,2026-03-15,2,12771,6385.5,Home & Kitchen,Website,Active
+CUST1906,52,Female,Jaipur,2025-11-21,2026-07-17,13,17626,1355.85,Beauty & Personal Care,Social Media,Active
+CUST1907,37,Male,Bengaluru,2025-11-21,2026-07-04,4,10704,2676.0,Accessories,Store,Active
+CUST1908,45,Female,Lucknow,2025-11-22,2026-08-11,3,8199,2733.0,Beauty & Personal Care,Website,Active
+CUST1909,44,Female,Nagpur,2025-11-22,2025-12-07,1,3035,3035.0,Clothing,Store,Churned
+CUST1910,42,Male,Pune,2025-11-23,2026-06-22,4,6282,1570.5,Accessories,Organic Search,Active
+CUST1911,40,Female,Chennai,2025-11-23,2025-12-15,1,4081,4081.0,Clothing,Organic Search,At Risk
+CUST1912,32,Male,Kolkata,2025-11-23,2026-09-05,4,57229,14307.25,Electronics,Social Media,Active
+CUST1913,22,Female,Visakhapatnam,2025-11-24,2025-11-26,1,637,637.0,Clothing,Social Media,At Risk
+CUST1914,30,Female,Hyderabad,2025-11-24,2026-06-14,1,4576,4576.0,Home & Kitchen,Organic Search,At Risk
+CUST1915,43,Male,Jaipur,2025-11-24,2025-11-28,1,1092,1092.0,Accessories,Paid Ads,At Risk
+CUST1916,33,Male,Kolkata,2025-11-25,2026-03-13,2,4454,2227.0,Clothing,Social Media,At Risk
+CUST1917,28,Female,Jaipur,2025-11-25,2025-11-28,1,6023,6023.0,Clothing,Store,Churned
+CUST1918,25,Male,Hyderabad,2025-11-25,2025-11-27,1,2389,2389.0,Clothing,Referral,At Risk
+CUST1919,30,Female,Pune,2025-11-25,2026-08-05,4,4324,1081.0,Grocery,Organic Search,Active
+CUST1920,29,Female,Delhi,2025-11-25,2026-08-22,4,14259,3564.75,Home & Kitchen,Store,Active
+CUST1921,23,Female,Mumbai,2025-11-26,2026-06-03,3,15960,5320.0,Home & Kitchen,Paid Ads,Active
+CUST1922,18,Female,Pune,2025-11-26,2026-04-10,3,2251,750.33,Grocery,Email Campaign,Active
+CUST1923,23,Female,Nagpur,2025-11-26,2026-04-19,1,678,678.0,Books,Social Media,At Risk
+CUST1924,34,Female,Delhi,2025-11-27,2026-08-21,1,9857,9857.0,,Paid Ads,Active
+CUST1925,18,Female,Chandigarh,2025-11-28,2025-12-05,1,773,773.0,Clothing,Organic Search,Churned
+CUST1926,23,Female,Mumbai,2025-11-28,2026-06-03,2,2340,1170.0,Beauty & Personal Care,Social Media,Active
+CUST1927,52,Male,Pune,2025-11-29,2026-09-02,2,9205,4602.5,Home & Kitchen,Social Media,Active
+CUST1928,36,Male,Nagpur,2025-11-29,2026-08-19,3,5395,1798.33,Home & Kitchen,Paid Ads,Active
+CUST1929,48,Male,Lucknow,2025-11-29,2026-06-19,1,1371,1371.0,Accessories,Website,Active
+CUST1930,40,Female,Indore,2025-11-29,2026-06-21,2,15132,7566.0,Electronics,Organic Search,Active
+CUST1931,41,Male,Chennai,2025-11-30,2025-12-03,1,1035,1035.0,Grocery,Paid Ads,At Risk
+CUST1932,50,Female,Visakhapatnam,2025-11-30,2026-07-09,2,7852,3926.0,Clothing,Referral,Active
+CUST1933,45,Male,Pune,2025-11-30,2026-09-04,2,19427,9713.5,Electronics,Website,Active
+CUST1934,34,Female,Ahmedabad,2025-12-01,2025-12-05,1,724,724.0,Books,Email Campaign,At Risk
+CUST1935,45,Male,Hyderabad,2025-12-01,2026-08-16,1,5776,5776.0,Clothing,Website,Active
+CUST1936,34,Male,Kochi,2025-12-01,2026-02-24,1,1314,1314.0,Books,Organic Search,At Risk
+CUST1937,29,Male,Kolkata,2025-12-03,2025-12-10,1,3589,3589.0,Clothing,Organic Search,At Risk
+CUST1938,31,Female,Delhi,2025-12-03,2026-02-05,3,2434,811.33,Books,Social Media,At Risk
+CUST1939,44,Male,Kolkata,2025-12-03,2025-12-03,1,3653,3653.0,Clothing,Organic Search,At Risk
+CUST1940,21,Female,Pune,2025-12-03,2026-05-29,2,20188,10094.0,Electronics,Website,Active
+CUST1941,48,Male,Chandigarh,2025-12-05,2026-08-05,2,18628,9314.0,Electronics,Website,Active
+CUST1942,29,Male,Pune,2025-12-05,2026-08-29,3,8814,2938.0,Beauty & Personal Care,Store,Active
+CUST1943,50,Male,Mumbai,2025-12-05,2026-05-31,1,2335,2335.0,Beauty & Personal Care,Website,Active
+CUST1944,28,Male,Surat,2025-12-06,2026-01-05,2,1832,916.0,Accessories,Website,At Risk
+CUST1945,33,Male,Chennai,2025-12-06,2026-08-08,3,5297,1765.67,Sports & Fitness,Social Media,Active
+CUST1946,33,Female,Hyderabad,2025-12-06,2026-05-03,3,7511,2503.67,Home & Kitchen,Website,Active
+CUST1947,35,Female,Pune,2025-12-08,2026-03-20,6,91242,15207.0,Electronics,Social Media,Active
+CUST1948,28,Female,Bhubaneswar ,2025-12-10,2026-09-03,2,7223,3611.5,Beauty & Personal Care,Email Campaign,Active
+CUST1949,22,Female,Hyderabad,2025-12-11,2026-04-07,3,3288,1096.0,Beauty & Personal Care,Organic Search,At Risk
+CUST1950,26,Male,Kolkata,2025-12-11,2026-06-18,3,37743,12581.0,Electronics,Website,Active
+CUST1951,23,Male,Nagpur,2025-12-11,2026-05-05,2,4064,2032.0,Home & Kitchen,Social Media,Active
+CUST1952,19,Female,Mumbai,2025-12-11,2026-03-11,3,8768,2922.67,Sports & Fitness,Email Campaign,At Risk
+CUST1953,36,Male,Hyderabad,2025-12-12,2025-12-16,1,8254,8254.0,Electronics,Organic Search,At Risk
+CUST1954,40,Female,Bengaluru,2025-12-12,2025-12-17,1,3249,3249.0,Grocery,Website,Churned
+CUST1955,18,Female,Chennai,2025-12-13,2026-06-28,1,6171,6171.0,Clothing,Organic Search,Active
+CUST1956,22,Male,Mumbai,2025-12-14,2025-12-22,1,3723,3723.0,Sports & Fitness,Email Campaign,Churned
+CUST1957,52,Male,Lucknow,2025-12-14,2025-12-30,1,919,919.0,Grocery,Website,At Risk
+CUST1958,49,Female,Ahmedabad,2025-12-14,2025-12-24,1,2181,2181.0,Clothing,Organic Search,At Risk
+CUST1959,43,Female,Kolkata,2025-12-14,2025-12-15,1,1994,1994.0,Beauty & Personal Care,Organic Search,At Risk
+CUST1960,24,Female,Kolkata,2025-12-15,2026-09-08,2,7730,3865.0,Sports & Fitness,Organic Search,Active
+CUST1961,18,Female,Kolkata,2025-12-15,2026-04-08,2,36589,18294.5,Electronics,Website,Active
+CUST1962,18,Male,Pune,2025-12-15,2026-08-05,2,8217,4108.5,Home & Kitchen,Organic Search,Active
+CUST1963,34,Male,Chandigarh,2025-12-15,2026-07-31,5,16460,3292.0,Home & Kitchen,Email Campaign,Active
+CUST1964,20,Male,Pune,2025-12-17,2026-08-23,5,76978,15395.6,Electronics,Store,Active
+CUST1965,44,Male,Surat,2025-12-17,2025-12-20,1,3328,3328.0,Sports & Fitness,Organic Search,Churned
+CUST1966,32,Female,Ahmedabad,2025-12-17,2026-03-07,3,8453,2817.67,Home & Kitchen,Store,At Risk
+CUST1967,38,Female,Bengaluru,2025-12-17,2026-06-19,2,2119,1059.5,Accessories,Social Media,Active
+CUST1968,37,Female,Bengaluru,2025-12-18,2026-07-24,3,26108,8702.67,Home & Kitchen,Paid Ads,Active
+CUST1969,41,Male,Patna,2025-12-19,2026-07-14,4,43568,10892.0,Electronics,Organic Search,Active
+CUST1970,33,Male,Patna,2025-12-19,2026-07-25,5,10481,2096.2,Clothing,Social Media,Active
+CUST1971,35,Female,Jaipur,2025-12-20,2026-06-27,4,3768,942.0,Beauty & Personal Care,Referral,Active
+CUST1972,18,Male,Pune,2025-12-21,2026-06-03,4,13112,3278.0,Clothing,Website,Active
+CUST1973,22,Male,Ahmedabad,2025-12-21,2025-12-21,1,2736,2736.0,Clothing,Paid Ads,At Risk
+CUST1974,60,Male,Mumbai,2025-12-22,2026-06-10,2,5163,2581.5,Clothing,Website,At Risk
+CUST1975,33,Female,Mumbai,2025-12-23,2026-07-27,3,33050,11016.67,Home & Kitchen,Store,Active
+CUST1976,28,Male,Delhi,2025-12-23,2026-03-04,1,4520,4520.0,Clothing,Organic Search,At Risk
+CUST1977,25,Male,Mumbai,2025-12-23,2026-01-16,1,1664,1664.0,Home & Kitchen,Email Campaign,At Risk
+CUST1978,38,Female,Ahmedabad,2025-12-23,2026-07-22,2,11183,5591.5,Electronics,Email Campaign,Active
+CUST1979,34,Female,Hyderabad,2025-12-23,2025-12-28,1,1893,1893.0,Clothing,Website,At Risk
+CUST1980,28,Male,Chennai,2025-12-24,2025-12-24,1,3094,3094.0,Sports & Fitness,Website,At Risk
+CUST1981,49,Female,Bengaluru,2025-12-24,2026-08-14,2,11466,5733.0,Home & Kitchen,Store,Active
+CUST1982,29,Male,Bengaluru,2025-12-25,2026-06-11,2,3391,1695.5,Grocery,Website,Active
+CUST1983,26,Female,Bengaluru,2025-12-25,2026-01-02,1,3831,3831.0,Home & Kitchen,Social Media,At Risk
+CUST1984,42,Female,Visakhapatnam,2025-12-26,2025-12-30,1,699,699.0,Books,Paid Ads,At Risk
+CUST1985,24,Male,Hyderabad,2025-12-26,2026-03-18,2,3032,1516.0,Grocery,Store,At Risk
+CUST1986,26,Male,Chennai,2025-12-26,2026-01-05,1,2116,2116.0,Beauty & Personal Care,Website,At Risk
+CUST1987,35,Male,Kolkata,2025-12-27,2026-08-20,3,7840,2613.33,Clothing, Email Campaign,Active
+CUST1988,46,Male,Ahmedabad,2025-12-27,2026-08-29,2,12951,6475.5,Home & Kitchen,Store,Active
+CUST1989,28,Female,Chennai,2025-12-28,2026-03-13,2,2020,1010.0,Books,Social Media,At Risk
+CUST1990,18,Male,Kolkata,2025-12-29,2026-09-14,3,4052,1350.67,Beauty & Personal Care,Social Media,Active
+CUST1991,42,Male,Kochi,2025-12-30,2026-05-12,1,1166,1166.0,Beauty & Personal Care,Social Media,At Risk
+CUST1992,32,Female,Delhi,2025-12-30,2026-05-25,2,8519,4259.5,Home & Kitchen,Social Media,Active
+CUST1993,40,Male,Ahmedabad,2025-12-30,2026-03-24,3,1813,604.33,Grocery,Paid Ads,Active
+CUST1994,36,Male,Chennai,2025-12-30,2026-06-08,3,4980,1660.0,Beauty & Personal Care,Website,Active
+CUST1995,43,Female,Visakhapatnam,2025-12-30,2026-05-22,5,4543,908.6,Accessories,Website,Active
+CUST1996,33,Male,Guwahati,2025-12-30,2025-12-30,1,2895,2895.0,Clothing,Social Media,At Risk
+CUST1997,18,Male,Chandigarh,2025-12-31,2026-07-10,2,7893,3946.5,Sports & Fitness,Store,Active
+CUST1998,31,Female,Mumbai,2025-12-31,2026-09-06,2,26599,13299.5,Electronics,Referral,Active
+CUST1999,45,Male,Jaipur,2025-12-31,2026-08-26,3,5182,1727.33,Clothing,Organic Search,Active
+CUST2000,47,Male,Indore,2025-12-31,2026-08-03,2,21691,10845.5, Electronics,Website,Active
